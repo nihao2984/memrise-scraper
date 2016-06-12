@@ -1,6 +1,6 @@
 # Memrise scraper
 
-* Get the session cookie off the `memrise.com` after having logged in
+* Get the session cookie off `memrise.com` after having logged in
 * Put the session cookie in `memrise_database_spider.py`
 * Put the number of databases pages in `memrise_database_spider.py`
 
