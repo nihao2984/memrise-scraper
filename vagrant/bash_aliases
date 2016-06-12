@@ -1,0 +1,4 @@
+alias l='ls -l --sort=extension'
+alias prune='git fetch --prune origin'
+alias c='clear'
+alias pep8='pep8 --ignore=E501,E731,E402'
