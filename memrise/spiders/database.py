@@ -1,27 +1,26 @@
 import scrapy
 
-page_count = 51
-sessionid = 'top-secret'
+from memrise.items import DatabaseItem
 
 
 class MemriseDatabaseSpider(scrapy.Spider):
-    name = 'Memrise database spider'
+    name = 'database'
 
     def start_requests(self):
         return [scrapy.Request(
             url='http://www.memrise.com/course/1049040/mikes-polish-vocabulary/edit/database/2014145/?page={}'.format(page),
             cookies={
-                'sessionid': sessionid,
+                'sessionid': self.settings.get('MEMRISE_SESSION_ID'),
             },
             callback=self.process_page
-        ) for page in range(1, page_count + 1)]
+        ) for page in range(1, self.settings.getint('MEMRISE_PAGE_COUNT') + 1)]
 
     def process_page(self, response):
         f = lambda t, i: t.css('td:nth-child({}) div.text::text'.format(i)).extract()
         for thing in response.css('tr.thing'):
-            yield {
-                'polish': f(thing, 2),
-                'english': f(thing, 3),
-                'example': f(thing, 4),
-                'type': f(thing, 5),
-            }
+            item = DatabaseItem()
+            item['polish'] = f(thing, 2)
+            item['english'] = f(thing, 3)
+            item['example'] = f(thing, 4)
+            item['grammatical_type'] = f(thing, 5)
+            yield item
