@@ -6,7 +6,7 @@ ITEM_PIPELINES = {
     'memrise.pipelines.CSVPipeline': 100,
 }
 
-MEMRISE_PAGE_COUNT = 60
+MEMRISE_PAGE_COUNT = 62
 
 MEMRISE_LEVEL_COUNT = 9
 
