@@ -280,7 +280,7 @@ kojarzyć się,to be associated/reminded (repeated),To kojarzy mi się z czymś,
 kolej,railway/railroad,Nie ma kolei,f noun
 kolejność,sequence/order,,f noun
 komisariat,police station,Nie ma komisariatu,m noun
-konflikowy,confrontational,,adjective
+konfliktowy,confrontational,,adjective
 konieczność,necessity,,f noun
 konkurencja,competition,,f noun
 konkurs,contest/competition,,m noun
@@ -324,8 +324,10 @@ marny,weak/feeble/flimsy,,adjective
 marzec,March,,m noun
 mianownik (kto? co?),nominative case,,m noun
 miejscownik (o kim? o czym?),locative case,,m noun
+miejski,municipal/urban,,adjective
 miesiąc,month,,m noun
 mieszać,to mix (repeated),Mieszamy zupę,verb
+mieszkaniec,occupant/inhabitant,,m noun
 mijać,to pass (repeated),,verb
 mikstura,potion,,f noun
 milknąć,to fall silent (repeated),,verb
@@ -338,13 +340,51 @@ mniejszość,minority,,f noun
 mnogi,plural,,adjective
 mnóstwo,plenty (of something),,n noun
 modlitwa,prayer,,f noun
+mogli,They were able to (m),,conjugation
+mogliście,You (plural) were able to (m),,conjugation
+mogliśmy,We were able to (m),,conjugation
+mogą,They can,,conjugation
+mogę,I can,,conjugation
+mogła,She was able to,,conjugation
+mogłam,I was able to (f),,conjugation
+mogłaś,You were able to (f),,conjugation
+mogłem,I was able to (m),,conjugation
+mogłeś,You were able to (m),,conjugation
+mogło,It was able to,,conjugation
+mogły,They were able to (f),,conjugation
+mogłyście,You (plural) were able to (f),,conjugation
+mogłyśmy,We were able to (f),,conjugation
 mowa,speech,,f noun
 mozolny,arduous/laborious,,adjective
-możliwośc,possibility,,f noun
+może,He/she/it can,,conjugation
+możecie,You (plural) can,,conjugation
+możemy,We can,,conjugation
+możesz,You can,,conjugation
+możliwość,possibility,,f noun
 mroźny,frozen,,adjective
 mróz,frost,Nie ma mrozu,m noun
 mur,wall,Upadek muru Berlińskiego,m noun
+musi,He/she/it must,,conjugation
+musiał,He had to,,conjugation
+musiała,She had to,,conjugation
+musiałam,I had to (f),,conjugation
+musiałaś,You had to (f),,conjugation
+musiałem,I had to (m),,conjugation
+musiałeś,You had to (m),,conjugation
+musiało,It had to,,conjugation
+musiały,They had to (f),,conjugation
+musiałyście,You (plural) had to (f),,conjugation
+musiałyśmy,We had to (m),,conjugation
+musicie,You (plural) must,,conjugation
+musieli,They had to (m),,conjugation
+musieliście,You (plural) had to (m),,conjugation
+musieliśmy,We had to (m),,conjugation
+musimy,We must,,conjugation
+musisz,You must,,conjugation
+muszą,They must,,conjugation
+muszę,I must,,conjugation
 mylny,mistaken/erroneous/wrong,,adjective
+mógł,He was able to,,conjugation
 mówienie,speaking,,n noun
 mózg,brain,Nie ma mózgu,m noun
 męczący,tiresome/tiring,,adjective
@@ -380,6 +420,7 @@ nawias,bracket,Nie ma nawiasu,m noun
 negocjować,to negotiate (repeated),,verb
 niebywały,exceptional,,adjective
 nieco,somewhat,,adverb
+niedawny,recent,Od niedawna (Until recently),adjective
 niedoświadczony,inexperienced,,adjective
 niemal,almost/nearly,Jestem niemal pewny,adverb
 nienawiść,hatred,,f noun
@@ -576,6 +617,19 @@ potrafić,"to know how, to be able",,verb
 poważny,serious,,adjective
 powierzchnia,surface/area,,f noun
 powietrze,fresh/open air,,n noun
+powinien,He should,,conjugation
+powinienem,I should (m),,conjugation
+powinieneś,You should (m),,conjugation
+powinna,She should,,conjugation
+powinnam,I should (f),,conjugation
+powinnaś,You should (f),,conjugation
+powinni,They should (m),,conjugation
+powinniście,You (plural) should (m),,conjugation
+powinniśmy,We should (m),,conjugation
+powinno,It should,,conjugation
+powinny,They should (f),,conjugation
+powinnyście,You (plural) should (f),,conjugation
+powinnyśmy,We should (f),,conjugation
 powodować,to cause (repeated),,verb
 powrót,return,,m noun
 powstanie,creation,,n noun
@@ -585,6 +639,7 @@ powszechny,prevailing/prevalent/common,,adjective
 powtarzać,to repeat/revise/review (repeated),,verb
 powtórzyć,to repeat/revise/review (once),,perf verb
 powyższy,preceeding/above,Proszę znaleźć w powyższym zadaniu,adjective
+powód,reason,Nie ma powodu,m noun
 poza tym,anyway/besides,,adverb
 pozaziemski,"alien (as in, extra-terrestrial)",Istota pozaziemska,adjective
 pozbawiony,lacking,,adjective
@@ -680,6 +735,7 @@ przyprowadzać,to bring (repeated),,verb
 przyprowadzić,to bring (once),,perf verb
 przypuszczać,to suppose/assume,,verb
 przyroda,nature,Kocham przyrodę! (I love nature!),f noun
+przystanek,bus/tram stop,Nie ma przystanku,m noun
 przystosować,to adjust/adapt (once),,perf verb
 przystosowywać,to adjust/adapt (repeated),,verb
 przyszły,coming/future,W przyszłm tygodniu,adjective
@@ -750,13 +806,16 @@ skrawek,scrap/patch,Nie ma strawka,m noun
 skruszony,apologetic/repentant,,adjective
 skrytykować,to criticise (once),,perf verb
 skrzypce,violin,,f pl noun
+skrzyżowanie,junction/crossing/crossroads,,n noun
 skrócić,to shorten (once),,perf verb
+skuteczny,effective,,adjective
 skutek,consequence/result,,m noun
 składnia,syntax,,f noun
 skłamać,to lie (once),,perf verb
 smarować,to spread/rub/grease/smear (repeated),,verb
 smażyć,to fry (repeated),,verb
 smutek,sorrow,,m noun
+sonda,opinion poll,,f noun
 spadać,to fall/drop (repeated),,verb
 spaść,to fall/drop (once),,perf verb
 spełniać,to fulfil or carry out (repeated),,verb
@@ -1026,6 +1085,7 @@ wyraz,word,,m noun
 wyrazić,to express (once),,perf verb
 wyrażanie,expressing,,n noun
 wyrażać,to express (repeated),,verb
+wysiłek,effort,Nie ma wysiłku,m noun
 wysokość,height,,f noun
 wystawa,exhibition/show,,f noun
 wysyłać,to send (repeated),,verb

@@ -8,7 +8,7 @@ class MemriseLevelsSpider(scrapy.Spider):
 
     def start_requests(self):
         return [scrapy.Request(
-            url='http://www.memrise.com/course/1049040/mikes-polish-vocabulary/{}/'.format(level),
+            url='http://www.memrise.com/course/1049040/mikes-polish-course/{}/'.format(level),
             callback=self.process_level
         ) for level in range(1, self.settings.getint('MEMRISE_LEVEL_COUNT') + 1)]
 
