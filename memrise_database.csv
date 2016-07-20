@@ -106,6 +106,7 @@ aspekt dokonany,perfective aspect,,linguistic
 aspekt niedokonany,imperfective aspect,,linguistic
 autorytet,authority,,m noun
 awans,promotion,Nie ma awansu,m noun
+badacz,researcher,Nie ma badacza,m noun
 badanie,study/test/research,,n noun
 badać,to research/investigate (repeated),,verb
 bać się,"to be scared, to fear",,verb
@@ -113,6 +114,7 @@ bezinteresowny,selfless/unselfish,,adjective
 bezokolicznik,infinitive,,linguistic
 bezowocny,fruitless,,adjective
 bezpieczeństwo,security/safety,,n noun
+bezpieczny,safe,,adjective
 bezrobocie,unemployment,,n noun
 bezwzględny,ruthless,,adjective
 bieganie,running,,n noun
@@ -185,6 +187,7 @@ dodawać,to add (repeated),,verb
 dodać,to add (once),,perf verb
 dojrzałość,ripeness/maturity,,f noun
 dokuczliwy,troublesome/biting/gnawing/nagging,,adjective
+dokładność,precision/accuracy,,f noun
 domniemany,alleged/supposed,,adjective
 dopasować,to fit/match (once),,perf verb
 dopasowywać,to fit/match (repeated),,verb
@@ -218,6 +221,8 @@ drewniany,wooden,,adjective
 drukować,to print (repeated),,verb
 drużyna,team/squad,,f noun
 dusza,soul,,f noun
+dwa miliony,two million,,numeral
+dwa tysiące,two thousand,,numeral
 dwieście,two hundred,,numeral
 dyktando,dictation,,n noun
 dym,smoke,,m noun
@@ -338,6 +343,7 @@ mieszać,to mix (repeated),Mieszamy zupę,verb
 mieszkaniec,occupant/inhabitant,,m noun
 mijać,to pass (repeated),,verb
 mikstura,potion,,f noun
+milion,one million,,numeral
 milknąć,to fall silent (repeated),,verb
 mimo to,nevertheless,,phrase
 minąć,to pass (once),,perf verb
@@ -426,6 +432,7 @@ nauczyć się,to learn (once),,perf verb
 nauka,science,,f noun
 nawias,bracket,Nie ma nawiasu,m noun
 negocjować,to negotiate (repeated),,verb
+niebezpieczny,dangerous,,adjective
 niebywały,exceptional,,adjective
 nieco,somewhat,,adverb
 niedawny,recent,Od niedawna (Until recently),adjective
@@ -544,6 +551,7 @@ osiągnąć,to succeed (once),"Nie osiągnęliśmy tego, co chcemy osiągnąć",
 osobisty,personal,,adjective
 osobowość,personality,Ale masz wspaniała osobowość!,f noun
 ostatecznie,eventually/ultimately,,adverb
+oszacować,to estimate/assess (once),,perf verb
 osądzić,to think/suppose (once),,perf verb
 oto,here is/are,Oto rezultaty badań (Here are the results of the study),
 otrzymać,to receive/obtain (once),,perf verb
@@ -565,6 +573,8 @@ piekarnik,oven,,m noun
 pieniądze,money,Nie ma pieniędzy,m plural noun
 pierś,chest/breast,,f noun
 pilnować,"to mind, to tend to, to watch over, to look after",Policjant pilnuje porządku,verb
+pięć milionów,five million,,numeral
+pięć tysięcy,five thousand,,numeral
 plama,spot/stain,,f noun
 plamić,to stain/soil (repeated),,verb
 plecy,back,,f pl noun
@@ -582,8 +592,8 @@ podejrzewać,to suspect,Policja podejrzewa trzy osoby,verb
 podeptać,to tread/trample (once),,verb
 podjęcie,undertaking,Przeddzień podjęcia pracy,verbal noun
 podobny,similar,,adjective
-podrażniać,to irritate (repeated),,verb
-podrażnić,to irritate (once),,perf verb
+podrażniać,to physically irritate (repeated),,verb
+podrażnić,to physically irritate (once),,perf verb
 podróżowanie,travelling,,n noun
 podręcznik,textbook,,m noun
 podstawowy,basic,,adjective
@@ -734,6 +744,7 @@ przewiązać,to tie (up) (once),,perf verb
 przewiązywać,to tie (up) (repeated),,verb
 przeżywać,to live through or experience (repeated),,verb
 przeżyć,to live through or experience (once),,perf verb
+przybrany,adoptive/foster,,adjective
 przychodzić,to come/arrive (on foot) (repeated),,verb
 przyczyna,cause/reason,,f noun
 przydatny,useful,,adjective
@@ -750,8 +761,14 @@ przykrywać,to cover (repeated),,verb
 przykryć,to cover (once),,perf verb
 przymiotnik,adjective,,m noun
 przynajmniej,at least,,adverb
+przyniesiesz (przynieść),You will bring (on foot),,conjugation
+przynieś (przynieść),Bring! (on foot) (once),,imperative
 przynieść,to bring (on foot) (once),,perf verb
+przyniosę (przynieść),I will bring (on foot),,conjugation
+przynosisz (przynosić),You are bringing (on foot),,conjugation
 przynosić,to bring (on foot) (repeated),,verb
+przynoszę (przynosić),I am bringing (on foot),,conjugation
+przynoś (przynosić),Bring! (on foot) (repeated),,imperative
 przypadek,"accident (as in, coincidence)",,m noun
 przypominać sobie,to recall/remember (repeated),,verb
 przypomnieć sobie,to recall/remember (once),,perf verb
@@ -774,6 +791,8 @@ prędkość,speed,,f noun
 publicysta,columnist,,m noun
 pudełko,box,,n noun
 pustynia,desert,Jestem na pustyni (I'm in the desert),f noun
+pół miliona,half a million,,numeral
+pół tysiąca,half a thousand,,numeral
 później,later,,adverb
 płynnie,fluently/smoothly,,adverb
 rada,advice,,f noun
@@ -788,6 +807,7 @@ rozbierać,to undress (repeated),,verb
 rozdział,chapter,,m noun
 rozebrać,to undress (once),,perf verb
 rozgarnięty,sharp-witted,,adjective
+rozkazujący,commanding/imperative,,adjective
 rozkosz,pleasure/delight,,f noun
 rozmowa,conversation/dialog/chat,,f noun
 rozpoznawać,to recognize/identify/diagnose (repeated),,verb
@@ -884,6 +904,7 @@ stypendium,bursary/grant,,n noun
 stąd,from here,,adverb
 sylwetka,silhouette,,f noun
 syty,satiated,,adjective
+szacować,to estimate/assess (repeated),,verb
 szacunek,respect,"Pamiętaj, szacunek to wszystko!",m noun
 szanowny,honourable,,adjective
 szczególnie,particularly/especially,,adverb
@@ -920,9 +941,11 @@ troszczyć się,"to care for, to take care of (repeated)",,verb
 trud,difficulty,Nie ma trudu,m noun
 trwać,to last/persist,,verb
 trzysta,three hundred,,numeral
+tuż,nearby/just,Tuż przed/po czymś,adverb
 tworzyć,to create (repeated),,verb
 tydzień,week,,m noun
 tyle,so many/much,Nawet nie tyle (Not even that much),adverb
+tysiąc,one thousand,,numeral
 tęsknota,a longing,,f noun
 tłusty,fat,,adjective
 ubezpieczenie,insurance,,n noun
@@ -1183,7 +1206,13 @@ zadziwiający,surprising,,adjective
 zaimek,pronoun,,m noun
 zaimek dzierżawczy,possessive pronoun,,linguistic
 zaimek wskazujący,demonstrative pronoun,,linguistic
+zajmiesz (zająć),You will capture/occupy/seize,,conjugation
+zajmij (zająć),Capture/occupy/seize! (once),,imperative
 zajmować,to capture/occupy/seize (repeated),,verb
+zajmuj (zajmować),Capture/occupy/seize! (repeated),,imperative
+zajmujesz (zajmować),You are capturing/occupying/seizing,,conjugation
+zajmuję (zajmować),I am capturing/occupying/seizing,,conjugation
+zajmę (zająć),I will capture/occupy/seize,,conjugation
 zająć,to capture/occupy/seize (once),,perf verb
 zajęcie,occupation/classes,Mam dużo zajęć,n noun
 zakaz,ban,Nie ma zakazu,m noun
@@ -1320,6 +1349,7 @@ zyskać,to gain/win/profit (once),,perf verb
 zyskiwać,to gain/win/profit (repeated),,verb
 złamać,to break (once),,perf verb
 złość,anger,,f noun
+złożony,complex/compound,,adjective
 ćwiczyć,to exercise (repeated),,verb
 łamać,to break (repeated),,verb
 ławka,bench,,f noun
