@@ -279,7 +279,7 @@ głuchy,deaf,,adjective
 handel,trade/retail,,m noun
 hipoteza,hypothesis,,f noun
 imiesłów,participle,,m noun
-inaczej,differently,,adverb
+inaczej,otherwise/differently,,adverb
 istnieć,to exist,Zawsze istnieją rozwiązania (There's always a solution),verb
 istota,creature,,f noun
 istotny,significant,,adjective
@@ -303,6 +303,7 @@ kojarzyć się,to be associated/reminded (repeated),To kojarzy mi się z czymś,
 kojący,soothing,,adjective
 kolej,railway/railroad,Nie ma kolei,f noun
 kolejność,sequence/order,,f noun
+kolejny,consecutive/subsequent,,adjective
 komisariat,police station,Nie ma komisariatu,m noun
 konfliktowy,confrontational,,adjective
 konieczność,necessity,,f noun
@@ -428,10 +429,14 @@ nagroda,prize,,f noun
 należeć,to belong,Nie należę do nikogo,verb
 napełniać,to fill (e.g. with liquid) (repeated),,verb
 napełnić,to fill (e.g. with liquid) (once),,perf verb
-napędzaj (napędzać),Drive/propel!,,imperative
+napędzaj (napędzać),Drive/propel! (repeated),,imperative
 napędzam (napędzać),I am driving/propelling,,conjugation
-napędzasz (napędzać),You are driving/propelling,conjugation,conjugation
-napędzać,to drive/propel,,verb
+napędzasz (napędzać),You are driving/propelling,,conjugation
+napędzać,to drive/propel (repeated),,verb
+napędzisz (napędzić),You will drive/propel,,conjugation
+napędzić,to drive/propel (once),,perf verb
+napędzę (napędzić),I will drive/propel,,conjugation
+napędź (napędzić),Drive/propel! (once),,imperative
 narkoza,anaesthesia,,f noun
 narodowy,national,,adjective
 narzędnik (z kim? z czym?),instrumental case,,m noun
@@ -452,7 +457,7 @@ następujesz (następować),You are following/proceeding,,conjugation
 następujący,following/succeeding,,adjective
 następuję (następować),I am following/proceeding,,conjugation
 natomiast,whereas,"Nie lubię go, natomiast lubię jego żoną",adverb
-nauczanie,teaching,,verbal noun
+nauczanie,teaching,,n noun
 nauczyć się,to learn (once),,perf verb
 nauka,science,,f noun
 nawias,bracket,Nie ma nawiasu,m noun
@@ -555,6 +560,7 @@ odwiedzać,to visit (repeated),,verb
 odwiedzić,to visit (once),,perf verb
 odwołać,to cancel/withdraw (once),,perf verb
 odwoływać,to cancel/withdraw (repeated),,verb
+odzieżowy,clothes/clothing,,adjective
 odżywiać,to feed/nourish (repeated),,verb
 odżywić,to feed/nourish (once),,perf verb
 ofiara,victim,,f noun
@@ -627,7 +633,7 @@ początkowo,initially,,adverb
 podatek,tax,,m noun
 podejrzewać,to suspect,Policja podejrzewa trzy osoby,verb
 podeptać,to tread/trample (once),,verb
-podjęcie,undertaking,Przeddzień podjęcia pracy,verbal noun
+podjęcie,undertaking,Przeddzień podjęcia pracy,n noun
 podobieństwo,similarity,,n noun
 podobny,similar,,adjective
 podrażniać,to physically irritate (repeated),,verb
@@ -657,6 +663,7 @@ pokój,room/peace,,m noun
 policzyć,to count (once),,perf verb
 pomaganie,helping,,n noun
 pomyłka,error/mistake,,f noun
+ponadto,furthermore,,adverb
 ponawiać,to repeat/recur (repeated),,verb
 ponieważ,so/therefore,Śpię ponieważ dziś nie pracuję,conjunction
 poniższy,following/below,Proszę przeczytać poniższy tekst,adjective
@@ -726,6 +733,7 @@ pozwalać,to allow (repeated),Pozwalają dzieciom pić kawę (They allow childre
 pozwolenie,permit,,n noun
 pozwolić,to allow (once),,perf verb
 połowa,half/middle,,f noun
+południe,south,Na południu (Southwards),n noun
 połączyć,to connect/combine (once),,perf verb
 pośpieszny,hasty,,adverb
 poświęcać,to sacrifice (repeated),,verb
@@ -765,6 +773,7 @@ przekonanie,belief/conviction,,n noun
 przekonać,to convince (once),,perf verb
 przekonywać,to convince (repeated),,verb
 przemoc,violence,,f noun
+przemysł,industry,,m noun
 przeplatać,to intersperse/intermingle (repeated),"Idzie kwiecień i przeplata, trochę zimy, trochę lata",verb
 przeprowadzać,to perform/conduct (repeated),,verb
 przeprowadzać się,to relocate oneself (repeated),,verb
@@ -791,7 +800,7 @@ przybrany,adoptive/foster,,adjective
 przychodzić,to come/arrive (on foot) (repeated),,verb
 przyczyna,cause/reason,,f noun
 przydatny,useful,,adjective
-przygotowanie,preparation,,verbal noun
+przygotowanie,preparation,,n noun
 przygotowany,prepared,,adjective
 przygotować,to prepare (once),,perf verb
 przygotowywać,to prepare (repeated),,verb
@@ -851,6 +860,7 @@ pójdę (pójść),I will go,,conjugation
 pójdź (pójść),Go! (once),,imperative
 pół miliona,half a million,,numeral
 pół tysiąca,half a thousand,,numeral
+północ,north,Na północy (Northwards),f noun
 później,later,,adverb
 płeć,sex,Nie ma płci,f noun
 płynnie,fluently/smoothly,,adverb
@@ -911,7 +921,7 @@ sierociniec,orphanage,Nie ma sierocińca,m noun
 sierpień,August,,m noun
 skała,rock,,f noun
 skierowany,aimed/directed,,adjective
-skojarzenie,association,,verbal noun
+skojarzenie,association,,n noun
 skojarzyć się,to be associated/reminded (once),,perf verb
 skracać,to shorten (repeated),,verb
 skrawek,scrap/patch,Nie ma strawka,m noun
@@ -941,6 +951,7 @@ spowodować,to cause (once),,perf verb
 społeczeństwo,society,,n noun
 społeczny,social/societal,,adjective
 spośród,from among,,preposition
+spożywczy,food/grocery,,adjective
 spragniony,thirsty,,adjective
 sprawdzać,to check/verify/confirm (repeated),,verb
 sprawdzić,to check/verify/confirm (once),,perf verb
@@ -966,6 +977,7 @@ stały,regular/steady/stable/fixed,,adjective
 staż,training/internship,Nie ma stażu,m noun
 stosunek,relation/attitude,W stosunku do czegoś,m noun
 strata,"loss (e.g. of life, time or money)",,f noun
+strefa,zone,,f noun
 stworzyć,to create (once),,perf verb
 styczeń,January,,m noun
 stypendium,bursary/grant,,n noun
@@ -1091,7 +1103,7 @@ uznany,recognized,,adjective
 uzupełniać,to fill out (repeated),,verb
 uzupełnić,to fill out (once),,verb
 ułożyć,to arrange/align (once),,perf verb
-używanie,using (verbal noun),,n noun
+używanie,using,,n noun
 używać,to use (repeated),,verb
 użyć,to use (once),,perf verb
 w ciągu,in the course of,,phrase
@@ -1195,7 +1207,7 @@ wyjście,exit,,n noun
 wyjść,to leave (on foot) (once),,perf verb
 wyjść za mąż,to get married (to a man),,phrase
 wykonać,to carry out or execute (once),,perf verb
-wykonywanie,execution,Czy wykonywanie tej pracy wymaga studiów lub praktyki?,verbal noun
+wykonywanie,execution,Czy wykonywanie tej pracy wymaga studiów lub praktyki?,n noun
 wykonywać,to carry out or execute (repeated),,verb
 wykorzystać,"to make use of, to take advantage of (once)",,perf verb
 wykorzystywać,"to make use of, to take advantage of (repeated)",,verb
@@ -1205,7 +1217,7 @@ wyleczyć,to treat/cure/heal (once),,perf verb
 wylosować,to draw (e.g. a card) (once),,perf verb
 wylądować,to land (once),,perf verb
 wymagający,demanding,,adjective
-wymaganie,requirement/demand,,verbal noun
+wymaganie,requirement/demand,,n noun
 wymagać,to need/require/demand,,verb
 wymawiać,to pronounce/utter (repeated),,verb
 wymyślny,fancy/sophisticated,,adjective
@@ -1261,6 +1273,7 @@ własność,possession/property,,f noun
 właściwie,exactly/actually/basically,,adverb
 właściwy,correct/proper/right/appropriate,,adjective
 włożyć,to put/place (once),,perf verb
+włókienniczy,textile,,adjective
 włączać,to turn on (repeated),,verb
 włączyć,to turn on (once),,perf verb
 z zawodu,by profession,Kim pani jest z zawodu?,phrase
@@ -1411,7 +1424,7 @@ zmniejszać,to decrease (repeated),,verb
 zmniejszyć,to decrease (once),,perf verb
 zmusić się,to force (once),,perf verb
 zmuszać się,to force (repeated),,verb
-znaczenie,meaning/importance/significance,,verbal noun
+znaczenie,meaning/importance/significance,,n noun
 znajdować,to find (repeated),,verb
 znakomity,outstanding/overwhelming,,adjective
 znaleźć,to find (once),,perf verb
@@ -1444,6 +1457,7 @@ złożony,complex/compound,,adjective
 ćwiczyć,to exercise (repeated),,verb
 łamać,to break (repeated),,verb
 ławka,bench,,f noun
+łącznie,including/altogether,,adverb
 łączyć,to connect/combine (repeated),Niektórzy łączą naukę z pracą,verb
 ścierka,cleaning cloth,,f noun
 ścisły,accurate/precise,,adjective
