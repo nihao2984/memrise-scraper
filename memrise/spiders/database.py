@@ -8,7 +8,12 @@ class MemriseDatabaseSpider(scrapy.Spider):
 
     def start_requests(self):
         return [scrapy.Request(
-            url='http://www.memrise.com/course/1049040/mikes-polish-course/edit/database/2014145/?page={}'.format(page),
+            url='http://www.memrise.com/course/{}/{}/edit/database/{}/?page={}'.format(
+                self.settings.get('MEMRISE_COURSE_ID'),
+                self.settings.get('MEMRISE_COURSE_NAME'),
+                self.settings.get('MEMRISE_DATABASE_ID'),
+                page
+            ),
             cookies={
                 'sessionid': self.settings.get('MEMRISE_SESSION_ID'),
             },

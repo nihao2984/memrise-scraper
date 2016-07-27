@@ -1,14 +1,37 @@
 # Memrise scraper
 
-* Get the session cookie off `memrise.com` after having logged in
-* Put the session cookie in `memrise/settings.py`
-* Put the number of databases pages in `memrise/settings.py`
-* Put the number of levels in `memrise/settings.py`
+## General
+
+Specify properties of the course to be crawled in `memrise/settings.py`:
+
+```
+MEMRISE_COURSE_ID   = '1049040'
+MEMRISE_DATABASE_ID = '2014145'
+MEMRISE_COURSE_NAME = 'mikes-polish-course'
+```
+
+Then run:
 
 ```
 vagrant up
 vagrant ssh
 workon py2
-scrapy crawl database
-scrapy crawl levels
+```
+
+## Levels
+
+Specify the number of levels in the course, then run:
+
+```
+scrapy crawl levels -s MEMRISE_LEVEL_COUNT=123
+```
+
+## Database
+
+Specify the session cookie (which can be taken from `memrise.com` while logged in).
+
+Specify the number of database pages (from the database editor in the course), then run:
+
+```
+scrapy crawl database -s MEMRISE_SESSION_ID='top-secret' -s MEMRISE_PAGE_COUNT=123
 ```

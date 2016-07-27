@@ -6,8 +6,8 @@ ITEM_PIPELINES = {
     'memrise.pipelines.CSVPipeline': 100,
 }
 
-MEMRISE_PAGE_COUNT = 74
+MEMRISE_COURSE_ID = '1049040'
 
-MEMRISE_LEVEL_COUNT = 12
+MEMRISE_DATABASE_ID = '2014145'
 
-MEMRISE_SESSION_ID = 'top-secret'
+MEMRISE_COURSE_NAME = 'mikes-polish-course'
