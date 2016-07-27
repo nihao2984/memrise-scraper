@@ -20,10 +20,10 @@ workon py2
 
 ## Levels
 
-Specify the number of levels in the course, then run:
+Specify the levels in the course, then run:
 
 ```
-scrapy crawl levels -s MEMRISE_LEVEL_COUNT=123
+scrapy crawl levels -s MEMRISE_MIN_LEVEL=1 -s MEMRISE_MAX_LEVEL=123
 ```
 
 ## Database

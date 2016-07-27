@@ -14,7 +14,10 @@ class MemriseLevelsSpider(scrapy.Spider):
                 level
             ),
             callback=self.process_level
-        ) for level in range(1, self.settings.getint('MEMRISE_LEVEL_COUNT') + 1)]
+        ) for level in range(
+            self.settings.getint('MEMRISE_MIN_LEVEL'),
+            self.settings.getint('MEMRISE_MAX_LEVEL') + 1
+        )]
 
     def process_level(self, response):
         f = lambda t, c: t.css('div.col_{} div.text::text'.format(c)).extract()
