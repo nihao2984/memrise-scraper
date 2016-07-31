@@ -162,6 +162,7 @@ choć,(even) though,"Jestem smutny, choć mam wino",conjunction
 chwilowo,momentarily/temporarily,Sklep jest chwilowo nieczynny,adverb
 chwilowy,temporary,,adjective
 chętny,eager,,adjective
+ciasny,tight/cramped,,adjective
 cierpieć,to suffer,Cały naród cierpi (The whole nation suffers),verb
 cisza,silence,,f noun
 ciągle,continuously,,adverb
@@ -175,6 +176,7 @@ czasownik,verb,,m noun
 czekanie,waiting,,n noun
 czerwiec,June,,m noun
 czesne,tuition fee,,n noun
+czoło,forehead,"Na czole, pięć czół",n noun
 czterysta,four hundred,,numeral
 czułość,tenderness/affection,,f noun
 czynić,to do/make something significant (repeated),,verb
@@ -205,6 +207,7 @@ dodawaj (dodawać),Add! (repeated),,imperative
 dodawanie,addition,,n noun
 dodawać,to add (repeated),,verb
 dodać,to add (once),,perf verb
+dogodny,convenient/suitable,,adjective
 dojrzałość,ripeness/maturity,,f noun
 dokuczliwy,troublesome/biting/gnawing/nagging,,adjective
 dokładność,precision/accuracy,,f noun
@@ -275,7 +278,10 @@ dzielisz się (dzielić się),You are sharing/dividing,,conjugation
 dzielić się,to share/divide (repeated),,verb
 dzielę się (dzielić się),I am sharing/dividing,,conjugation
 dzisiejszy,today's,,adjective
+dziw (dziwić),Surprise! (repeated),,imperative
+dziwisz (dziwić),You are surprising,,conjugation
 dziwić,to surprise (repeated),,verb
+dziwię (dziwić),I am surprising,,conjugation
 dłon,palm/hand,,f noun
 długotrwały,long-lasting,,adjective
 długość,length,,f noun
@@ -344,7 +350,9 @@ konto,account,,n noun
 kopać,to kick (repeated),,verb
 koperta,envelope,,f noun
 kopnąć,to kick (once),,perf verb
+korzeń,root,Pamiętaj o swoich korzeniach!,m noun
 korzyść,benefit,,f noun
+kosmyk,wisp,,m noun
 kołdra,duvet,,f noun
 koślawy,crooked,,adjective
 krach,crash,Krach giełdowy/finansowy,m noun
@@ -369,6 +377,7 @@ liczyć,to count (repeated),,verb
 lipiec,July,,m noun
 listopad,November,,m noun
 losować,to draw (e.g. a card) (repeated),,verb
+ludzki,human,,adjective
 luty,February,,m noun
 lądować,to land (repeated),,verb
 macierzyństwo,motherhood,,n noun
@@ -377,7 +386,11 @@ maj,May,,m noun
 makler,stock broker,,m noun
 marka,brand/make,,f noun
 marny,weak/feeble/flimsy,,adjective
+marz (marzyć),Dream!,,imperative
 marzec,March,,m noun
+marzysz (marzyć),You are dreaming,,conjugation
+marzyć,to dream,,verb
+marzę (marzyć),I am dreaming,,conjugation
 mianownik (kto? co?),nominative case,,m noun
 miejscownik (o kim? o czym?),locative case,,m noun
 miejski,municipal/urban,,adjective
@@ -456,9 +469,18 @@ nachylić się,to bend down/lean (once),,perf verb
 nadal,still,,adverb
 nagranie,recording,,n noun
 nagroda,prize,,f noun
+należ (należeć),Belong! (repeated),,imperative
 należeć,to belong,Nie należę do nikogo,verb
+należysz (należeć),You belong,,conjugation
+należę (należeć),I belong,,conjugation
+napełniaj (napełniać),Fill! (repeated),,imperative
+napełniam (napełniać),I am filling,,conjugation
+napełniasz (napełniać),You are filling,,conjugation
 napełniać,to fill (e.g. with liquid) (repeated),,verb
+napełnij (napełnić),Fill! (once),,imperative
+napełnisz (napełnić),You will fill,,conjugation
 napełnić,to fill (e.g. with liquid) (once),,perf verb
+napełnię (napełnić),I will fill,,conjugation
 napędzaj (napędzać),Drive/propel! (repeated),,imperative
 napędzam (napędzać),I am driving/propelling,,conjugation
 napędzasz (napędzać),You are driving/propelling,,conjugation
@@ -477,15 +499,9 @@ nasilić się,to increase/intensify (once),,perf verb
 nastawiać,to set (repeated),,verb
 nastawiony,orientated,,adjective
 nastawić,to set (once),,perf verb
-nastąp (nastąpić),Follow/proceed! (once),,imperative
-nastąpisz (nastąpić),You will follow/proceed,,conjugation
 nastąpić,to follow/proceed (once),,perf verb
-nastąpię (nastąpić),I will follow/proceed,,conjugation
 następować,to follow/proceed (repeated),,verb
-następuj (następować),Follow/proceed! (repeated),,imperative
-następujesz (następować),You are following/proceeding,,conjugation
 następujący,following/succeeding,,adjective
-następuję (następować),I am following/proceeding,,conjugation
 natomiast,whereas,"Nie lubię go, natomiast lubię jego żoną",adverb
 nauczanie,teaching,,n noun
 nauczyć się,to learn (once),,perf verb
@@ -543,6 +559,7 @@ obowiązek,duty/obligation,,m noun
 obraz,image/picture/painting,,m noun
 obrona,defense,,f noun
 obronić,to defend (once),,perf verb
+obrzeże,edge,,n noun
 obskurny,dingy/shabby,,adjective
 obszar,area/territory,,m noun
 obsługiwać,to serve or to operate (repeated),,verb
@@ -550,10 +567,6 @@ obsłużyć,to serve or to operate (once),,perf verb
 obóz,camp,Nie ma obozu,m noun
 ocena,grade/mark,Jaka jest twoja ocena? (What is your grade?),f noun
 ochrona,protection/security,,f noun
-ocieraj (ocierać),Wipe! (repeated),,imperative
-ocieram (ocierać),I am wiping,,conjugation
-ocierasz (ocierać),You are wiping,,conjugation
-ocierać,to wipe (repeated),,verb
 oczekiwanie,anticipation/expectation,,n noun
 oczekiwać,to await/expect,,verb
 od nowa,from scratch,Zaczynać od nowa,phrase
@@ -624,12 +637,8 @@ ostatecznie,eventually/ultimately,,adverb
 oszacować,to estimate/assess (once),,perf verb
 osądzić,to think/suppose (once),,perf verb
 oto,here is/are,Oto rezultaty badań (Here are the results of the study),
-otrzesz (otrzeć),You will wipe,,conjugation
-otrzeć,to wipe (once),,perf verb
-otrzyj (otrzeć),Wipe! (once),,conjugation
 otrzymać,to receive/obtain (once),,perf verb
 otrzymywać,to receive/obtain (repeated),,verb
-otrę (otrzeć),I will wipe,,conjugation
 otulać,to wrap (repeated),,verb
 otulić,to wrap (once),,perf verb
 ośmielać,to encourage (repeated),,verb
@@ -709,6 +718,7 @@ poplamić,to stain/soil (once),,perf verb
 poprawka,correction,,f noun
 poprawnie,correctly/properly,,adverb
 poprzedni,previous,,adjective
+popyt,demand,Nie ma popytu,m noun
 porażka,failure,Ta podróż to porażka! (This journey is a failure!),f noun
 porzucać,to abandon (repeated),,verb
 porzucić,to abandon (once),,perf verb
@@ -788,6 +798,7 @@ producent,manufacturer/producer,,m noun
 promieniotwórczość,radioactivity,,f noun
 proponować,to propose (repeated),,verb
 prosty,straight(forward)/simple,,adjective
+przeciętny,average/ordinary,,adjective
 przed(e),"before, in front, first (in order)",Przede wszystkim przestań płakać,preposition
 przeddzień,the eve of,W przeddzień lub w przededniu,m noun
 przedmieście,suburb,,n noun
@@ -816,6 +827,7 @@ przeprowadzać,to perform/conduct (repeated),,verb
 przeprowadzać się,to relocate oneself (repeated),,verb
 przeprowadzić,to perform/conduct (once),,perf verb
 przeprowadzić się,to relocate oneself (once),,perf verb
+przeprowadzka,move/removal,,f noun
 przepływ,flow,Nie ma przepływu,m noun
 przerwa,break,,f noun
 przesiadać się,to change seats (repeated),,verb
@@ -916,6 +928,8 @@ roczny,annual/yearly,,adjective
 rodzaj,type,Jaki rodzaj chleba lubisz?,n noun
 rodzić,to give birth to (repeated),,verb
 rondo,roundabout,,n noun
+rosnąć,to grow (repeated),,verb
+rosnę (rosnąć),I am growing,,conjugation
 rozbierać,to undress (repeated),,verb
 rozdział,chapter,,m noun
 rozebrać,to undress (once),,perf verb
@@ -944,6 +958,8 @@ rozwiązać,to solve (once),,perf verb
 rozwiązywać,to solve (repeated),,verb
 rozwiń się (rozwinąć się),Improve/develop! (once),,imperative
 roślina,plant,,f noun
+rośniesz (rosnąć),You are growing,,conjugation
+rośnij (rosnąć),Grow! (repeated),,imperative
 rubryka,blank or section,,f noun
 rysunek,drawing,,m noun
 ryzyko,risk,,n noun
@@ -1081,6 +1097,7 @@ tłusty,fat,,adjective
 ubezpieczenie,insurance,,n noun
 ubiegły,last,W ubiegłym roku,adjective
 uciec,to run away/escape (once),,perf verb
+ucieczka,getaway/escape,,f noun
 uciekać,to run away/escape (repeated),,verb
 uczelnia,university/college,,f noun
 uczestniczyć,to participate,,verb
@@ -1130,6 +1147,7 @@ uroczysty,festive/celebratory,,adjective
 uroda,beauty,,f noun
 urodzenie,birth,Data urodzenia,n noun
 urodzić,to give birth to (once),,perf verb
+urosnąć,to grow (once),,perf verb
 urząd,government office,Idę do urzędu,m noun
 urzędnik,official or civil servant,,m noun
 usmażyć,to fry (once),,perf verb
@@ -1178,6 +1196,7 @@ wezwanie,summons/calls,Lekarze mają wezwanie do pacjentów,n noun
 weź (wziąć),Take! (once),,imperative
 weźmiesz (wziąć),You will take,,conjugation
 wiara,faith,,f noun
+wieczny,eternal/endless,,adjective
 wiedza,knowledge,,f noun
 wielokrotnie,repeatedly,,adverb
 wierzyć,to believe,Wierzysz mu? (Do you believe me?),verb
@@ -1242,8 +1261,13 @@ wybuch,explosion/eruption/outbreak,,m noun
 wychodzić,to leave (on foot) (repeated),,verb
 wychować,to raise (e.g. children) (once),,perf verb
 wychowywać,to raise (e.g. children) (repeated),,verb
+wycieraj (wycierać),Wipe! (repeated),,imperative
+wycieram (wycierać),I am wiping,,conjugation
+wycierasz (wycierać),You are wiping,,conjugation
+wycierać,to wipe (repeated),,verb
 wydajny,efficient,,adjective
 wydarzenie,event,,n noun
+wydatek,expense,Nie ma wydatku,m noun
 wydrukować,to print (once),,perf verb
 wygrać,to win (once),,perf verb
 wygrywać,to win (repeated),,verb
@@ -1300,6 +1324,10 @@ wystawa,exhibition/show,,f noun
 wysyłać,to send (repeated),,verb
 wyszaleć się,"to let off steam, to have fun",,verb
 wysłać,to send (once),,perf verb
+wytrzesz (wytrzeć),You will wipe,,conjugation
+wytrzeć,to wipe (once),,perf verb
+wytrzyj (wytrzeć),Wipe! (once),,conjugation
+wytrę (wytrzeć),I will wipe,,conjugation
 wytwarzanie,production,,n noun
 wywiad,(an) interview (with the media),,m noun
 wyznawać,to confide/confess/profess (repeated),,verb
@@ -1522,7 +1550,10 @@ złość,anger,,f noun
 złożony,complex/compound,,adjective
 ćwiczyć,to exercise (repeated),,verb
 łagodny,gentle/smooth/mild,,adjective
+łam (łamać),Break! (repeated),,imperative
 łamać,to break (repeated),,verb
+łamiesz (łamać),You are breaking,,conjugation
+łamię (łamać),I am breaking,,conjugation
 ławka,bench,,f noun
 łącznie,including/altogether,,adverb
 łączyć,to connect/combine (repeated),Niektórzy łączą naukę z pracą,verb
