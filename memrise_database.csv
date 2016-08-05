@@ -361,6 +361,7 @@ kopnąć,to kick (once),,perf verb
 korzeń,root,Pamiętaj o swoich korzeniach!,m noun
 korzyść,benefit,,f noun
 kosmyk,wisp,,m noun
+koszmar,nightmare,Nie ma koszmaru,m noun
 kołdra,duvet,,f noun
 koślawy,crooked,,adjective
 krach,crash,Krach giełdowy/finansowy,m noun
@@ -423,6 +424,7 @@ mistrzostwa,championships,,f pl noun
 mniejszość,minority,,f noun
 mnogi,plural,,adjective
 mnóstwo,plenty (of something),,n noun
+moczyć,to wet (repeated),,verb
 modlitwa,prayer,,f noun
 mogli,They were able to (m),,conjugation
 mogliście,You (plural) were able to (m),,conjugation
@@ -467,7 +469,11 @@ musimy,We must,,conjugation
 musisz,You must,,conjugation
 muszą,They must,,conjugation
 muszę,I must,,conjugation
+myj (myć),Wash! (repeated),,imperative
+myjesz (myć),You are washing,,conjugation
+myję (myć),I am washing,,conjugation
 mylny,mistaken/erroneous/wrong,,adjective
+myć,to wash (repeated),,verb
 mógł,He was able to,,conjugation
 mówienie,speaking,,n noun
 mózg,brain,Nie ma mózgu,m noun
@@ -481,6 +487,8 @@ nabić,to load/charge/fill (once),,perf verb
 nachylać się,to bend down/lean (repeated),,verb
 nachylić się,to bend down/lean (once),,perf verb
 nadal,still,,adverb
+nadmydlać,to soap (repeated),,verb
+nadmydlić,to soap (once),,perf verb
 nagranie,recording,,n noun
 nagroda,prize,,f noun
 należ (należeć),Belong! (repeated),,imperative
@@ -609,6 +617,7 @@ odkręcisz (odkręcić),You will unscrew/loosen,,conjugation
 odkręcić,to unscrew/loosen (once),,perf verb
 odkręcę (odkręcić),I will unscrew/loosen,,conjugation
 odkręć (odkręcić),Unscrew/loosen! (once),,imperative
+odkładać,to put back (repeated),,verb
 odległość,distance,,f noun
 odmawiać,to refuse/deny (repeated),,verb
 odmówić,to refuse/deny (once),,perf verb
@@ -634,6 +643,7 @@ odwiedzić,to visit (once),,perf verb
 odwołać,to cancel/withdraw (once),,perf verb
 odwoływać,to cancel/withdraw (repeated),,verb
 odzieżowy,clothes/clothing,,adjective
+odłożyć,to put back (once),,perf verb
 odżywiać,to feed/nourish (repeated),,verb
 odżywić,to feed/nourish (once),,perf verb
 ofiara,victim,,f noun
@@ -656,6 +666,7 @@ opróżniać,to empty (repeated),,verb
 opróżnić,to empty (once),,perf verb
 opętany,possessed,,adjective
 opłatek,wafer,Nie ma opłatka,m noun
+opłukać,to rinse (once),,perf verb
 osiedle,(housing) estate,,n noun
 osiągać,to succeed (repeated),,verb
 osiągnąć,to succeed (once),"Nie osiągnęliśmy tego, co chcemy osiągnąć",perf verb
@@ -730,6 +741,11 @@ pokazać,to show (once),,perf verb
 pokazywać,to show (repeated),,verb
 pokolenie,generation,,n noun
 pokój,room/peace,,m noun
+polać,to pour (once),,perf verb
+polej (polać),Pour! (once),,imperative
+polejesz (polać),You will pour,,conjugation
+poleję (polać),I will pour,,conjugation
+polewać,to pour (repeated),,verb
 policzyć,to count (once),,perf verb
 pomaganie,helping,,n noun
 pomnik,monument,Nie ma pomnika,m noun
@@ -951,6 +967,10 @@ płacić,to pay (for) (repeated),,verb
 płacę (płacić),I am paying (for),,conjugation
 płać (płacić),Pay! (repeated),,imperative
 płeć,sex,Nie ma płci,f noun
+płucz (płukać),Rinse! (repeated),,imperative
+płuczesz (płukać),You are rinsing,,conjugation
+płuczę (płukać),I am rinsing,,conjugation
+płukać,to rinse (repeated),,verb
 płynnie,fluently/smoothly,,adverb
 rada,advice,,f noun
 ranisz (ranić),You are wounding/hurting,,conjugation
@@ -1172,6 +1192,7 @@ umowa,agreement,,f noun
 umrzeć,to die (once),,perf verb
 umysł,mind,,m noun
 umysłowy,intellectual/mental,,adjective
+umyć,to wash (once),,perf verb
 uniesienie,elation/passion,,adjective
 upadek,fall/downfall,,m noun
 upalny,sweltering,,adjective
@@ -1272,10 +1293,15 @@ wpisywać,to enter (content) (repeated),,verb
 wprawdzie,admittedly,,adverb
 wprowadzać,to let/bring/show in (repeated),,verb
 wprowadzić,to let/bring/show in (once),,perf verb
+wracać,to return (repeated),,verb
 wrażenie,impression,Zrobiła na mnie wrażenie (She impressed me),n noun
 wrażliwy,sensitive,,adjective
 wrzesień,September,,m noun
+wrócisz (wrócić),You will return,,conjugation
+wrócić,to return (once),,perf verb
+wrócę (wrócić),I will return,,conjugation
 wróg,enemy,Nie mam żadnych wrogów (I have no enemies),m noun
+wróć (wrócić),Return! (once),,imperative
 wróżka,fairy or fortune-teller,,f noun
 wręczanie,presentation (i.e. a handing over of),,n noun
 wręczać,to award/hand (repeated),,verb
@@ -1293,6 +1319,8 @@ wspomnieć,to recollect/remember (once),,perf verb
 wspólny,common/shared,Wspólne cele (Common goals),adjective
 współczesny,contemporary/current,,adjective
 współczucie,sympathy/compassion,,n noun
+wstawać,to get up (repeated),,verb
+wstać,to get up (once),,perf verb
 wstęp,access,Nie ma wstępu,m noun
 wsunąć,to slip (e.g. hands) (once),Wsunąć ręce do kieszeni,perf verb
 wsuwać,to slip (e.g. hands) (repeated),,verb
@@ -1444,6 +1472,8 @@ zająć,to capture/occupy/seize (once),,perf verb
 zajęcie,occupation/classes,Mam dużo zajęć,n noun
 zakaz,ban,Nie ma zakazu,m noun
 zakazany,banned/forbidden or seedy,,adjective
+zakręcać,to screw/tighten (repeated),,verb
+zakręcić,to screw/tighten (once),,perf verb
 zakładać,"to found/establish/install, to put on clothes (repeated)",,verb
 zaleta,virtue,Cierpliwość to zaleta (Patience is a virtue),f noun
 zamach,assassination attempt,,m noun
@@ -1555,6 +1585,7 @@ zmieniać,to change (repeated),,verb
 zmienić,to change (once),,perf verb
 zmniejszać,to decrease (repeated),,verb
 zmniejszyć,to decrease (once),,perf verb
+zmoczyć,to wet (once),,perf verb
 zmusić się,to force (once),,perf verb
 zmuszać się,to force (repeated),,verb
 znaczenie,meaning/importance/significance,,n noun
