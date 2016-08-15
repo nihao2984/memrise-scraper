@@ -1,0 +1,68 @@
+---
+- hosts: all
+
+  vars:
+    dot_profile: "/home/vagrant/.profile"
+    dot_bashrc: "/home/vagrant/.bashrc"
+    pip_version: "8.1.2"
+    pip_tools_version: "1.7.0"
+    venv_py2: "/home/vagrant/.virtualenvs/py2"
+
+  pre_tasks:
+    - name: Timestamp provision
+      shell: date >> /etc/vagrant_provisioned_at
+      args:
+        executable: /bin/bash
+      changed_when: False
+      become: true
+
+    - name: Update apt cache
+      apt: update_cache=yes cache_valid_time=3600
+      become: true
+
+  tasks:
+    - name: Install apt packages
+      apt: name={{ item }} state=present
+      with_items:
+        - git
+        - vim
+        - htop
+        - python-pip
+        - python-dev
+        - python3-dev
+        - libffi-dev
+        - libxml2-dev
+        - libxslt1-dev
+        - libssl-dev
+      become: true
+
+    - name: Install pip packages
+      pip: name={{ item }} state=present
+      with_items:
+        - virtualenv
+        - virtualenvwrapper
+      become: true
+
+    - name: Configure Python not to write bytecode (i.e. .pyc files)
+      lineinfile: dest={{ dot_profile }} line="export PYTHONDONTWRITEBYTECODE='1'" state=present
+
+    - name: Enable virtualenvwrapper
+      lineinfile: dest={{ dot_bashrc }} line="source /usr/local/bin/virtualenvwrapper.sh" state=present
+
+    - name: Enable colour prompt in bash
+      replace: dest={{ dot_bashrc }} regexp="^\#force_color_prompt\=yes$" replace="force_color_prompt=yes"
+
+    - name: Create Py2 virtualenv
+      pip: virtualenv={{ venv_py2 }} virtualenv_python=python2.7 name={{ item.name }} version={{ item.version }}
+      with_items:
+        - { name: "pip", version: "{{ pip_version }}" }
+        - { name: "pip-tools", version: "{{ pip_tools_version }}" }
+
+    - name: Sync Py2 virtualenv
+      command: "chdir=/vagrant {{ venv_py2 }}/bin/pip-sync"
+
+    - name: Set Py2 virtualenv project directory
+      copy:
+        content: "/vagrant"
+        dest: "{{ venv_py2 }}/.project"
+        force: no

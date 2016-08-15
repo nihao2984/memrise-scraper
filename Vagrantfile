@@ -6,7 +6,7 @@
 #
 
 Vagrant.configure("2") do |config|
-    config.vm.define "Memrise scraper" do |foo|
+    config.vm.define "Memrise-scraper" do |foo|
     end
 
     # base box
@@ -27,7 +27,10 @@ Vagrant.configure("2") do |config|
     config.vm.provision "file", source: "vagrant/exrc", destination: ".exrc"
     config.vm.provision "file", source: "vagrant/inputrc", destination: ".inputrc"
 
-    # provisioning scripts
-    config.vm.provision "shell", path: "vagrant/provision_as_root.sh"
-    config.vm.provision "shell", path: "vagrant/provision_as_vagrant.sh", privileged: false
+    # provisioning script
+    config.vm.provision :ansible_local do |ansible|
+        ansible.provisioning_path = "/vagrant/vagrant"
+        ansible.playbook = "playbook.yml"
+        ansible.limit = "all"
+    end
 end
