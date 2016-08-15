@@ -132,6 +132,7 @@ bliźniak,twin (male),,m noun
 bohater,hero/protagonist,,m noun
 bojaźliwy,timid,,adjective
 bok,side,Nie ma boku,m noun
+boleć,to ache/hurt,Boli mnie głowa,verb
 brak,a lack,,m noun
 brakować,to lack,Brakuje mi wyobraźni (I lack imagination),verb
 brakujący,missing,Uzupełnić brakujące litery (Fill in the missing letters),adjective
@@ -153,6 +154,7 @@ burzyć,to demolish/destroy (repeated),,verb
 burzę (burzyć),I am demolishing/destroying,,conjugation
 bywać,to be (frequentative),Bywa trochę irytuący (He can be a bit irritating),verb
 bzdura,nonsense/rubbish,,f noun
+błysk,flash/twinkle,Nie ma błysku,m noun
 błąd,mistake/error,Nie ma błędu (There's no mistake),m noun
 całkowicie,completely/totally,,adverb
 cecha,feature/trait/property/attribute,Odwaga jest ważna cecha charakteru,f noun
@@ -217,6 +219,7 @@ dogodny,convenient/suitable,,adjective
 dojrzałość,ripeness/maturity,,f noun
 dokuczliwy,troublesome/biting/gnawing/nagging,,adjective
 dokładność,precision/accuracy,,f noun
+dolegać,to trouble/bother,Co panu/pani dolega?,verb
 domniemany,alleged/supposed,,adjective
 doniczka,flowerpot,,f noun
 dopasować,to fit/match (once),,perf verb
@@ -552,6 +555,7 @@ niepodległość,independence,,f noun
 nieprzypadkowo,"intentionally, not accidentally",,adverb
 nieprzystosowany,ill-suited/ill-fitted,,adjective
 nieraz,many a time,,adverb
+nieruchomy,"still, not moving",,adjective
 niespełna,nearly,,adverb
 niespodzianka,surprise,,f noun
 niesprawiedliwy,unfair/unjust,,adjective
@@ -614,6 +618,12 @@ od nowa,from scratch,Zaczynać od nowa,phrase
 odbicie,reflection,,n noun
 odchodzić,to go away (repeated),,verb
 odcięty,cut off from,,adjective
+oddadzą (oddać),They will give back,,conjugation
+oddaj (oddać),Give back! (once),,imperative
+oddajesz (oddawać),You are giving back,,conjugation
+oddaję (oddawać),I am giving back,,conjugation
+oddam (oddać),I will give back,,conjugation
+oddawaj (oddawać),Give back! (repeated),,imperative
 oddawać,"to give back, to return (repeated)",,verb
 oddać,"to give back, to return (once)",,perf verb
 odejść,to go away (once),,perf verb
@@ -688,6 +698,7 @@ osiedle,(housing) estate,,n noun
 osiągać,to succeed (repeated),,verb
 osiągnąć,to succeed (once),"Nie osiągnęliśmy tego, co chcemy osiągnąć",perf verb
 osobisty,personal,,adjective
+osobiście,personally,,adverb
 osobowość,personality,Ale masz wspaniała osobowość!,f noun
 ostatecznie,eventually/ultimately,,adverb
 oszacować,to estimate/assess (once),,perf verb
@@ -765,6 +776,7 @@ pojąć,to comprehend (once),,perf verb
 pojęcie,concept/idea/notion,,n noun
 pokazać,to show (once),,perf verb
 pokazywać,to show (repeated),,verb
+pokojówka,maid,,f noun
 pokolenie,generation,,n noun
 pokój,room/peace,,m noun
 polać,to pour (once),,perf verb
@@ -778,6 +790,7 @@ pomagam (pomagać),I am helping,,conjugation
 pomaganie,helping,,n noun
 pomagasz (pomagać),You are helping,,conjugation
 pomagać,to help (repeated),,verb
+pomieszczenie,room,,n noun
 pomnik,monument,Nie ma pomnika,m noun
 pomogę (pomóc),I will help,,conjugation
 pomożesz (pomóc),You will help,,conjugation
@@ -1010,6 +1023,8 @@ płuczę (płukać),I am rinsing,,conjugation
 płukać,to rinse (repeated),,verb
 płynnie,fluently/smoothly,,adverb
 rada,advice,,f noun
+ramię,arm/shoulder,,n noun
+ramka,frame,,f noun
 ranisz (ranić),You are wounding/hurting,,conjugation
 ranić,to wound/hurt (repeated),,verb
 ranię (ranić),I am wounding/hurting,,conjugation
@@ -1211,6 +1226,8 @@ uczucie,feeling,,n noun
 uczuciowy,emotional,,adjective
 uczynić,to do/make something significant (once),,perf verb
 uczyć się,to learn (repeated),,verb
+uderzać się,to hit/bump (repeated),,verb
+uderzyć się,to hit/bump (once),,perf verb
 udo,thigh,,n noun
 udowodniać,to prove (repeated),,verb
 udowodnić,to prove (once),,perf verb
@@ -1246,7 +1263,16 @@ upewnij się (upewnić się),Make sure! (once),,imperative
 upewnisz się (upewnić się),You will make sure of,,conjugation
 upewnić się,to make sure of (once),,perf verb
 upewnię się (upewnić się),I will make sure of,,conjugation
+upraszczaj,Simplify! (repeated),,imperative
+upraszczam,I am simplifying,,conjugation
+upraszczasz,You are simplifying,,conjugation
+upraszczać,to simplify (repeated),,verb
 uprawiać,to practice,"Osoby, które uprawiają sport, mają dobrą kondycję",verb
+uproszczony,simplified,,adjective
+uproszczę (uprościć),I will simplify,,conjugation
+uprościsz (uprościć),You will simplify,,conjugation
+uprościć,to simplify (once),,perf verb
+uprość (uprościć),Simplify! (once),,imperative
 uprzejmy,polite,,adjective
 urlop,leave/holiday,,m noun
 uroczystość,ceremony (e.g. wedding/funeral),,f noun
@@ -1260,12 +1286,14 @@ urzędnik,official or civil servant,,m noun
 usmażyć,to fry (once),,perf verb
 usprawiedliwienie,explanation/justification/excuse,,n noun
 ustalony,fixed/established,,adjective
+usunięty,ousted/expelled,,adjective
 usunąć,to remove (once),,perf verb
 usuwać,to remove (repeated),,verb
 usługa,service,,f noun
 utracić,to lose (something) (once),,perf verb
 utrzymanie,upkeep/maintenance,,n noun
 utworzyć,to establish/form (once),,perf verb
+utwór,piece of work,Nie ma utworu,m noun
 uwaga,attention,,f noun
 uwalniać,to rid/free/liberate (repeated),,verb
 uwolnić,to rid/free/liberate (once),,perf verb
@@ -1306,6 +1334,7 @@ wezwanie,summons/calls,Lekarze mają wezwanie do pacjentów,n noun
 weź (wziąć),Take! (once),,imperative
 weźmiesz (wziąć),You will take,,conjugation
 wiara,faith,,f noun
+widownia,audience,,f noun
 wieczny,eternal/endless,,adjective
 wiedza,knowledge,,f noun
 wielokrotnie,repeatedly,,adverb
@@ -1366,6 +1395,8 @@ wspólny,common/shared,Wspólne cele (Common goals),adjective
 współczesny,contemporary/current,,adjective
 współczucie,sympathy/compassion,,n noun
 wstawać,to get up (repeated),,verb
+wstawiać,to put/insert/replace (repeated),,verb
+wstawić,to put/insert/replace (once),,perf verb
 wstać,to get up (once),,perf verb
 wstęp,access,Nie ma wstępu,m noun
 wsunąć,to slip (e.g. hands) (once),Wsunąć ręce do kieszeni,perf verb
@@ -1437,6 +1468,7 @@ wyprowadzić się,to move out (once),,perf verb
 wyprzedaż,clearance sale,,m noun
 wyraz,word,,m noun
 wyrazić,to express (once),,perf verb
+wyraźny,clear/distinct,,adjective
 wyrażanie,expressing,,n noun
 wyrażać,to express (repeated),,verb
 wysiłek,effort,Nie ma wysiłku,m noun
@@ -1461,6 +1493,7 @@ wyłącznie,solely/uniquely/exclusively,,adverb
 wyłączyć,to turn off (once),,perf verb
 wyścig,race,,m noun
 wyższy,higher,,adjective
+wzajemnie,"mutually, reciprocally",,adverb
 wzruszenie,emotion,,n noun
 wzór,pattern,,m noun
 wóź (wozić),Transport/drive!,,imperative
@@ -1560,6 +1593,7 @@ zasmucić się,to be sad (once),,perf verb
 zasnąć,to fall asleep (once),,perf verb
 zastanawiać się,to consider (repeated),,verb
 zastanowić się,to consider (once),,perf verb
+zastrzyk,injection,Nie ma zastrzyku,m noun
 zastygły,stagnant/frozen,,adjective
 zastępczy,alternative/replacement,,adjective
 zasypiać,to fall asleep (repeated),,verb
@@ -1594,6 +1628,8 @@ zażądać,to demand (once),,perf verb
 zbadać,to research/investigate (once),,perf verb
 zbierać,to collect/gather/save (repeated),,verb
 zbity,battered,,adjective
+zbliżać,to move/bring closer (repeated),,verb
+zbliżyć,to move/bring closer (once),,perf verb
 zboże,grain,Zboże rośnie na polu (Grain is growing in the field),n noun
 zbudować,to build (once),,perf verb
 zburzyć,to demolish/destroy (once),,perf verb
