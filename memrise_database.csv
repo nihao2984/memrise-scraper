@@ -114,6 +114,7 @@ badać,to research/investigate (repeated),,verb
 bać się,"to be scared, to fear",,verb
 bezdomny,homeless,,adjective
 bezinteresowny,selfless/unselfish,,adjective
+beznadziejny,hopeless,,adjective
 bezokolicznik,infinitive,,linguistic
 bezowocny,fruitless,,adjective
 bezpieczeństwo,security/safety,,n noun
@@ -134,6 +135,7 @@ bohater,hero/protagonist,,m noun
 bojaźliwy,timid,,adjective
 bok,side,Nie ma boku,m noun
 boleć,to ache/hurt,Boli mnie głowa,verb
+boleśnie,painfully,,adverb
 brak,a lack,,m noun
 brakować,to lack,Brakuje mi wyobraźni (I lack imagination),verb
 brakujący,missing,Uzupełnić brakujące litery (Fill in the missing letters),adjective
@@ -190,6 +192,7 @@ czułość,tenderness/affection,,f noun
 czynić,to do/make something significant (repeated),,verb
 czynność,action/activity,,f noun
 czytelnik,reader,Czytelniczka,m noun
+częstować,to offer (repeated),,verb
 część,part/piece,,f noun
 członek,member (of a group),Jestem członkiem tej grupy,m noun
 dalszy,further,,adjective
@@ -218,7 +221,9 @@ dodawać,to add (repeated),,verb
 dodać,to add (once),,perf verb
 dogodny,convenient/suitable,,adjective
 dojrzałość,ripeness/maturity,,f noun
+dokuczać,to tease (repeated),,verb
 dokuczliwy,troublesome/biting/gnawing/nagging,,adjective
+dokuczyć,to tease (once),,perf verb
 dokładność,precision/accuracy,,f noun
 dolegać,to trouble/bother,Co panu/pani dolega?,verb
 domniemany,alleged/supposed,,adjective
@@ -288,10 +293,10 @@ dzielisz się (dzielić się),You are sharing/dividing,,conjugation
 dzielić się,to share/divide (repeated),,verb
 dzielę się (dzielić się),I am sharing/dividing,,conjugation
 dzisiejszy,today's,,adjective
-dziw (dziwić),Surprise! (repeated),,imperative
-dziwisz (dziwić),You are surprising,,conjugation
-dziwić,to surprise (repeated),,verb
-dziwię (dziwić),I am surprising,,conjugation
+dziw się (dziwić się),Be surprised! (repeated),,imperative
+dziwisz się (dziwić się),You are surprised,,conjugation
+dziwić się,to be surprised (repeated),,verb
+dziwię się (dziwić się),I am surprised,,conjugation
 dłon,palm/hand,,f noun
 długotrwały,long-lasting,,adjective
 długość,length,,f noun
@@ -300,6 +305,7 @@ ekscytujący,exciting,,adjective
 eksponat,exhibit,Nie ma eksponatu,m noun
 emerytura,pension,Odchodzić na emeryturę (To retire),f noun
 etat,job position,Czy woli pracę na etacie czy na własny rachunek?,m noun
+farba,paint/dye/ink,,f noun
 fałszywie,falsely/insincerely,,adverb
 ferie,holiday/break,,f plural noun
 filozofia,philosophy,,f noun
@@ -332,6 +338,7 @@ gąbka,sponge,,f noun
 głaz,boulder,Nie ma głazu,m noun
 głuchy,deaf,,adjective
 handel,trade/retail,,m noun
+hałasować,to make noise,,verb
 hipoteza,hypothesis,,f noun
 imiesłów,participle,,m noun
 inaczej,otherwise/differently,,adverb
@@ -380,9 +387,18 @@ koszmar,nightmare,Nie ma koszmaru,m noun
 kołdra,duvet,,f noun
 koślawy,crooked,,adjective
 krach,crash,Krach giełdowy/finansowy,m noun
+kradniesz (kraść),You are stealing,,conjugation
+kradnę (kraść),I am stealing,,conjugation
+kraść,to steal (repeated),,verb
 krewny,(blood) relative,,m noun
 kroić,to cut I (repeated),,verb
 krytykować,to criticise (repeated),,verb
+krzyczeć,to shout (repeated),,verb
+krzyczysz (krzyczeć),You are shouting,,conjugation
+krzyczę (krzyczeć),I am shouting,,conjugation
+krzykniesz (krzyknąć),You will shout,,conjugation
+krzyknąć,to shout (once),,perf verb
+krzyknę (krzyknąć),I will shout,,conjugation
 kuchenka,stove/hob,,f noun
 kumpel,pal/buddy,,m noun
 kwadratowy,square,,adjective
@@ -589,6 +605,8 @@ oba,"both (m, n)","Oba samochody, oba drzewa",numeral
 obaj mężczyźni,both men,,numeral
 obawa,anxiety/fear,,f noun
 obawiać się,to be afraid/concerned,"Obawiam się, że ...",verb
+obcinać,to clip/trim (repeated),,verb
+obciąć,to clip/trim (once),,perf verb
 obciążać,to burden/load (repeated),,verb
 obciążenie,burden/load,,n noun
 obciążyć,to burden/load (once),,perf verb
@@ -596,6 +614,8 @@ obcy,foreign/strange,Szkoła języków obcych,adjective
 obecnie,currently/presently,,adverb
 obecność,presence,Martwi mnie obecność policji (I worry about the presence of the police),f noun
 obejrzeć,to watch/look at (once),,perf verb
+obetniesz (obciąć),You will clip/trim,,conjugation
+obetnę (obciąć),I will clip/trim,,conjugation
 obie,both (f),Obie książki,numeral
 obie kobiety,both women,,numeral
 obiecaj (obiecać),Promise! (once),,imperative
@@ -642,6 +662,8 @@ oddam (oddać),I will give back,,conjugation
 oddawaj (oddawać),Give back! (repeated),,imperative
 oddawać,"to give back, to return (repeated)",,verb
 oddać,"to give back, to return (once)",,perf verb
+odejdziesz (odejść),You will go away,,conjugation
+odejdę (odejść),I will go away,,conjugation
 odejść,to go away (once),,perf verb
 odjechać,to leave/depart (by vehicle) (once),,perf verb
 odjeżdżać,to leave/depart (by vehicle) (repeated),,verb
@@ -664,6 +686,10 @@ odmienić,to conjugate/decline (once),,perf verb
 odmówić,to refuse/deny (once),,perf verb
 odnajdować,to find again (repeated),,verb
 odnaleźć,to find again (once),,perf verb
+odnawiać,to renew/restore (repeated),,verb
+odnowisz (odnowić),You will renew/restore,,conjugation
+odnowić,to renew/restore (once),,perf verb
+odnowię (odnowić),I will renew/restore,,conjugation
 odpady,waste,,f plural noun
 odpoczynek,rest,,m noun
 odpoczywać,to rest (repeated),,verb
@@ -686,6 +712,8 @@ odwołać,to cancel/withdraw (once),,perf verb
 odwoływać,to cancel/withdraw (repeated),,verb
 odzieżowy,clothes/clothing,,adjective
 odłożyć,to put back (once),,perf verb
+odświeżać,to refresh (repeated),,verb
+odświeżyć,to refresh (once),,perf verb
 odżywiać,to feed/nourish (repeated),,verb
 odżywić,to feed/nourish (once),,perf verb
 ofiara,victim,,f noun
@@ -758,6 +786,7 @@ pocztówka,postcard,,f noun
 poczucie,feeling/sense,On nie ma poczucia winy,n noun
 początek,beginning,Stoje na początku (I'm standing at the start),m noun
 początkowo,initially,,adverb
+poczęstować,to offer (once),,perf verb
 podatek,tax,,m noun
 podchodzić,to approach (repeated),,verb
 podejrzewać,to suspect,Policja podejrzewa trzy osoby,verb
@@ -795,7 +824,11 @@ pojmować,to comprehend (repeated),,verb
 pojąć,to comprehend (once),,perf verb
 pojęcie,concept/idea/notion,,n noun
 pokazać,to show (once),,perf verb
+pokazujesz (pokazywać),You are showing,,conjugation
+pokazuję (pokazywać),I am showing,,conjugation
 pokazywać,to show (repeated),,verb
+pokażesz (pokazać),You will show,,conjugation
+pokażę (pokazać),I will show,,conjugation
 pokojówka,maid,,f noun
 pokolenie,generation,,n noun
 pokój,room/peace,,m noun
@@ -845,6 +878,7 @@ posmarować,to spread/rub/grease/smear (once),,perf verb
 postanawiać,to decide (repeated),,verb
 postanowienie,decision,,n noun
 postanowić,to decide (once),,perf verb
+postać,figure/form,Dwie postaci,f noun
 postęp,progress,Nie ma postępu,m noun
 poszczególny,individual/particular,,adjective
 potomstwo,offspring,,n noun
@@ -877,12 +911,16 @@ powstawać,to come into being (repeated),,verb
 powstać,to come into being (once),,perf verb
 powszechny,prevailing/prevalent/common,,adjective
 powtarzać,to repeat/revise/review (repeated),,verb
+powtórzysz (powtórzyć),You will repeat,,conjugation
 powtórzyć,to repeat/revise/review (once),,perf verb
+powtórzę (powtórzyć),I will repeat,,conjugation
 powyższy,preceeding/above,Proszę znaleźć w powyższym zadaniu,adjective
 powód,reason,Nie ma powodu,m noun
 poza tym,anyway/besides,,adverb
 pozaziemski,"alien (as in, extra-terrestrial)",Istota pozaziemska,adjective
 pozbawiony,lacking,,adjective
+poznajesz (poznawać),You are meeting,,conjugation
+poznaję (poznawać),I am meeting,,conjugation
 poznawać,"to meet, to get to know (repeated)",,verb
 poznać,"to meet, to get to know (once)",,perf verb
 pozostawiać,to leave behind II (repeated),,verb
@@ -952,6 +990,7 @@ przeprowadzić się,to relocate oneself (once),,perf verb
 przeprowadzka,move/removal,,f noun
 przepływ,flow,Nie ma przepływu,m noun
 przerażający,terrifying/horrifying,,adjective
+przerażony,terrified,,adjective
 przerwa,break,,f noun
 przesiadać się,to change seats (repeated),,verb
 przesiąść się,to change seats (once),,perf verb
@@ -985,6 +1024,7 @@ przyjechać,to arrive (by vehicle) (once),,perf verb
 przyjemność,pleasure,,f noun
 przyjeżdżać,to arrive (by vehicle) (repeated),,verb
 przyjść,to come/arrive (on foot) (once),,perf verb
+przykro mi,I'm sorry,,phrase
 przykrywać,to cover (repeated),,verb
 przykryć,to cover (once),,perf verb
 przymiotnik,adjective,,m noun
@@ -1233,7 +1273,9 @@ tom,volume (of a book),Nie ma tomu,m noun
 towar,goods/commodity,Nie ma towaru,m noun
 towarzyski,gregarious,,adjective
 towarzyszyć,to accompany,,verb
+tracisz (tracić),You are losing (something),,conjugation
 tracić,to lose (something) (repeated),,verb
+tracę (tracić),I am losing (something),,conjugation
 trafiać,to hit (repeated),,verb
 trafić,to hit (once),,perf verb
 traktować,to treat/handle (repeated),,verb
@@ -1276,6 +1318,7 @@ udział,participation,Brać udział w czymś (to take part in something),m noun
 ufać,to trust (repeated),,verb
 ukarać,to punish (once),,perf verb
 ukradkiem,furtively/steathily,,adverb
+ukraść,to steal (once),,perf verb
 ukroić,to cut I (once),,perf verb
 układać,to arrange/align (repeated),,verb
 ulewny,torrential,,adjective
@@ -1350,6 +1393,8 @@ uznany,recognized,,adjective
 uzupełniać,to fill out (repeated),,verb
 uzupełnić,to fill out (once),,verb
 ułożyć,to arrange/align (once),,perf verb
+użyjesz (użyć),You will use,,conjugation
+użyję (użyć),I will use,,conjugation
 używanie,using,,n noun
 używać,to use (repeated),,verb
 użyć,to use (once),,perf verb
@@ -1630,7 +1675,6 @@ zaprzyjaźnić się,to make friends with,,verb
 zapłacić,to pay (for) (once),,perf verb
 zapłakany,tearful/crying,,adjective
 zarabiać,to earn (money) (repeated),,verb
-zarań (zranić),Wound/hurt! (once),,imperative
 zareagować,to react (once),,perf verb
 zarejestrować,to register (once),,perf verb
 zarobić,to earn (money) (once),,perf verb
@@ -1648,6 +1692,12 @@ zastrzyk,injection,Nie ma zastrzyku,m noun
 zastygły,stagnant/frozen,,adjective
 zastępczy,alternative/replacement,,adjective
 zasypiać,to fall asleep (repeated),,verb
+zasługiwać,to deserve (repeated),,verb
+zasługujesz (zasługiwać),You deserve,,conjugation
+zasługuję (zasługiwać),I deserve,,conjugation
+zasłużysz (zasłużyć),You will deserve,,conjugation
+zasłużyć,to deserve (once),,perf verb
+zasłużę (zasłużyć),I will deserve,,conjugation
 zatroszczyć się,to take care of (once),,perf verb
 zatrudniać,to employ (repeated),,verb
 zatrudnić,to employ (once),,perf verb
@@ -1715,7 +1765,7 @@ zdobyć,to conquer/seize/acquire/accumulate (once),,perf verb
 zdolny,able/capable,,adjective
 zdyszany,breathless/panting,,adjective
 zdziwienie,surprise/astonishment,,n noun
-zdziwić,to surprise (once),,perf verb
+zdziwić się,to be surprised (once),,perf verb
 zdążać,"to manage, to be on time (repeated)",,verb
 zdążyć,"to manage, to be on time (once)",,perf verb
 zebrać,to collect/gather/save (once),,perf verb
@@ -1763,9 +1813,13 @@ znosić,to tolerate/endure/stand (repeated),,verb
 zostawiać,to leave behind I (repeated),,verb
 zostawić,to leave behind I (once),,perf verb
 zranić,to wound/hurt (once),,perf verb
+zrań (zranić),Wound/hurt! (once),,imperative
 zredagować,to edit (once),,perf verb
 zresztą,"anyway, after all, besides",,particle
+zszarpany,shredded/torn/frayed,,adjective
 zupełnie,entirely,,adverb
+zużywać,to use up (repeated),,verb
+zużyć,to use up (once),,perf verb
 zwalczać,to fight/combat (against) (repeated),,verb
 zwalczyć,to fight/combat (against) (once),,perf verb
 zwalniać,to reduce/release/vacate/dismiss (repeated),,verb
