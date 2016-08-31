@@ -15,23 +15,11 @@ Then run:
 ```
 vagrant up
 vagrant ssh
-workon py2
+scrape a b c
 ```
 
-## Levels
+Where:
 
-Specify the levels in the course, then run:
-
-```
-scrapy crawl levels -s MEMRISE_MIN_LEVEL=1 -s MEMRISE_MAX_LEVEL=123
-```
-
-## Database
-
-Specify the session cookie (which can be taken from `memrise.com` while logged in).
-
-Specify the number of database pages (from the database editor in the course), then run:
-
-```
-scrapy crawl database -s MEMRISE_SESSION_ID='top-secret' -s MEMRISE_PAGE_COUNT=123
-```
+* `a` is the number of levels in the course
+* `b` is the session cookie (i.e. must be logged in)
+* `c` is the number of database pages (in the course editor)
