@@ -221,6 +221,7 @@ depczesz (deptać),You are treading/trampling,,conjugation
 depczę (deptać),I am treading/trampling,,conjugation
 deptać,to tread/trample (repeated),,verb
 dlatego,so/therefore,Śpię dlatego że dziś nie pracuję,conjunction
+dno,bottom of water,,n noun
 dobierać,to select/match (repeated),,verb
 dobrać,to select/match (once),,perf verb
 doceniać,to appreciate (repeated),,verb
@@ -258,6 +259,8 @@ doradzać,to advise somebody (repeated),Doradzać komuś coś,verb
 doradzić,to advise somebody (once),,perf verb
 dorosłość,adulthood,,f noun
 dorosły,grown-up,,adjective
+dosięgać,to reach/catch up (repeated),,verb
+dosięgnąć,to reach/catch up (once),,perf verb
 doskonale,perfectly,,adverb
 doskonały,perfect,,adjective
 dostajesz (dostawać),You are get getting/receiving,,conjugation
@@ -320,7 +323,8 @@ dziw się (dziwić się),Be surprised! (repeated),,imperative
 dziwisz się (dziwić się),You are surprised,,conjugation
 dziwić się,to be surprised (repeated),,verb
 dziwię się (dziwić się),I am surprised,,conjugation
-dłon,palm/hand,,f noun
+dół,bottom/pit,Nie ma dołu,m noun
+dłoń,palm/hand,,f noun
 długotrwały,long-lasting,,adjective
 długość,length,,f noun
 ekran,screen,Komórka ma duży ekran,m noun
@@ -360,6 +364,7 @@ grzech,sin,Nie ma grzechu,m noun
 grób,grave/tomb,Nie ma grobu,m noun
 gust,taste,Ma pan dobry gust (You are a man of taste),m noun
 gwałtownie,fiercely/rapidly/sharply/suddenly,,adverb
+góra,top/mountain,,f noun
 gąbka,sponge,,f noun
 głaz,boulder,Nie ma głazu,m noun
 głuchy,deaf,,adjective
@@ -437,6 +442,7 @@ krzykniesz (krzyknąć),You will shout,,conjugation
 krzyknąć,to shout (once),,perf verb
 krzyknę (krzyknąć),I will shout,,conjugation
 krzyż,cross,,m noun
+krążyć,to circle/rotate/orbit,,verb
 kuchenka,stove/hob,,f noun
 kumpel,pal/buddy,,m noun
 kwadratowy,square,,adjective
@@ -447,9 +453,12 @@ kłócisz się (kłócić się),You are arguing,,conjugation
 kłócić się,to argue (repeated),,verb
 kłócę się (kłócić się),I am arguing,,conjugation
 kłótnia,argument,,f noun
+lecieć,to fly (repeated),,verb
+lecisz (lecieć),You are flying,,conjugation
 lecz,but,,conjunction
 leczenie,treatment/therapy,,n noun
 leczyć,to treat/cure/heal (repeated),,verb
+lecę (lecieć),I am flying,,conjugation
 ledwie,barely/hardly,,particle
 lepszość,superiority,,f noun
 lewa strona,left side,Po lewej stronie (on the left side),f noun
@@ -468,6 +477,7 @@ litościwy,merciful,,adjective
 losować,to draw (e.g. a card) (repeated),,verb
 ludzki,human,,adjective
 luty,February,,m noun
+ląd,land,Nie ma lądu,m noun
 lądować,to land (repeated),,verb
 macierzyństwo,motherhood,,n noun
 magisterium,master's degree,,n noun
@@ -627,7 +637,7 @@ niebywały,exceptional,,adjective
 nieco,somewhat,,adverb
 niedawny,recent,Od niedawna (Until recently),adjective
 niedoświadczony,inexperienced,,adjective
-niekończący,never-ending,,adjective
+niekończący się,never-ending,,adjective
 niemal,almost/nearly,Jestem niemal pewny,adverb
 nienawiść,hatred,,f noun
 niepodatny,impervious/insusceptible,,adjective
@@ -657,6 +667,7 @@ notoryczny,notorious,,adjective
 notować,to note (repeated),,verb
 nowo,newly,,adverb
 noworodek,newborn (baby),,m noun
+nurkować,to dive (repeated),,verb
 oba,"both (m, n)","Oba samochody, oba drzewa",numeral
 obaj mężczyźni,both men,,numeral
 obawa,anxiety/fear,,f noun
@@ -911,6 +922,7 @@ pokój,room/peace,,m noun
 pokład,deck,Nie ma pokładu,m noun
 pokłócić się,to argue (once),,perf verb
 polać,to pour (once),,perf verb
+polecieć,to fly (once),,perf verb
 polegać,to rely (on),,verb
 polej (polać),Pour! (once),,imperative
 polejesz (polać),You will pour,,conjugation
@@ -1224,6 +1236,10 @@ rozpacz,despair,,f noun
 rozpoznawać,to recognize/identify/diagnose (repeated),,verb
 rozpoznać,to recognize/identify/diagnose (once),,perf verb
 rozrywka,entertainment,,f noun
+rozrzucać,to scatter/spread (repeated),,verb
+rozrzucisz (rozrzucić),You will scatter/spread,,conjugation
+rozrzucić,to scatter/spread (once),,perf verb
+rozrzucę (rozrzucić),I will scatter/spread,,conjugation
 rozstanie,parting/split-up,,n noun
 rozstawać się,to part/split with (repeated),,verb
 rozstać się,to part/split with (once),,perf verb
@@ -1283,6 +1299,7 @@ skała,rock,,f noun
 skierowany,aimed/directed,,adjective
 skojarzenie,association,,n noun
 skojarzyć się,to be associated/reminded (once),,perf verb
+skoro,since/as,Skoro uczysz się języka polskiego ...,conjunction
 skracać,to shorten (repeated),,verb
 skrawek,scrap/patch,Nie ma strawka,m noun
 skromny,humble/modest,,adjective
@@ -1314,7 +1331,6 @@ spojrzeć,to glance (once),,perf verb
 spontaniczność,spontaneity,,f noun
 spontaniczny,spontaneous,,adjective
 sporo,a good/great deal,,adverb
-sporo,since/as,Skoro uczysz się języka polskiego ...,conjunction
 sposób,way/method/approach,,m noun
 spowodować,to cause I (once),,perf verb
 społeczeństwo,society,,n noun
@@ -1459,7 +1475,11 @@ ukarać,to punish (once),,perf verb
 ukradkiem,furtively/steathily,,adverb
 ukraść,to steal (once),,perf verb
 ukroić,to cut I (once),,perf verb
+ukryjesz (ukryć),You will hide/conceal,,conjugation
+ukryję (ukryć),I will hide/conceal,,conjugation
 ukryty,hidden,,adjective
+ukrywać,to hide/conceal (repeated),,verb
+ukryć,to hide/conceal (once),,perf verb
 układać,to arrange/align (repeated),,verb
 ulewny,torrential,,adjective
 ulubieniec,favourite,,m noun
@@ -1492,6 +1512,10 @@ upewnij się (upewnić się),Make sure! (once),,imperative
 upewnisz się (upewnić się),You will make sure of,,conjugation
 upewnić się,to make sure of (once),,perf verb
 upewnię się (upewnić się),I will make sure of,,conjugation
+uplatać,to plait/weave (repeated),,verb
+upleciesz (upleść),You will plait/weave,,conjugation
+upleść,to plait/weave (once),,perf verb
+uplotę (upleść),I will plait/weave,,conjugation
 upokarzać,to humiliate (repeated),,verb
 upokorzyć,to humiliate (once),,perf verb
 upraszczaj (upraszczać),Simplify! (repeated),,imperative
@@ -1667,6 +1691,8 @@ wycieraj (wycierać),Wipe! (repeated),,imperative
 wycieram (wycierać),I am wiping,,conjugation
 wycierasz (wycierać),You are wiping,,conjugation
 wycierać,to wipe (repeated),,verb
+wyciągać,to pull out or to stretch (repeated),,verb
+wyciągnąć,to pull out or to stretch (once),,perf verb
 wydajny,efficient,,adjective
 wydarzenie,event,,n noun
 wydatek,expense,Nie ma wydatku,m noun
@@ -1713,6 +1739,8 @@ wyobrazić sobie,to imagine (once),,perf verb
 wyobraźnia,imagination,Użyj wyobraźni! (Use your imagination!),f noun
 wyobrażać sobie,to imagine (repeated),,verb
 wypadek,"accident (as in, crash)",,m noun
+wyplynąć,to set sail or to surface (once),,perf verb
+wyplywać,to set sail or to surface (repeated),,verb
 wypoczęty,rested,,adjective
 wypowiadać,"to express verbally, to give voice to (repeated)",,verb
 wypowiedzieć,"to express verbally, to give voice to (once)",,perf verb
@@ -1833,6 +1861,7 @@ zamówienia,orders,,f plural noun
 zanieczyszczenie,pollution/contamination,,n noun
 zanim,before,,conjunction
 zanotować,to note/log (once),,perf verb
+zanurkować,to dive (once),,perf verb
 zapamiętać,to memorise (once),,perf verb
 zapamiętujesz (zapamiętywać),You are memorising,,conjugation
 zapamiętuję (zapamiętywać),I am memorising,,conjugation
@@ -1977,6 +2006,7 @@ zgoda,agreement,,f noun
 zgodzić się,to agree (once),,perf verb
 zgrabny,shapely,,adjective
 zgłoszenie,application/enrolment,,n noun
+ziarno,grain/particle,Jest wiele ziaren,n noun
 zjawisko,phenomenon,,n noun
 zmiana,change,,f noun
 zmieniać,to change (repeated),,verb
@@ -2037,6 +2067,7 @@ zło,evil/wrong,,n noun
 złość,anger,,f noun
 złożony,complex/compound,,adjective
 ćwiczyć,to exercise (repeated),,verb
+łabędź,swan,,m noun
 łagodny,gentle/smooth/mild,,adjective
 łam (łamać),Break! (repeated),,imperative
 łamać,to break (repeated),,verb
