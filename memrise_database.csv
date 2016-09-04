@@ -228,6 +228,7 @@ doceniać,to appreciate (repeated),,verb
 docenisz (docenić),You will appreciate,,conjugation
 docenić,to appreciate (once),,perf verb
 docenię (docenić),I will appreciate,,conjugation
+dochodzić,to reach/arrive (repeated),,verb
 dochód,income/profit,Nie ma dochodu,m noun
 dodadzą (dodać),They will add,,conjugation
 dodaj (dodać),Add! (once),,imperative
@@ -241,6 +242,7 @@ dodawać,to add (repeated),,verb
 dodać,to add (once),,perf verb
 dogodny,convenient/suitable,,adjective
 dojrzałość,ripeness/maturity,,f noun
+dojść,to reach/arrive (once),,perf verb
 dokuczać,to tease (repeated),,verb
 dokuczliwy,troublesome/biting/gnawing/nagging,,adjective
 dokuczyć,to tease (once),,perf verb
@@ -306,6 +308,7 @@ dym,smoke,,m noun
 dyskutować,to discuss (repeated),,verb
 dyspozycyjność,availability,,f noun
 dyżur,duty hours,Nie ma dyżuru,m noun
+dzbanek,jug,Nie ma dzbanka,m noun
 dziać się,to happen,,verb
 dział,division/department,,m noun
 działalność,activity,,f noun
@@ -400,6 +403,7 @@ każę (kazać),I am commanding,,conjugation
 kierunek,direction,Czy to dobry kierunek?,m noun
 kieszeń,pocket,,f noun
 kikut,stump,,m noun
+klawisz,piano key,,m noun
 klejnot,jewel,Nie ma klejnotu,m noun
 klękać,to kneel (repeated),,verb
 klęknąć,to kneel (once),,perf verb
@@ -430,6 +434,7 @@ koślawy,crooked,,adjective
 krach,crash,Krach giełdowy/finansowy,m noun
 kradniesz (kraść),You are stealing,,conjugation
 kradnę (kraść),I am stealing,,conjugation
+kraina,land/region/area,,f noun
 kraść,to steal (repeated),,verb
 krewny,(blood) relative,,m noun
 kroić,to cut I (repeated),,verb
@@ -479,6 +484,7 @@ ludzki,human,,adjective
 luty,February,,m noun
 ląd,land,Nie ma lądu,m noun
 lądować,to land (repeated),,verb
+lśniący,shiny,,adjective
 macierzyństwo,motherhood,,n noun
 magisterium,master's degree,,n noun
 maj,May,,m noun
@@ -491,6 +497,7 @@ marzec,March,,m noun
 marzysz (marzyć),You are dreaming,,conjugation
 marzyć,to dream,,verb
 marzę (marzyć),I am dreaming,,conjugation
+matowy,matt (not shiny),,adjective
 mgła,fog/mist,,f noun
 mianownik (kto? co?),nominative case,,m noun
 miara,measure/size,,f noun
@@ -499,7 +506,10 @@ miejski,municipal/urban,,adjective
 miesiąc,month,,m noun
 miesięczny,monthly,,adjective
 mieszać,to mix (repeated),Mieszamy zupę,verb
+mieszczę się (mieścić się),I am fitting,,conjugation
 mieszkaniec,occupant/inhabitant,,m noun
+mieścisz się (mieścić się),You are fitting,,conjugation
+mieścić się,to fit (repeated),,verb
 mijać,to pass (repeated),,verb
 mikstura,potion,,f noun
 milcz (milczeć),Keep silent!,,imperative
@@ -584,9 +594,14 @@ nabijać,to load/charge/fill (repeated),,verb
 nabić,to load/charge/fill (once),,perf verb
 nachylać się,to bend down/lean (repeated),,verb
 nachylić się,to bend down/lean (once),,perf verb
+naciskać,to press (repeated),,verb
+nacisnąć,to press (once),,perf verb
+naczynie,vessel,,n noun
 nadal,still,,adverb
 nagranie,recording,,n noun
 nagroda,prize,,f noun
+nalać,to pour into (once),,perf verb
+nalewać,to pour into (repeated),,verb
 należ (należeć),Belong! (repeated),,imperative
 należeć,to belong,Nie należę do nikogo,verb
 należysz (należeć),You belong,,conjugation
@@ -602,6 +617,7 @@ napełnij (napełnić),Fill! (once),,imperative
 napełnisz (napełnić),You will fill,,conjugation
 napełnić,to fill (e.g. with liquid) (once),,perf verb
 napełnię (napełnić),I will fill,,conjugation
+napęcznieć,to swell (once),,perf verb
 napędzaj (napędzać),Drive/propel! (repeated),,imperative
 napędzam (napędzać),I am driving/propelling,,conjugation
 napędzasz (napędzać),You are driving/propelling,,conjugation
@@ -779,6 +795,8 @@ odpowiedzieć,to answer (once),,perf verb
 odrzucenie,rejection/dismissal,,n noun
 odsetek,percentage,Nie ma odsetka,m noun
 odstawienie,withdrawal,,n noun
+odsunąć się,to back off/away (once),,perf verb
+odsuwać się,to back off/away (repeated),,verb
 odwaga,courage,,f noun
 odważać się,to dare (repeated),,verb
 odważyć się,to dare (once),,perf verb
@@ -786,6 +804,8 @@ odwiedzać,to visit (repeated),,verb
 odwiedzić,to visit (once),,perf verb
 odwołać,to cancel/withdraw (once),,perf verb
 odwoływać,to cancel/withdraw (repeated),,verb
+odwzajemniać,to reciprocate (repeated),,verb
+odwzajemnić,to reciprocate (once),,perf verb
 odzieżowy,clothes/clothing,,adjective
 odłożyć,to put back (once),,perf verb
 odświeżać,to refresh (repeated),,verb
@@ -977,6 +997,7 @@ potomstwo,offspring,,n noun
 potrafić,"to know how, to be able",,verb
 potraktować,to treat/handle (once),,perf verb
 potrzeba,need,,f noun
+potłuczony,shattered,,adjective
 poważny,serious,,adjective
 powiedz (powiedzieć),Speak! (once),,imperative
 powiedzą (powiedzieć),They will say,,conjugation
@@ -996,6 +1017,8 @@ powinno,It should,,conjugation
 powinny,They should (f),,conjugation
 powinnyście,You (plural) should (f),,conjugation
 powinnyśmy,We should (f),,conjugation
+powiększać,to extend/enlarge (repeated),,verb
+powiększyć,to extend/enlarge (once),,perf verb
 powodować,to cause I (repeated),,verb
 powrót,return,Nie ma powrotu,m noun
 powstanie,creation,,n noun
@@ -1194,6 +1217,12 @@ pół miliona,half a million,,numeral
 pół tysiąca,half a thousand,,numeral
 północ,north,Na północy (Northwards),f noun
 później,later,,adverb
+pęczniejesz (pęcznieć),You are swelling,,conjugation
+pęcznieję (pęcznieć),I am swelling,,conjugation
+pęcznieć,to swell (repeated),,verb
+pękać,to crack (repeated),,verb
+pęknięty,cracked,,adjective
+pęknąć,to crack (once),,perf verb
 płacisz (płacić),You are paying (for),,conjugation
 płacić,to pay (for) (repeated),,verb
 płacę (płacić),I am paying (for),,conjugation
@@ -1226,6 +1255,8 @@ rosnąć,to grow (repeated),,verb
 rosnę (rosnąć),I am growing,,conjugation
 rozbierać,to undress (repeated),,verb
 rozczarowany,disappointed,,adjective
+rozczarować się,to be disappointed (once),,perf verb
+rozczarowywać się,to be disappointed (repeated),,verb
 rozdział,chapter,,m noun
 rozebrać,to undress (once),,perf verb
 rozgarnięty,sharp-witted,,adjective
@@ -1235,6 +1266,8 @@ rozmowa,conversation/dialog/chat,,f noun
 rozpacz,despair,,f noun
 rozpoznawać,to recognize/identify/diagnose (repeated),,verb
 rozpoznać,to recognize/identify/diagnose (once),,perf verb
+rozrastać się,to grow/spread (repeated),,verb
+rozrosnąć się,to grow/spread (once),,perf verb
 rozrywka,entertainment,,f noun
 rozrzucać,to scatter/spread (repeated),,verb
 rozrzucisz (rozrzucić),You will scatter/spread,,conjugation
@@ -1273,6 +1306,7 @@ rzeka,river,,f noun
 rzucać,to throw (repeated),,verb
 rzucić,to throw (once),,perf verb
 rząd,government,,m noun
+rządzić,to govern,,verb
 również,also,Rząd obiecuje również niższy podatek,adverb
 równik,equator,,m noun
 równouprawnienie,equal rights (equality),,n noun
@@ -1291,6 +1325,7 @@ siedzę (siedzieć),I am sitting,,conjugation
 siedź (siedzieć),Sit!,,imperative
 sierociniec,orphanage,Nie ma sierocińca,m noun
 sierpień,August,,m noun
+sieć,fishing net,,f noun
 siądziesz (siąść),You will sit,,conjugation
 siądę (siąść),I will sit,,conjugation
 siądź (siąść),Sit down! (once),,imperative
@@ -1324,6 +1359,8 @@ spadać,to fall/drop (repeated),,verb
 spaść,to fall/drop (once),,perf verb
 spełniać,to fulfil or carry out (repeated),,verb
 spełnić,to fulfil or carry out (once),,perf verb
+splunąć,to spit at (once),,perf verb
+spluwać,to spit at (repeated),,verb
 spodziewać się,to expect,,verb
 spoglądać,to glance (repeated),,verb
 spojrzenie,glance,,n noun
@@ -1350,6 +1387,7 @@ sprzedawać,to sell (repeated),,verb
 sprzedać,to sell (once),,perf verb
 sprzedaż,sale,,f noun
 sprzęt,equipment,Sprzętu sportowego,m noun
+spychać,to drive back (repeated),,verb
 spójnik,conjunction,,m noun
 spóźniać się,to be late (repeated),,verb
 spóźnić się,to be late (once),,perf verb
@@ -1393,6 +1431,8 @@ szczur,rat,,m noun
 szczyt,peak/summit,Nie ma szczytu,m noun
 szept,whisper,,m noun
 szeroki,wide,,adjective
+szkło,glass,,n noun
+szpiegować,to spy,,verb
 szuflada,drawer,,f noun
 szycie,sewing,,n noun
 sąd,court (of law),,m noun
@@ -1415,6 +1455,7 @@ teoria,theory,,f noun
 termin,deadline,,m noun
 terminarz,calendar,,m noun
 tom,volume (of a book),Nie ma tomu,m noun
+topić,to drown (repeated),,verb
 towar,goods/commodity,Nie ma towaru,m noun
 towarzyski,gregarious,,adjective
 towarzyszyć,to accompany,,verb
@@ -1547,6 +1588,7 @@ usunięty,ousted/expelled,,adjective
 usunąć,to remove (once),,perf verb
 usuwać,to remove (repeated),,verb
 usługa,service,,f noun
+utopić,to drown (once),,perf verb
 utracić,to lose (something) (once),,perf verb
 utrzymanie,upkeep/maintenance,,n noun
 utworzyć,to establish/form (once),,perf verb
@@ -1626,6 +1668,7 @@ wola,will,Z własnej woli,f noun
 wolność,freedom,,f noun
 wozisz (wozić),You are transporting/driving,,conjugation
 wozić,to transport/drive,,verb
+wołać,to call (repeated),,verb
 wożę (wozić),I am transporting/driving,,conjugation
 wpadać,to fall/plunge/run into (repeated),,verb
 wpaść,to fall/plunge/run into (once),,perf verb
@@ -1739,8 +1782,10 @@ wyobrazić sobie,to imagine (once),,perf verb
 wyobraźnia,imagination,Użyj wyobraźni! (Use your imagination!),f noun
 wyobrażać sobie,to imagine (repeated),,verb
 wypadek,"accident (as in, crash)",,m noun
-wyplynąć,to set sail or to surface (once),,perf verb
-wyplywać,to set sail or to surface (repeated),,verb
+wyplujesz (wypluć),You will spit out,,conjugation
+wypluję (wypluć),I will spit out,,conjugation
+wypluwać,to spit out (repeated),,verb
+wypluć,to spit out (once),,perf verb
 wypoczęty,rested,,adjective
 wypowiadać,"to express verbally, to give voice to (repeated)",,verb
 wypowiedzieć,"to express verbally, to give voice to (once)",,perf verb
@@ -1750,6 +1795,8 @@ wypracowywać,to develop (repeated),,verb
 wyprowadzać się,to move out (repeated),,verb
 wyprowadzić się,to move out (once),,perf verb
 wyprzedaż,clearance sale,,m noun
+wypłynąć,to set sail or to surface (once),,perf verb
+wypływać,to set sail or to surface (repeated),,verb
 wyraz,word,,m noun
 wyrazić,to express (once),,perf verb
 wyraźny,clear/distinct,,adjective
@@ -1790,6 +1837,7 @@ wóź (wozić),Transport/drive!,,imperative
 wąski,narrow,,adjective
 wątpić,to doubt,Wątpię że będzie to robić (I doubt he'll do it),verb
 wątpliwość,doubt,,f noun
+wędka,fishing rod,,f noun
 władza,power/authority,,f noun
 własność,possession/property,,f noun
 właściciel,owner,,m noun
@@ -1925,6 +1973,7 @@ zawiniątko,bundle,,n noun
 zawiść,envy,,f noun
 zawodnik,player,,m noun
 zawodowy,professional,,adjective
+zawołać,to call (once),,perf verb
 zawrzeć,to contain (once),,perf verb
 zawstydzać się,to feel ashamed (repeated),,verb
 zawstydzić się,to feel ashamed (once),,perf verb
@@ -1980,14 +2029,15 @@ zdradzić,to betray (once),,perf verb
 zdyszany,breathless/panting,,adjective
 zdziwienie,surprise/astonishment,,n noun
 zdziwić się,to be surprised (once),,perf verb
-zdążać,"to manage, to be on time (repeated)",,verb
-zdążyć,"to manage, to be on time (once)",,perf verb
+zdążać,to be on time (repeated),,verb
+zdążyć,to be on time (once),,perf verb
 zebrać,to collect/gather/save (once),,perf verb
 zechcieć,to feel like,,verb
 zegniesz (zgiąć),You will bend,,conjugation
 zegnij (zgiąć),Bend! (once),,imperative
 zegnę (zgiąć),I will bend,,conjugation
 zemścić się,to avenge oneself on somebody (once),,perf verb
+zepchnąć,to drive back (once),,perf verb
 zerwać,to sever/strip (once),,perf verb
 zerwiesz (zerwać),You will sever/strip,,conjugation
 zerwę (zerwać),I will sever/strip,,conjugation
@@ -1998,6 +2048,7 @@ zestaw,set/suite/kit,Nie ma zestawu,m noun
 zestawienie,breakdown (e.g. of facts),,n noun
 zeszyt,exercise book,,m noun
 zeszły,past,W zeszłym roku,adjective
+zetknięcie,contact/encounter,,n noun
 zewnątrz,outside,,adverb
 zgadzać się,to agree (repeated),,verb
 zgasić,"to put out, to extinguish (once)",,perf verb
@@ -2014,6 +2065,7 @@ zmieniesz (zmienić),You will change,,conjugation
 zmienić,to change (once),,perf verb
 zmienię (zmienić),I will change,,conjugation
 zmień (zmienić),Change! (once),,imperative
+zmieścić się,to fit (once),,perf verb
 zmniejszać,to decrease (repeated),,verb
 zmniejszyć,to decrease (once),,perf verb
 zmoczyć,to wet (once),,perf verb
