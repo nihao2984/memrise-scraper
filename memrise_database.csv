@@ -201,6 +201,7 @@ cyniczny,cynical,,adjective
 czasami,sometimes,,adverb
 czasownik,verb,,m noun
 czekanie,waiting,,n noun
+czepiać się,to pick on,,verb
 czerwiec,June,,m noun
 czesne,tuition fee,,n noun
 czoło,forehead,"Na czole, pięć czół",n noun
@@ -304,6 +305,7 @@ dozorca,caretaker/janitor,,m noun
 doświadczenie,experience,,n noun
 dreszcze,shivers,,m plural noun
 drewniany,wooden,,adjective
+drobny,small/frail/fine,,adjective
 druciany,wire,,adjective
 drukować,to print (repeated),,verb
 drużyna,team/squad,,f noun
@@ -369,6 +371,7 @@ godność,dignity,,f noun
 gorączka,fever,,f noun
 gospodarka,economy,,f noun
 gospodarstwo,household,,n noun
+gotówka,cash,,f noun
 gościnny,hospitable,,adjective
 granatowy,navy blue,,adjective
 granica,border,,f noun
@@ -400,6 +403,8 @@ istnieć,to exist,Zawsze istnieją rozwiązania (There's always a solution),verb
 istota,creature,,f noun
 istotny,significant,,adjective
 iść piechotą,to go on foot,,phrase
+jad,poison,Nie ma jadu,m noun
+jadowity,poisonous,,adjective
 jakby,as if/though,"Dlaczego zawsze mówisz o naszej mamie, jakby nić mogło cię zdenerwować",conjunction
 jazda,a drive/ride (e.g. car/bike),Po jeździe,f noun
 jednocześnie,at the same time,,adverb
@@ -420,6 +425,7 @@ kierunek,direction,Czy to dobry kierunek?,m noun
 kieszeń,pocket,,f noun
 kij,stick,,m noun
 kikut,stump,,m noun
+klatka,cage,,f noun
 klawisz,piano key,,m noun
 klejnot,jewel,Nie ma klejnotu,m noun
 klękać,to kneel (repeated),,verb
@@ -452,6 +458,7 @@ krach,crash,Krach giełdowy/finansowy,m noun
 kradniesz (kraść),You are stealing,,conjugation
 kradnę (kraść),I am stealing,,conjugation
 kraina,land/region/area,,f noun
+krata,bars/grating/grid,,f noun
 kraść,to steal (repeated),,verb
 krewny,(blood) relative,,m noun
 kroić,to cut I (repeated),,verb
@@ -672,6 +679,7 @@ nie kłóć się (kłócić się),Don't argue! (repeated),,imperative
 nie smuć się (smucić się),Don't be saddened! (repeated),,imperative
 niebezpieczny,dangerous,,adjective
 niebiosa,heaven,,f plural noun
+nieboszczyk,the deceased,,m noun
 niebywały,exceptional,,adjective
 nieco,somewhat,,adverb
 niedawny,recent,Od niedawna (Until recently),adjective
@@ -778,6 +786,7 @@ oddaję (oddawać),I am giving back,,conjugation
 oddalać,to move away (repeated),,verb
 oddalić,to move away (once),,perf verb
 oddam (oddać),I will give back,,conjugation
+oddany,devoted,,adjective
 oddawaj (oddawać),Give back! (repeated),,imperative
 oddawać,"to give back, to return (repeated)",,verb
 oddać,"to give back, to return (once)",,perf verb
@@ -1108,6 +1117,7 @@ proponować,to propose (repeated),,verb
 prosty,straight(forward)/simple,,adjective
 prośba,request,,f noun
 przecena,price reduction,,f noun
+przechodzić,to cross (repeated),,verb
 przecinać,to cut II (repeated),,verb
 przeciwieństwo,opposition/contrast,,n noun
 przeciąć,to cut II (once),,perf verb
@@ -1130,6 +1140,7 @@ przejmować,to take over (repeated),,verb
 przejrzeć,to skim over (once),,perf verb
 przejąć,to take over (once),,perf verb
 przejście,crossing/passage,Przejście dla pieszych,n noun
+przejść,to cross (once),,perf verb
 przekazać,"to hand over, to pass on (once)",,perf verb
 przekazywać,"to hand over, to pass on (repeated)",,verb
 przekonanie,belief/conviction,,n noun
@@ -1370,6 +1381,7 @@ sad,orchard,Nie ma sadu,m noun
 samodzielność,autonomy,,f noun
 samolubny,selfish,,adjective
 samotność,loneliness,,f noun
+schodzić,to descend (repeated),,verb
 schorowany,ailing/diseased,,adjective
 siadać,to sit down (repeated),,verb
 siedzieć,to sit,,verb
@@ -1449,6 +1461,10 @@ spójnik,conjunction,,m noun
 spóźniać się,to be late (repeated),,verb
 spóźnić się,to be late (once),,perf verb
 spłata,repayment,On ma problemy ze spłatą,f noun
+spłukać,to rinse/flush (once),,perf verb
+spłukiwać,to rinse/flush (repeated),,verb
+spłynąć,to flow down (once),,perf verb
+spływać,to flow down (repeated),,verb
 ssak,mammal,,m noun
 stadion,stadium,,m noun
 stan,state/condition,Jaki jest stan pacjenta? (What is the patient's condition?),m noun
@@ -1473,6 +1489,7 @@ styczeń,January,,m noun
 stypendium,bursary/grant,,n noun
 stąd,from here,,adverb
 sumienie,conscience,,n noun
+suszyć,to dry (repeated),,verb
 swobodny,unconstrained,,adjective
 sylwetka,silhouette,,f noun
 syty,satiated,,adjective
@@ -1491,6 +1508,7 @@ szeroki,wide,,adjective
 szkło,glass,,n noun
 szpiegować,to spy,,verb
 szuflada,drawer,,f noun
+szyba,pane (of glass),,f noun
 szycie,sewing,,n noun
 sąd,court (of law),,m noun
 sądzić,to think/suppose (repeated),,verb
@@ -1515,6 +1533,7 @@ tom,volume (of a book),Nie ma tomu,m noun
 topić,to drown (repeated),,verb
 towar,goods/commodity,Nie ma towaru,m noun
 towarzyski,gregarious,,adjective
+towarzystwo,company,,n noun
 towarzyszyć,to accompany,,verb
 tracisz (tracić),You are losing (something),,conjugation
 tracić,to lose (something) (repeated),,verb
@@ -1678,6 +1697,7 @@ w ogóle,in general,,phrase
 w pobliżu,in the vicinity,,phrase
 wada,flaw,Każdy człowiek ma wady (Everyone has flaws),f noun
 wahanie,hesitation,,n noun
+walka,fight/battle/struggle,,f noun
 waluta,currency,W jakiej walucie (loc.) płacisz? (In which currency are you paying?),f noun
 warsztat,workshop,,m noun
 wartość,value,,f noun
@@ -1709,6 +1729,7 @@ widownia,audience,,f noun
 wieczny,eternal/endless,,adjective
 wiedza,knowledge,,f noun
 wiedźma,witch/hag,,f noun
+wieko,lid,,n noun
 wielokrotnie,repeatedly,,adverb
 wierność,fidelity/faithfulness,,f noun
 wierny,faithful,Wierny jak pies,adjective
@@ -1827,9 +1848,13 @@ wykonywanie,execution,Czy wykonywanie tej pracy wymaga studiów lub praktyki?,n 
 wykonywać,to carry out or execute (repeated),,verb
 wykorzystać,"to make use of, to take advantage of (once)",,perf verb
 wykorzystywać,"to make use of, to take advantage of (repeated)",,verb
+wykrywać,to detect (repeated),,verb
+wykryć,to detect (once),,perf verb
 wykształcenie,education,,n noun
 wykształcony,educated,,adjective
+wylać,to pour out (once),,perf verb
 wyleczyć,to treat/cure/heal (once),,perf verb
+wylewać,to pour out (repeated),,verb
 wylosować,to draw (e.g. a card) (once),,perf verb
 wylądować,to land (once),,perf verb
 wymagający,demanding,,adjective
@@ -1871,11 +1896,14 @@ wyrazić,to express (once),,perf verb
 wyraźny,clear/distinct,,adjective
 wyrażanie,expressing,,n noun
 wyrażać,to express (repeated),,verb
+wyschnąć,to dry up (once),,perf verb
 wysiłek,effort,Nie ma wysiłku,m noun
 wysokość,height,,f noun
 wystawa,exhibition/show,,f noun
 wystąpić,to stand out (once),,perf verb
 występować,to stand out (repeated),,verb
+wysuszyć,to dry (once),,perf verb
+wysychać,to dry up (repeated),,verb
 wysyłać,to send (repeated),,verb
 wyszaleć się,"to let off steam, to have fun",,verb
 wysłać,to send (once),,perf verb
@@ -2115,6 +2143,7 @@ zechcieć,to feel like,,verb
 zegniesz (zgiąć),You will bend,,conjugation
 zegnij (zgiąć),Bend! (once),,imperative
 zegnę (zgiąć),I will bend,,conjugation
+zejść,to descend (once),,perf verb
 zemścić się,to avenge oneself on somebody (once),,perf verb
 zepchnąć,to drive back (once),,perf verb
 zerwać,to sever/strip (once),,perf verb
@@ -2212,10 +2241,15 @@ złożony,complex/compound,,adjective
 łańcuch,chain,,m noun
 łącznie,including/altogether,,adverb
 łączyć,to connect/combine (repeated),Niektórzy łączą naukę z pracą,verb
+ściek,drain,Nie ma ścieku,m noun
 ścierka,cleaning cloth,,f noun
+ściskać,to squeeze (repeated),,verb
+ścisnąć,to squeeze (once),,perf verb
+ścisnę (ścisnąć),I will squeeze,,conjugation
 ścisły,accurate/precise,,adjective
 ściągać,to pull/draw (repeated),,verb
 ściągnąć,to pull/draw (once),,perf verb
+ściśniesz (ścisnąć),You will squeeze,,conjugation
 śledztwo,investigation,,n noun
 śmiać się,to laugh (repeated),,verb
 śmiej się (śmiać się),Laugh! (repeated),,imperative
