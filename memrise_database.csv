@@ -114,6 +114,8 @@ awans,promotion,Nie ma awansu,m noun
 badacz,researcher,Nie ma badacza,m noun
 badanie,study/test/research,,n noun
 badać,to research/investigate (repeated),,verb
+bandyci,bandits,,m plural noun
+bandyta,bandit,,m noun
 barwa,colour,,f noun
 bać się,"to be scared, to fear",,verb
 bezdomny,homeless,,adjective
@@ -188,6 +190,7 @@ chętny,eager,,adjective
 chęć,desire,,f noun
 ciasny,tight/cramped,,adjective
 ciekawość,curiosity/interest,,f noun
+cierpienie,suffering,,n noun
 cierpieć,to suffer,Cały naród cierpi (The whole nation suffers),verb
 cisza,silence,,f noun
 ciągle,continuously,,adverb
@@ -253,7 +256,9 @@ dodawaj (dodawać),Add! (repeated),,imperative
 dodawanie,addition,,n noun
 dodawać,to add (repeated),,verb
 dodać,to add (once),,perf verb
+doganiać,to catch up with (repeated),,verb
 dogodny,convenient/suitable,,adjective
+dogonić,to catch up with (once),,perf verb
 dojrzałość,ripeness/maturity,,f noun
 dojść,to reach/arrive (once),,perf verb
 dokuczać,to tease (repeated),,verb
@@ -290,6 +295,7 @@ dostać,to get/receive (once),,perf verb
 dostań (dostać),Get/receive! (once),,imperative
 dostęp,access to (something),,m noun
 dostępny,accessible,,adjective
+dosłownie,literally,,adverb
 dotkliwy,severe/bitter/biting,Dotkliwy ból/strata/wiatr,adjective
 dotkniesz (dotknąć),You will touch,,conjugation
 dotknij (dotknąć),Touch! (once),,imperative
@@ -527,6 +533,7 @@ magisterium,master's degree,,n noun
 maj,May,,m noun
 majątek,asset/property,Nie ma majątku,m noun
 makler,stock broker,,m noun
+mandat,ticket/fine,Nie ma mandatu,m noun
 marka,brand/make,,f noun
 marnować,to waste (repeated),,verb
 marny,weak/feeble/flimsy,,adjective
@@ -1158,6 +1165,8 @@ przecena,price reduction,,f noun
 przechodzić,to cross (repeated),,verb
 przecinać,to cut II (repeated),,verb
 przeciwieństwo,opposition/contrast,,n noun
+przeciwniczka,opponent (female),,f noun
+przeciwnik,opponent (male),,m noun
 przeciąć,to cut II (once),,perf verb
 przeciętny,mediocre,,adjective
 przed(e),"before, in front, first (in order)",Przede wszystkim przestań płakać,preposition
@@ -1169,6 +1178,7 @@ przedstawiciel,representative/agent,,m noun
 przedstawienie,performance/show,,n noun
 przedstawiony,introduced/depicted,,adjective
 przedstawić,to present (once),,perf verb
+przedwczoraj,the day before yesterday,,adverb
 przedyskutować,to discuss (once),,perf verb
 przedział,train compartment,Nie ma przedziału,m noun
 przeglądać,to skim over (repeated),,verb
@@ -1192,6 +1202,7 @@ przekręcać,to turn/rotate (repeated),,verb
 przekręcić,to turn/rotate (once),,perf verb
 przemoc,violence,,f noun
 przemysł,industry,,m noun
+przemówienie,speech,,n noun
 przemęczać,to strain (repeated),,verb
 przemęczyć,to strain (once),,perf verb
 przenikać,to penetrate (repeated),,verb
@@ -1278,10 +1289,13 @@ przypuszczać,to suppose/assume,,verb
 przypuszczenie,supposition/assumption,,n noun
 przyroda,nature,Kocham przyrodę! (I love nature!),f noun
 przysięga,oath/swearing,,f noun
+przyspieszać,to accelerate (repeated),,verb
+przyspieszyć,to accelerate (once),,perf verb
 przystanek,bus/tram stop,Nie ma przystanku,m noun
 przystosować,to adjust/adapt (once),,perf verb
 przystosowywać,to adjust/adapt (repeated),,verb
 przyszły,coming/future,W przyszłm tygodniu,adjective
+przysłuchiwać się,to listen in,,verb
 przysługa,favour,,f noun
 przysłówek,adverb,,m noun
 przytrafiać się,to (be)chance (repeated),,verb
@@ -1573,6 +1587,7 @@ szczyt,peak/summit,Nie ma szczytu,m noun
 szept,whisper,,m noun
 szeroki,wide,,adjective
 szkło,glass,,n noun
+sznur,cord/line/lead,,m noun
 szpiegować,to spy,,verb
 szuflada,drawer,,f noun
 szyba,pane (of glass),,f noun
@@ -1674,6 +1689,9 @@ ukryć,to hide/conceal (once),,perf verb
 układać,to arrange/align (repeated),,verb
 ulewny,torrential,,adjective
 ulubieniec,favourite,,m noun
+ulżysz (ulżyć),You are lightening/easing,,verb
+ulżyć,to lighten/ease,,verb
+ulżę (ulżyć),I am lightening/easing,,verb
 umarzać,to write off (repeated),,verb
 umiejętność,ability/skill,,f noun
 umierać,to die (repeated),,verb
@@ -1748,6 +1766,7 @@ ustalony,fixed/established,,adjective
 usunięty,ousted/expelled,,adjective
 usunąć,to remove (once),,perf verb
 usuwać,to remove (repeated),,verb
+usypiać,to put to sleep (repeated),,verb
 uszkodzenie,damage/injury,,n noun
 usługa,service,,f noun
 utopić,to drown (once),,perf verb
@@ -1766,6 +1785,9 @@ uznany,recognized,,adjective
 uzupełniać,to fill out (repeated),,verb
 uzupełnić,to fill out (once),,verb
 ułożyć,to arrange/align (once),,perf verb
+uśpisz (uśpić),You will put to sleep,,conjugation
+uśpić,to put to sleep (once),,perf verb
+uśpię (uśpić),I will put to sleep,,conjugation
 użyjesz (użyć),You will use,,conjugation
 użyję (użyć),I will use,,conjugation
 używanie,using,,n noun
@@ -1798,10 +1820,12 @@ wesprzesz (wesprzeć),You will support,,conjugation
 wesprzeć,to support (once),,perf verb
 wesprzyj (wesprzeć),Support! (once),,imperative
 wesprę (wesprzeć),I will support,,conjugation
+weterynarz,vet,,m noun
 wewnątrz,inside,,adverb
 wewnętrzny,internal,,adjective
 wezmę (wziąć),I will take,,conjugation
 wezwanie,summons/calls,Lekarze mają wezwanie do pacjentów,n noun
+wezwany,summoned,,adjective
 weź (wziąć),Take! (once),,imperative
 weźmiesz (wziąć),You will take,,conjugation
 wiara,faith,,f noun
@@ -2232,6 +2256,10 @@ zdradzić,to betray (once),,perf verb
 zdrowiejesz (zdrowieć),You are recuperating,,conjugation
 zdrowieję (zdrowieć),I am recuperating,,conjugation
 zdrowieć,to recuperate (repeated),,verb
+zdumiejesz (zdumieć),You will amaze/astound,,conjugation
+zdumieję (zdumieć),I will amaze/astound,,conjugation
+zdumiewać,to amaze/astound (repeated),,verb
+zdumieć,to amaze/astound (once),,perf verb
 zdyszany,breathless/panting,,adjective
 zdziwienie,surprise/astonishment,,n noun
 zdziwić się,to be surprised (once),,perf verb
@@ -2364,6 +2392,7 @@ złożony,complex/compound,,adjective
 środek,middle/centre,,m noun
 środowisko,(the) environment,,n noun
 świadectwo,certificate (esp. educational),,n noun
+świadomy,deliberate/conscious,,adjective
 świeca,candle,,f noun
 świecisz (świecić),You are shining,,conjugation
 świecić,to shine,,verb
