@@ -979,6 +979,7 @@ ośmielić,to encourage (once),,perf verb
 ośrodek,centre,Ośrodek leczenia uzależnień,m noun
 ożenić,to get married (to a woman) (once),,perf verb
 paczka,package/parcel,,f noun
+pamięć,memory,,f noun
 panować,to reign/control (repeated),Panować nad sobą (To control oneself),verb
 pantofel,slipper,Nie ma pantofla,m noun
 pas,belt,Przypiąć się pasami,m noun
@@ -1091,7 +1092,7 @@ polejesz (polać),You will pour,,conjugation
 poleję (polać),I will pour,,conjugation
 polewać,to pour (repeated),,verb
 policzyć,to count (once),,perf verb
-polować,to hunt,,verb
+polować,to hunt (repeated),,verb
 pomagaj (pomagać),Help! (repeated),,imperative
 pomagam (pomagać),I am helping,,conjugation
 pomaganie,helping,,n noun
@@ -1150,6 +1151,10 @@ potomstwo,offspring,,n noun
 potrafić,"to know how, to be able",,verb
 potraktować,to treat/handle (once),,perf verb
 potrzeba,need,,f noun
+potrząsać,to shake something (repeated),,verb
+potrząsnąć,to shake something (once),,perf verb
+potrząsnę (potrząsnąć),I will shake something,,conjugation
+potrząśniesz (potrząsnąć),You will shake something,,conjugation
 potykać się,to stumble/trip (repeated),,verb
 potężny,mighty/powerful,,adjective
 potłuczony,shattered,,adjective
@@ -1316,6 +1321,7 @@ przesłuchiwać,to interrogate/question (repeated),,verb
 przetrwać,to survive,,verb
 przewiązać,to tie (up) (once),,perf verb
 przewiązywać,to tie (up) (repeated),,verb
+przezroczysty,transparent,,adjective
 przełom,breakthrough,Nie ma przełomu,m noun
 przeżywać,to live through or experience (repeated),,verb
 przeżyć,to live through or experience (once),,perf verb
@@ -1401,6 +1407,7 @@ przyśnić się,to dream about (once),,perf verb
 próba,try,"Trzecia próba, trzecia porażka",f noun
 prąd,electricity,,m noun
 prędkość,speed,,f noun
+psuć,to break/spoil/ruin (repeated),,verb
 psychiczny,psychic,,adjective
 publicysta,columnist,,m noun
 pudełko,box,,n noun
@@ -1525,6 +1532,7 @@ rzucać,to throw (repeated),,verb
 rzucić,to throw (once),,perf verb
 rząd,government,,m noun
 rządzić,to govern,,verb
+ród,family/kin/tribe,Nie ma rodu,m noun
 również,also,Rząd obiecuje również niższy podatek,adverb
 równik,equator,,m noun
 równouprawnienie,equal rights (equality),,n noun
@@ -1633,6 +1641,8 @@ stajnia,stable,,f noun
 stan,state/condition,Jaki jest stan pacjenta? (What is the patient's condition?),m noun
 stanowczo,firmly/flatly/categorically,,adverb
 stanowisko,post/position,,n noun
+starczać,to suffice (repeated),,verb
+starczyć,to suffice (once),,perf verb
 starość,old age,,f noun
 stawać się,to become/happen (repeated),,verb
 stać się,to become/happen (once),,perf verb
@@ -1653,6 +1663,7 @@ styczeń,January,,m noun
 stypendium,bursary/grant,,n noun
 stąd,from here,,adverb
 sumienie,conscience,,n noun
+surowy,raw/harsh/severe,,adjective
 suszyć,to dry (repeated),,verb
 swobodny,unconstrained,,adjective
 sylwetka,silhouette,,f noun
@@ -1687,6 +1698,7 @@ słuchacz,listener,Słuchaczka,m noun
 służbowo,on business,,adverb
 służący,servant,,m noun
 słynny,famous/well-known,,adjective
+słój,jar,,m noun
 tablica,blackboard/noticeboard,,f noun
 tajemnica,(a) secret,,f noun
 tajny,secret,,adjective
@@ -1989,7 +2001,7 @@ wskazówka,pointer,,f noun
 wsparcie,support,,n noun
 wspierać,to support (repeated),,verb
 wspominać,to recollect/remember (repeated),,verb
-wspomnienie,memory,,n noun
+wspomnienie,memory/recollection,,n noun
 wspomnieć,to recollect/remember (once),,perf verb
 wspólny,common/shared,Wspólne cele (Common goals),adjective
 współczesny,contemporary/current,,adjective
@@ -2151,6 +2163,7 @@ wzruszać,to move/touch (repeated),,verb
 wzruszenie,emotion,,n noun
 wzruszyć,to move/touch (once),,perf verb
 wzór,pattern,,m noun
+wódz,leader/chief/chieftain,,m noun
 wóź (wozić),Transport/drive!,,imperative
 wąski,narrow,,adjective
 wątpić,to doubt,Wątpię że będzie to robić (I doubt he'll do it),verb
@@ -2255,6 +2268,7 @@ zapas,reserve/stock/supply,Nie ma zapasu,m noun
 zapewne,surely,,adverb
 zapisać,to record/save (once),,perf verb
 zapisywać,to record/save (repeated),,verb
+zapolować,to hunt (once),,perf verb
 zapominać,to forget (repeated),,verb
 zapomnieć,to forget (once),,perf verb
 zapragnąć,to desire (once),,perf verb
@@ -2395,6 +2409,7 @@ zegnę (zgiąć),I will bend,,conjugation
 zejść,to descend (once),,perf verb
 zemścić się,to avenge oneself on somebody (once),,perf verb
 zepchnąć,to drive back (once),,perf verb
+zepsuć,to break/spoil/ruin (once),,perf verb
 zerwanie,severance,,n noun
 zerwać,to sever/strip (once),,perf verb
 zerwiesz (zerwać),You will sever/strip,,conjugation
@@ -2485,6 +2500,7 @@ zyskać,to gain/win/profit (once),,perf verb
 zyskiwać,to gain/win/profit (repeated),,verb
 złamać,to break (once),,perf verb
 zło,evil/wrong,,n noun
+złowić,to catch/hunt (once),,perf verb
 złość,anger,,f noun
 złożony,complex/compound,,adjective
 ćwiczyć,to exercise (repeated),,verb
@@ -2497,6 +2513,7 @@ złożony,complex/compound,,adjective
 łamię (łamać),I am breaking,,conjugation
 ławka,bench,,f noun
 łańcuch,chain,,m noun
+łowić,to catch/hunt (repeated),,verb
 łuska,scale,,f noun
 łącznie,including/altogether,,adverb
 łączyć,to connect/combine (repeated),Niektórzy łączą naukę z pracą,verb
