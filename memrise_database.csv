@@ -198,6 +198,7 @@ chociaż,(even) though,"Nie jestem wesoły, chociaż piję wino",conjunction
 chodzenie,walking,,n noun
 choroba,disease,,f noun
 choć,(even) though,"Jestem smutny, choć mam wino",conjunction
+chudnąc,to loose weight (repeated),,verb
 chwilowo,momentarily/temporarily,Sklep jest chwilowo nieczynny,adverb
 chwilowy,temporary,,adjective
 chwycić,to grasp/grab (once),,perf verb
@@ -214,6 +215,7 @@ cisza,silence,,f noun
 ciągle,continuously,,adverb
 ciąża,pregnancy,Mama była w czwartym miesiącu ciąży,f noun
 ciężar,weight,Nie ma ciężaru,m noun
+cięższy,heavier,,adjective
 cofać,to reverse (repeated),,verb
 cofniesz (cofnąć),You will reverse,,conjugation
 cofnąć,to reverse (once),,perf verb
@@ -227,6 +229,7 @@ cyniczny,cynical,,adjective
 czaisz się (czaić się),You are lurking,,conjugation
 czaić się,to lurk (repeated),,verb
 czaję się (czaić się),I am lurking,,conjugation
+czar,charm,Nie ma czaru,m noun
 czasami,sometimes,,adverb
 czasownik,verb,,m noun
 czekanie,waiting,,n noun
@@ -564,7 +567,10 @@ krzykniesz (krzyknąć),You will shout,,conjugation
 krzyknąć,to shout (once),,perf verb
 krzyknę (krzyknąć),I will shout,,conjugation
 krzyż,cross,,m noun
+królewicz,prince,,m noun
+królowa,queen,,f noun
 krążyć,to circle/rotate/orbit,,verb
+księżniczka,princess,,f noun
 kształt,shape,Nie ma kształtu,m noun
 kształtować,to shape (repeated),,verb
 kuchenka,stove/hob,,f noun
@@ -613,6 +619,7 @@ luty,February,,m noun
 ląd,land,Nie ma lądu,m noun
 lądować,to land (repeated),,verb
 lśniący,shiny,,adjective
+lżejszy,lighter,,adjective
 macierzyństwo,motherhood,,n noun
 macocha,stepmother,,f noun
 magisterium,master's degree,,n noun
@@ -724,6 +731,7 @@ męczący,tiresome/tiring,,adjective
 męski,masculine,,adjective
 męskoosobowy,masculine personal,,adjective
 młodość,youth,,f noun
+młodzieniec,youth,,m noun
 mścić się,to avenge oneself on somebody (repeated),,verb
 na dodatek,in addition,W dodatku,phrase
 na stałe,permanently,,adverb
@@ -735,6 +743,7 @@ naciskać,to press (repeated),,verb
 nacisnąć,to press (once),,perf verb
 naczynie,vessel,,n noun
 nadal,still,,adverb
+nadmierny,excessive,,adjective
 nadziać,to impale (once),,perf verb
 nadziejesz (nadziać),You will impale,,conjugation
 nadzieję (nadziać),I will impale,,conjugation
@@ -782,9 +791,11 @@ nastawiać,to set (repeated),,verb
 nastawiony,orientated,,adjective
 nastawić,to set (once),,perf verb
 nastolatek,teenager,,m noun
+nastrój,mood,Nie ma nastroju,m noun
 nastąpić,to follow/proceed (once),,perf verb
 następować,to follow/proceed (repeated),,verb
 następujący,following/succeeding,,adjective
+nasycenie,saturation,,n noun
 natomiast,whereas,"Nie lubię go, natomiast lubię jego żoną",adverb
 nauczanie,teaching,,n noun
 nauczyć się,to learn (once),,perf verb
@@ -808,6 +819,7 @@ nieco,somewhat,,adverb
 niedawny,recent,Od niedawna (Until recently),adjective
 niedbałość,negligence,,f noun
 niedoświadczony,inexperienced,,adjective
+niegdyś,formerly,,adverb
 niekończący się,never-ending,,adjective
 niemal,almost/nearly,Jestem niemal pewny,adverb
 nienawiść,hatred,,f noun
@@ -818,6 +830,7 @@ niepowtarzalność,uniqueness,,f noun
 nieprzerwany,uninterrupted,,adjective
 nieprzypadkowo,"intentionally, not accidentally",,adverb
 nieprzystosowany,ill-suited/ill-fitted,,adjective
+nieprzytomny,unconscious,,adjective
 nieraz,many a time,,adverb
 nieruchomy,"still, not moving",,adjective
 niespełna,nearly,,adverb
@@ -909,12 +922,12 @@ oczekuję (oczekiwać),I am anticipating,,conjugation
 od nowa,from scratch,Zaczynać od nowa,phrase
 odbicie,reflection,,n noun
 odbierać,to take back (repeated),,verb
-odbywa się (odbywać się),It is taking place,,conjugation
-odbywają się (odbywać się),They are taking place,,conjugation
+odbywa się (odbywać się),it is taking place,,conjugation
+odbywają się (odbywać się),they are taking place,,conjugation
 odbywać się,to take place (repeated),,verb
 odbyć się,to take place (once),,perf verb
-odbędzie się (odbyć się),It will take place,,conjugation
-odbędą się (odbyć się),They will take place,,conjugation
+odbędzie się (odbyć się),it will take place,,conjugation
+odbędą się (odbyć się),they will take place,,conjugation
 odchodzić,to go away (repeated),,verb
 odcięty,cut off from,,adjective
 oddadzą (oddać),They will give back,,conjugation
@@ -1319,6 +1332,7 @@ pośpiech,haste/rush,Nie ma pośpiechu,m noun
 pośpieszny,hasty,,adverb
 poświęcać,to sacrifice (repeated),,verb
 poświęcić,to sacrifice (once),,perf verb
+pożarty,gobbled,,adjective
 pożałować,to regret (once),,perf verb
 pożegnanie,farewell/parting,,n noun
 pożegnać,to say farewell (once),,verb
@@ -1350,6 +1364,7 @@ przecinać,to cut II (repeated),,verb
 przeciwieństwo,opposition/contrast,,n noun
 przeciwniczka,opponent (female),,f noun
 przeciwnik,opponent (male),,m noun
+przeciwny,opposite,W przeciwnym razie,adjective
 przeciąć,to cut II (once),,perf verb
 przeciętny,mediocre,,adjective
 przed(e),"before, in front, first (in order)",Przede wszystkim przestań płakać,preposition
@@ -1504,6 +1519,7 @@ przytulny,cosy/snug,,adjective
 przytulę (przytulić),I will hug/cuddle,,conjugation
 przytwierdzać,to attach (repeated),,verb
 przytwierdzić,to attach (once),,perf verb
+przytyć,to gain weight (once),,perf verb
 przywracać,to restore (repeated),,verb
 przywrócić,to restore (once),,perf verb
 przywódca,leader,,m noun
@@ -1521,6 +1537,7 @@ prąd,electricity,,m noun
 prędkość,speed,,f noun
 psuć,to break/spoil/ruin (repeated),,verb
 psychiczny,psychic,,adjective
+psychika,psyche,,f noun
 publicysta,columnist,,m noun
 pudełko,box,,n noun
 pustka,emptiness,,f noun
@@ -1637,6 +1654,8 @@ rośniesz (rosnąć),You are growing,,conjugation
 rośnij (rosnąć),Grow! (repeated),,imperative
 rubryka,blank or section,,f noun
 ruch,movement,Nie ma ruchu,m noun
+ryknąć,to roar/bray/bellow (once),,perf verb
+ryrzeć,to roar/bray/bellow (repeated),,verb
 rysunek,drawing,,m noun
 ryzyko,risk,,n noun
 rzeczownik,noun,,m noun
@@ -1664,6 +1683,7 @@ samolubny,selfish,,adjective
 samotność,loneliness,,f noun
 schodzić,to descend (repeated),,verb
 schorowany,ailing/diseased,,adjective
+schudnąc,to loose weight (once),,perf verb
 siadać,to sit down (repeated),,verb
 siedzenie,seat,,n noun
 siedzieć,to sit,,verb
@@ -1793,6 +1813,7 @@ szacować,to estimate/assess (repeated),,verb
 szacunek,respect,"Pamiętaj, szacunek to wszystko!",m noun
 szafka,wall cupboard,,f noun
 szanowny,honourable,,adjective
+szał,frenzy/delirium/lunacy,Nie ma szału,m noun
 szczególnie,particularly/especially,,adverb
 szczegół,detail,,m noun
 szczerze,frankly/candidly,,adverb
@@ -1818,6 +1839,7 @@ słodzić,to sweeten (repeated),,verb
 słowiański,Slavic,,adjective
 słownictwo,vocabulary,,n noun
 słuchacz,listener,Słuchaczka,m noun
+słup,pole/pylon/post/column,,m noun
 służbowo,on business,,adverb
 służący,servant,,m noun
 słynny,famous/well-known,,adjective
@@ -1834,6 +1856,7 @@ teoria,theory,,f noun
 teraźniejszość,the present,,f noun
 termin,deadline,,m noun
 terminarz,calendar,,m noun
+tkanina,fabric/cloth,,f noun
 tom,volume (of a book),Nie ma tomu,m noun
 topić,to drown (repeated),,verb
 towar,goods/commodity,Nie ma towaru,m noun
@@ -1864,10 +1887,13 @@ tuż,nearby/just,Tuż przed/po czymś,adverb
 twierdzić,to assert/claim (repeated),,verb
 tworzyć,to create (repeated),,verb
 tydzień,week,,m noun
+tyjesz (tyć),You are gaining weight,,conjugation
+tyję (tyć),I am gaining weight,,conjugation
 tyle,so many/much,Nawet nie tyle (Not even that much),adverb
 tylny,rear,,adjective
 typowy,typical,,adjective
 tysiąc,one thousand,,numeral
+tyć,to gain weight (repeated),,verb
 tępy,blunt/dull,,adjective
 tęsknota,a longing,,f noun
 tło,background,,n noun
@@ -2009,6 +2035,8 @@ utwór,piece of work,Nie ma utworu,m noun
 uwaga,attention,,f noun
 uwalniać,to rid/free/liberate (repeated),,verb
 uwolnić,to rid/free/liberate (once),,perf verb
+uwzględniać,to take into consideration (repeated),,verb
+uwzględnić,to take into consideration (once),,perf verb
 uzależnienie,addiction,,n noun
 uzasadniać,to justify/defend a point of view (repeated),Nie powinni musieć uzasadniać wartości swego wina,verb
 uzasadniony,justified,,adjective
@@ -2202,6 +2230,8 @@ wykonywanie,execution,Czy wykonywanie tej pracy wymaga studiów lub praktyki?,n 
 wykonywać,to carry out or execute (repeated),,verb
 wykorzystać,"to make use of, to take advantage of (once)",,perf verb
 wykorzystywać,"to make use of, to take advantage of (repeated)",,verb
+wykraczać poza coś,to exceed something (repeated),,verb
+wykroczyć poza coś,to exceed something (once),,perf verb
 wykrywać,to detect (repeated),,verb
 wykryć,to detect (once),,perf verb
 wykształcenie,education,,n noun
@@ -2270,6 +2300,7 @@ wyschnąć,to dry up (once),,perf verb
 wysiłek,effort,Nie ma wysiłku,m noun
 wysokość,height,,f noun
 wystawa,exhibition/show,,f noun
+wystrój,decoration,Nie ma wystroju,m noun
 wystąpić,to stand out (once),,perf verb
 występować,to stand out (repeated),,verb
 wysuszyć,to dry (once),,perf verb
