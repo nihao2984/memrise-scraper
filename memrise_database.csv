@@ -122,6 +122,7 @@ bandyta,bandit,,m noun
 barwa,colour,,f noun
 bawełna,cotton,,f noun
 bać się,"to be scared, to fear",,verb
+beczka,barrel,,f noun
 bezdomny,homeless,,adjective
 bezinteresowny,selfless/unselfish,,adjective
 beznadziejny,hopeless,,adjective
@@ -165,6 +166,7 @@ brzmij (brzmieć),Sound! (repeated),,imperative
 brzmisz (brzmieć),You sound,,conjugation
 brzmię (brzmieć),I sound,,conjugation
 budować,to build (repeated),,verb
+bunt,rebellion/mutiny,Nie ma buntu,m noun
 buntownik,rebel/mutineer,,m noun
 burmistrz,mayor,,m noun
 burz (burzyć),Demolish/destroy! (repeated),,imperative
@@ -198,7 +200,7 @@ chociaż,(even) though,"Nie jestem wesoły, chociaż piję wino",conjunction
 chodzenie,walking,,n noun
 choroba,disease,,f noun
 choć,(even) though,"Jestem smutny, choć mam wino",conjunction
-chudnąc,to loose weight (repeated),,verb
+chudnąć,to loose weight (repeated),,verb
 chwilowo,momentarily/temporarily,Sklep jest chwilowo nieczynny,adverb
 chwilowy,temporary,,adjective
 chwycić,to grasp/grab (once),,perf verb
@@ -211,6 +213,7 @@ ciekawość,curiosity/interest,,f noun
 cienki,thin,,adjective
 cierpienie,suffering,,n noun
 cierpieć,to suffer,Cały naród cierpi (The whole nation suffers),verb
+cios,"blow (as in, hit)",Nie ma ciosu,m noun
 cisza,silence,,f noun
 ciągle,continuously,,adverb
 ciąża,pregnancy,Mama była w czwartym miesiącu ciąży,f noun
@@ -310,6 +313,7 @@ dopasowywać,to fit/match (repeated),,verb
 dopełniacz (kogo? czego?),genitive case,,m noun
 dopiero,barely/scarcely,,adverb
 dopingować,to support/boost (repeated),,verb
+doradca,advisor,,m noun
 doradzać,to advise somebody (repeated),Doradzać komuś coś,verb
 doradzić,to advise somebody (once),,perf verb
 dorosłość,adulthood,,f noun
@@ -324,6 +328,7 @@ dostaniesz (dostać),You will get/receive,,conjugation
 dostanę (dostać),I will get/receive,,conjugation
 dostarczać,to deliver (repeated),,verb
 dostarczyć,to deliver (once),Czy dostarczacie lodówki? (Do you deliver fridges?),perf verb
+dostateczny,sufficient/adequate,,adjective
 dostawaj (dostawać),Get/receive! (repeated),,imperative
 dostawać,to get/receive (repeated),,verb
 dostać,to get/receive (once),,perf verb
@@ -450,6 +455,7 @@ gościnny,hospitable,,adjective
 gość,guest,,m noun
 granatowy,navy blue,,adjective
 granica,border,,f noun
+gromadzić,to amass/gather (repeated),,verb
 grozisz (grozić),You are threatening,,conjugation
 grozić,to threaten (repeated),,verb
 grożę (grozić),I am threatening,,conjugation
@@ -567,9 +573,10 @@ krzykniesz (krzyknąć),You will shout,,conjugation
 krzyknąć,to shout (once),,perf verb
 krzyknę (krzyknąć),I will shout,,conjugation
 krzyż,cross,,m noun
-królewicz,prince,,m noun
+królewicz,prince I,,m noun
 królowa,queen,,f noun
 krążyć,to circle/rotate/orbit,,verb
+książę,prince II,,m noun
 księżniczka,princess,,f noun
 kształt,shape,Nie ma kształtu,m noun
 kształtować,to shape (repeated),,verb
@@ -835,6 +842,7 @@ nieraz,many a time,,adverb
 nieruchomy,"still, not moving",,adjective
 niespełna,nearly,,adverb
 niespodzianka,surprise,,f noun
+niespodziewany,unexpected/unforeseen,,adjective
 niesprawiedliwy,unfair/unjust,,adjective
 nietknięty,untouched/unharmed/intact,,adjective
 nieuczciwy,dishonest,,adjective
@@ -857,6 +865,7 @@ notować,to note (repeated),,verb
 nowinka,gossip,,f noun
 nowo,newly,,adverb
 noworodek,newborn (baby),,m noun
+nowożeńcy,newly-weds,,m plural noun
 nurkować,to dive (repeated),,verb
 oba,"both (m, n)","Oba samochody, oba drzewa",numeral
 obaj mężczyźni,both men,,numeral
@@ -870,6 +879,7 @@ obciążyć,to burden/load (once),,perf verb
 obcy,foreign/strange,Szkoła języków obcych,adjective
 obecnie,currently/presently,,adverb
 obecność,presence,Martwi mnie obecność policji (I worry about the presence of the police),f noun
+obecny,current/present,,adjective
 obejrzeć,to watch/look at (once),,perf verb
 obetniesz (obciąć),You will clip/trim,,conjugation
 obetnę (obciąć),I will clip/trim,,conjugation
@@ -946,6 +956,9 @@ odebrać,to take back (once),,perf verb
 odejdziesz (odejść),You will go away,,conjugation
 odejdę (odejść),I will go away,,conjugation
 odejść,to go away (once),,perf verb
+oderwać,to tear away (once),,perf verb
+oderwiesz (oderwać),You will tear away,,conjugation
+oderwę (oderwać),I will tear away,,conjugation
 odgłos,sound/noise,Nie ma odgłosu,m noun
 odizolować,to isolate (once),,perf verb
 odjechać,to leave/depart (by vehicle) (once),,perf verb
@@ -988,6 +1001,7 @@ odpowiedzialny,responsible,,adjective
 odpowiedzieć,to answer (once),,perf verb
 odpowietrznik,air vent,,m noun
 odrobina,a bit of,,f noun
+odrywać,to tear away (repeated),,verb
 odrzucenie,rejection/dismissal,,n noun
 odsetek,percentage,Nie ma odsetka,m noun
 odstawienie,withdrawal,,n noun
@@ -1034,12 +1048,14 @@ określony,specific,,adjective
 okruch,crumb,,m noun
 okrutny,cruel/severe/savage,,adjective
 okrzyk,shout/cry/exclamation,Nie ma okrzyku,m noun
+okręt,ship,Nie ma okrętu,m noun
 opaska,bandage/armband,,f noun
 opieka,care,,f noun
 opinia,opinion,,f noun
 opis,description,Czytaj opis! (Read the description!),m noun
 opisać,to describe (once),,perf verb
 opisywać,to describe (repeated),,verb
+opona,tyre,,f noun
 opowieść,story/tale,,f noun
 oprócz,"except, apart from",,preposition
 opróżniać,to empty (repeated),,verb
@@ -1060,6 +1076,7 @@ osobowość,personality,Ale masz wspaniała osobowość!,f noun
 ostatecznie,eventually/ultimately,,adverb
 ostrość,sharpness,,f noun
 ostrożnie,carefully,,adverb
+ostrze,edge/blade,,n noun
 ostrzeżenie,warning,,n noun
 oszacować,to estimate/assess (once),,perf verb
 oszczędzać,to save/economize (repeated),,verb
@@ -1115,6 +1132,7 @@ plotkować,to gossip,,verb
 pobicie,beating,,n noun
 pobierać,to download (repeated),,verb
 pobierać się,to get married (repeated),,verb
+pobliski,nearby,,adjective
 pobrać,to download (once),,perf verb
 pobrać się,to get married (once),,perf verb
 pobyt,stay,Nie ma pobytu,m noun
@@ -1224,11 +1242,13 @@ ponoć,seemingly/supposedly,,adverb
 popchnąć,to push (once),,perf verb
 popełniać,to commit (e.g. a crime) (repeated),,verb
 popełnić,to commit (e.g. a crime) (once),,perf verb
+popierać,"to back up, to second (repeated)",,verb
 poplamiony,stained/soiled,,adjective
 poplamić,to stain/soil (once),,perf verb
 poprawka,correction,,f noun
 poprawnie,correctly/properly,,adverb
 poprzedni,previous,,adjective
+poprzeć,"to back up, to second (once)",,perf verb
 popychać,to push (repeated),,verb
 popyt,demand,Nie ma popytu,m noun
 poranny,morning,,adjective
@@ -1262,6 +1282,7 @@ potknąć się,to stumble/trip (once),,perf verb
 potomstwo,offspring,,n noun
 potrafić,"to know how, to be able",,verb
 potraktować,to treat/handle (once),,perf verb
+potrawa,dish (of food),,f noun
 potrzeba,need,,f noun
 potrząsać,to shake something (repeated),,verb
 potrząsnąć,to shake something (once),,perf verb
@@ -1308,7 +1329,9 @@ powyższy,preceeding/above,Proszę znaleźć w powyższym zadaniu,adjective
 powód,reason,Nie ma powodu,m noun
 poza tym,anyway/besides,,adverb
 pozaziemski,"alien (as in, extra-terrestrial)",Istota pozaziemska,adjective
+pozbawiać,to deprive (repeated),,verb
 pozbawiony,lacking,,adjective
+pozbawić,to deprive (once),,perf verb
 pozbywać się,to rid oneself of (repeated),,verb
 pozbyć się,to rid oneself of (once),,perf verb
 pozbędziesz się (pozbyć się),You will rid yourself of,,conjugation
@@ -1336,6 +1359,8 @@ pożarty,gobbled,,adjective
 pożałować,to regret (once),,perf verb
 pożegnanie,farewell/parting,,n noun
 pożegnać,to say farewell (once),,verb
+pożerać,"to devour, to gobble up (repeated)",,verb
+pożreć,"to devour, to gobble up (once)",,perf verb
 pożyczać,to borrow/lend (repeated),,verb
 pożyczka,loan,,f noun
 pożyczyć,to borrow/lend (once),,perf verb
@@ -1445,8 +1470,11 @@ przesłanie,message,,n noun
 przesłuchać,to interrogate/question (once),,perf verb
 przesłuchiwać,to interrogate/question (repeated),,verb
 przetrwać,to survive,,verb
+przewijać,to fast-forward/rewind (repeated),,verb
+przewinąć,to fast-forward/rewind (once),,perf verb
 przewiązać,to tie up (once),,perf verb
 przewiązywać,to tie up (repeated),,verb
+przeziębiony,having a cold,,adjective
 przezroczysty,transparent,,adjective
 przełom,breakthrough,Nie ma przełomu,m noun
 przeżywać,to live through or experience (repeated),,verb
@@ -1506,6 +1534,7 @@ przysłuchać się,to listen in (once),,perf verb
 przysłuchiwać się,to listen in (repeated),,verb
 przysługa,favour,,f noun
 przysłówek,adverb,,m noun
+przytomność,consciousness,,f noun
 przytrafiać się,to (be)chance (repeated),,verb
 przytrafić się,to (be)chance (once),,perf verb
 przytul (przytulić),Hug/cuddle! (once),,imperative
@@ -1654,6 +1683,7 @@ rośniesz (rosnąć),You are growing,,conjugation
 rośnij (rosnąć),Grow! (repeated),,imperative
 rubryka,blank or section,,f noun
 ruch,movement,Nie ma ruchu,m noun
+rycerz,knight,,m noun
 ryknąć,to roar/bray/bellow (once),,perf verb
 ryrzeć,to roar/bray/bellow (repeated),,verb
 rysunek,drawing,,m noun
@@ -1683,7 +1713,7 @@ samolubny,selfish,,adjective
 samotność,loneliness,,f noun
 schodzić,to descend (repeated),,verb
 schorowany,ailing/diseased,,adjective
-schudnąc,to loose weight (once),,perf verb
+schudnąć,to loose weight (once),,perf verb
 siadać,to sit down (repeated),,verb
 siedzenie,seat,,n noun
 siedzieć,to sit,,verb
@@ -1863,6 +1893,7 @@ towar,goods/commodity,Nie ma towaru,m noun
 towarzyski,gregarious,,adjective
 towarzystwo,company,,n noun
 towarzyszyć,to accompany,,verb
+toń,depths,,f noun
 tracisz (tracić),You are losing (something),,conjugation
 tracić,to lose (something) (repeated),,verb
 tracę (tracić),I am losing (something),,conjugation
@@ -1911,6 +1942,7 @@ uciekać,to run away/escape (repeated),,verb
 uczelnia,university/college,,f noun
 uczestniczyć,to participate,,verb
 uczestnik,participant,,m noun
+uczta,feast,,f noun
 uczucie,feeling,,n noun
 uczuciowy,emotional,,adjective
 uczynić,to do/make something significant (once),,perf verb
@@ -2067,6 +2099,10 @@ warsztat,workshop,,m noun
 wartość,value,,f noun
 warunek,term/condition,,m noun
 ważyć,to weigh (repeated),,verb
+wbijać,to hammer/plunge/sink (repeated),,verb
+wbijesz (wbić),You will hammer/plunge/sink,,conjugation
+wbiję (wbić),I will hammer/plunge/sink,,conjugation
+wbić,to hammer/plunge/sink (once),,perf verb
 wbrew,against,Wbrew zasadom,preposition
 wcale,whatsoever/in the least,,adverb
 wciąż,still/always/continually,,adverb
@@ -2258,6 +2294,8 @@ wynajmować,to hire (repeated),,verb
 wynająć,to hire (once),,perf verb
 wynegocjować,to negotiate (once),,perf verb
 wynik,result,,m noun
+wynurzać się,to emerge (repeated),,verb
+wynurzyć się,to emerge (once),,perf verb
 wyobrazić sobie,to imagine (once),,perf verb
 wyobraźnia,imagination,Użyj wyobraźni! (Use your imagination!),f noun
 wyobrażać sobie,to imagine (repeated),,verb
@@ -2337,6 +2375,8 @@ wyślę (wysłać),I will send,,conjugation
 wyższy,higher,,adjective
 wzajemnie,"mutually, reciprocally",,adverb
 wzgląd,respect/regard,Nie ma względu,m noun
+wznieść,to lift/raise (once),,perf verb
+wznosić,to lift/raise (repeated),,verb
 wzornictwo,design,,n noun
 wzrastać,to rise/grow/increase (repeated),,verb
 wzrok,eyesight/vision,Nie ma wzroku,m noun
@@ -2418,6 +2458,10 @@ zajść,to go behind (once),,perf verb
 zakaz,ban,Nie ma zakazu,m noun
 zakazany,banned/forbidden or seedy,,adjective
 zakończenie,ending/conclusion,,n noun
+zakradać się,to sneak in (repeated),,verb
+zakradniesz się (zakraść się),You will sneak in,,conjugation
+zakradnę się (zakraść się),I will sneak in,,conjugation
+zakraść się,to sneak in (once),,perf verb
 zakręcać,to screw/tighten (repeated),,verb
 zakręcić,to screw/tighten (once),,perf verb
 zakład,bet,Nie ma zakładu,m noun
@@ -2628,6 +2672,7 @@ zgiąć,to bend (once),,perf verb
 zgoda,agreement,,f noun
 zgodzić się,to agree (once),,perf verb
 zgrabny,shapely,,adjective
+zgromadzić,to amass/gather (once),,perf verb
 zgłoszenie,application/enrolment,,n noun
 ziarno,grain/particle,Jest wiele ziaren,n noun
 zjawisko,phenomenon,,n noun
@@ -2666,6 +2711,7 @@ zranić,to wound/hurt (once),,perf verb
 zrań (zranić),Wound/hurt! (once),,imperative
 zredagować,to edit (once),,perf verb
 zresztą,"anyway, after all, besides",,particle
+zrozpaczony,desperate/despairing,,adjective
 zrywać,to sever/strip (repeated),,verb
 zszarpany,shredded/torn/frayed,,adjective
 zupełnie,entirely,,adverb
