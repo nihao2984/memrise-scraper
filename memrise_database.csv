@@ -149,6 +149,7 @@ blizna,scar,,f noun
 bliźniaczka,twin (female),,f noun
 bliźniak,twin (male),,m noun
 blokada,blockage,,f noun
+bochenek,loaf,,m noun
 bogactwo,wealth,,n noun
 bohater,hero/protagonist,,m noun
 bojaźliwy,timid,,adjective
@@ -1039,6 +1040,7 @@ odpowiedzialność,responsibility,,f noun
 odpowiedzialny,responsible,,adjective
 odpowiedzieć,to answer (once),,perf verb
 odpowietrznik,air vent,,m noun
+odpływ,low tide,Nie ma odpływu,m noun
 odrobina,a bit of,,f noun
 odrywać,to tear away (repeated),,verb
 odrzucenie,rejection/dismissal,,n noun
@@ -1215,6 +1217,7 @@ podnosić,to pick up (repeated),,verb
 podnoszę (podnosić),I am picking up,,conjugation
 podnoś (podnosić),Pick up! (repeated),,imperative
 podobieństwo,similarity,,n noun
+podobno,reportedly/supposedly/apparently,,adverb
 podobny,similar,,adjective
 podrażniać,to physically irritate (repeated),,verb
 podrażnić,to physically irritate (once),,perf verb
@@ -1398,8 +1401,10 @@ poznać,"to meet, to get to know (once)",,perf verb
 pozostawiać,to leave behind II (repeated),,verb
 pozostawić,to leave behind II (once),,perf verb
 pozwalać,to allow (repeated),Pozwalają dzieciom pić kawę (They allow children to drink coffee),verb
+pozwać kogoś do sądu,to take somebody to court (once),,perf verb
 pozwolenie,permit,,n noun
 pozwolić,to allow (once),,perf verb
+pozywać kogoś do sądu,to take somebody to court (repeated),,verb
 pozór,appearance/pretence,Nie ma pozoru,m noun
 połowa,half/middle,,f noun
 położyć,to lay (once),,perf verb
@@ -1448,7 +1453,7 @@ przecinać,to cut II (repeated),,verb
 przeciwieństwo,opposition/contrast,,n noun
 przeciwniczka,opponent (female),,f noun
 przeciwnik,opponent (male),,m noun
-przeciwność,adversities,,f plural noun
+przeciwność,adversity,,f noun
 przeciwny,opposite,W przeciwnym razie,adjective
 przeciąć,to cut II (once),,perf verb
 przeciętny,mediocre,,adjective
@@ -1586,6 +1591,7 @@ przyprowadzać,to bring (repeated),,verb
 przyprowadzić,to bring (once),,perf verb
 przypuszczać,to suppose/assume,,verb
 przypuszczenie,supposition/assumption,,n noun
+przypływ,high tide,Nie ma przypływu,m noun
 przyroda,nature,Kocham przyrodę! (I love nature!),f noun
 przysięga,oath/swearing,,f noun
 przyspieszać,to accelerate (repeated),,verb
@@ -1713,6 +1719,7 @@ rozpoczynać się,to begin/commence (repeated),,verb
 rozpocząć się,to begin/commence (once),,perf verb
 rozpoznawać,to recognize/identify/diagnose (repeated),,verb
 rozpoznać,to recognize/identify/diagnose (once),,perf verb
+rozprawa,trial/hearing,,f noun
 rozrastać się,to grow/spread (repeated),,verb
 rozrosnąć się,to grow/spread (once),,perf verb
 rozruch,startup/starting,Nie ma rozruchu,m noun
@@ -1785,6 +1792,8 @@ samotność,loneliness,,f noun
 schodzić,to descend (repeated),,verb
 schorowany,ailing/diseased,,adjective
 schudnąć,to loose weight (once),,perf verb
+schylać,to bend down (repeated),,verb
+schylić,to bend down (once),,perf verb
 siadać,to sit down (repeated),,verb
 siedzenie,seat,,n noun
 siedzieć,to sit,,verb
@@ -1823,6 +1832,7 @@ skupiać się,to concentrate (repeated),,verb
 skupić się,to concentrate (once),,perf verb
 skuteczny,effective,,adjective
 skutek,consequence/result/effect,,m noun
+skąpy,miserly/stingy,,adjective
 składnia,syntax,,f noun
 skłamać,to lie (once),,perf verb
 smarować,to spread/rub/grease/smear (repeated),,verb
@@ -1946,6 +1956,7 @@ sznur,cord/line/lead,,m noun
 szpiegować,to spy,,verb
 szufelka,dustpan,,f noun
 szuflada,drawer,,f noun
+szum,hum/burble/lap,Nie ma szumu,m noun
 szyba,pane (of glass),,f noun
 szycie,sewing,,n noun
 sąd,court (of law),,m noun
@@ -2145,12 +2156,14 @@ uruchomić,to set in motion (once),,perf verb
 urząd,government office,Idę do urzędu,m noun
 urządzenie,device/appliance/utensil,,n noun
 urzędnik,official or civil servant,,m noun
+uschnąć,to wither (once),,perf verb
 usmażyć,to fry (once),,perf verb
 usprawiedliwienie,explanation/justification/excuse,,n noun
 ustalony,fixed/established,,adjective
 usunięty,ousted/expelled,,adjective
 usunąć,to remove (once),,perf verb
 usuwać,to remove (repeated),,verb
+usychać,to wither (repeated),,verb
 usypiać,to put to sleep (repeated),,verb
 uszkodzenie,damage/injury,,n noun
 usługa,service,,f noun
@@ -2175,6 +2188,7 @@ ułożyć,to arrange/align (once),,perf verb
 uśpisz (uśpić),You will put to sleep,,conjugation
 uśpić,to put to sleep (once),,perf verb
 uśpię (uśpić),I will put to sleep,,conjugation
+użalać się nad kimś,to pity somebody,,verb
 użyjesz (użyć),You will use,,conjugation
 użyję (użyć),I will use,,conjugation
 używanie,using,,n noun
@@ -2534,6 +2548,7 @@ zachód,west,Na zachodzie (Westwards),m noun
 zachęcający,inviting/tempting,,adjective
 zachęcać,to coax/encourage (repeated),,verb
 zachęcić,to coax/encourage (once),,perf verb
+zachłanność,greed,,f noun
 zaczaić się,to lurk (once),,perf verb
 zaczniesz (zacząć),You will start,,conjugation
 zacznij (zacząć),Start! (once),,imperative
