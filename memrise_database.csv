@@ -147,12 +147,15 @@ bierzesz (brać),You are taking,,conjugation
 biodro,hip,,n noun
 biorę (brać),I am taking,,conjugation
 biżuteria,jewellery,,f noun
+blat,counter-top or work surface,Nie ma blatu,m noun
 bliskość,closeness/nearness,,f noun
 blizna,scar,,f noun
 bliźniaczka,twin (female),,f noun
 bliźniak,twin (male),,m noun
 blokada,blockage,,f noun
 bochenek,loaf,,m noun
+bodziesz (bóść),You are butting,,conjugation
+bodę (bóść),I am butting,,conjugation
 bogactwo,wealth,,n noun
 bohater,hero/protagonist,,m noun
 bojaźliwy,timid,,adjective
@@ -189,6 +192,7 @@ bywać,to be (frequentative),Bywa trochę irytuący (He can be a bit irritating)
 były,ex/former,,adjective
 bzdura,nonsense/rubbish,,f noun
 bójka,fight,,f noun
+bóść,to butt (repeated),,verb
 błagać,to beg (repeated),,verb
 błahy,trivial,,adjective
 błysk,flash/twinkle,Nie ma błysku,m noun
@@ -425,6 +429,7 @@ długość,length,,f noun
 dźgać,to jab (repeated),,verb
 dźgnąć,to jab (once),,perf verb
 dźwig,crane,Nie ma dźwigu,m noun
+dźwięczny,resonant,,adjective
 ekran,screen,Komórka ma duży ekran,m noun
 ekscytujący,exciting,,adjective
 eksponat,exhibit,Nie ma eksponatu,m noun
@@ -443,6 +448,7 @@ filozofia,philosophy,,f noun
 furgonetka,van,,f noun
 futro,fur coat,,n noun
 gabinet,small or private office,Gabinet lekarski,m noun
+garnek,(cooking) pot,Nie ma garnka,m noun
 garnitur,suit,Nie ma garnituru,m noun
 garść,handful,,f noun
 gasisz (gasić),You are extinguishing,,conjugation
@@ -537,6 +543,8 @@ kancelaria,administrative office,,f noun
 kaprys,a whim,Nie ma kaprysu,m noun
 karać,to punish (repeated),,verb
 kartka,sheet of paper,,f noun
+karzesz (karać),You will punish,,conjugation
+karzę (karać),I will punish,,conjugation
 kawaler,bachelor,,m noun
 kazać,to command/order,,verb
 każesz (kazać),You are commanding,,conjugation
@@ -580,6 +588,7 @@ kopnąć,to kick (once),,perf verb
 koryto,trough or river bed,,n noun
 korzeń,root,Pamiętaj o swoich korzeniach!,m noun
 korzystać,to benefit from (repeated),,verb
+korzystny,beneficial/favourable/profitable,,adjective
 korzyść,benefit,,f noun
 kosmyk,wisp,,m noun
 koszmar,nightmare,Nie ma koszmaru,m noun
@@ -793,7 +802,16 @@ naciskać,to press (repeated),,verb
 nacisnąć,to press (once),,perf verb
 naczynie,vessel,,n noun
 nadal,still,,adverb
+nadawać się do czegoś,to be suitable for something (repeated),,verb
+nadać się do czegoś,to be suitable for something (once),,perf verb
 nadmierny,excessive,,adjective
+nadużyjesz czegoś (nadużyć czegoś),You will abuse something,,conjugation
+nadużyję czegoś (nadużyć czegoś),I will abuse something,,conjugation
+nadużywam czegoś (nadużywać czegoś),I am abusing something,,conjugation
+nadużywasz czegoś (nadużywać czegoś),You are abusing something,,conjugation
+nadużywać czegoś,to abuse something (repeated),,verb
+nadużyć czegoś,to abuse something (once),,perf verb
+nadwaga,overweight,,f noun
 nadziać,to impale (once),,perf verb
 nadziejesz (nadziać),You will impale,,conjugation
 nadzieję (nadziać),I will impale,,conjugation
@@ -872,6 +890,7 @@ niedbałość,negligence,,f noun
 niedoświadczony,inexperienced,,adjective
 niegdyś,formerly,,adverb
 niekończący się,never-ending,,adjective
+nieletni,juvenille,,m noun
 niemal,almost/nearly,Jestem niemal pewny,adverb
 nienawiść,hatred,,f noun
 niepodatny,impervious/insusceptible,,adjective
@@ -912,6 +931,7 @@ notować,to note (repeated),,verb
 nowinka,gossip,,f noun
 nowo,newly,,adverb
 noworodek,newborn (baby),,m noun
+nowotwór,tumour,Nie ma nowotworu,m noun
 nowożeńcy,newly-weds,,m plural noun
 nurkować,to dive (repeated),,verb
 oba,"both (m, n)","Oba samochody, oba drzewa",numeral
@@ -1097,7 +1117,9 @@ odżywić,to feed/nourish (once),,perf verb
 ofiara,victim,,f noun
 oglądać,to watch/look at (repeated),,verb
 ognisko,bonfire/campfire,Ognisko domowe,n noun
+ograniczać,to restrict/limit/reduce (repeated),,verb
 ograniczenie,limitation,,n noun
+ograniczyć,to restrict/limit/reduce (once),,perf verb
 ogólnokształcący,general education,,adjective
 ogłoszenie,notice/announcement,,n noun
 ojczym,stepfather,,m noun
@@ -1177,7 +1199,7 @@ pantofel,slipper,Nie ma pantofla,m noun
 pas,belt,Przypiąć się pasami,m noun
 pasażer,passenger,,m noun
 pasujący,matching,,adjective
-patelnia,pan,,m noun
+patelnia,(frying) pan,,m noun
 patetyczny,pompous,,adjective
 państwowy,state/civil/public/national,,adjective
 październik,October,,m noun
@@ -1446,6 +1468,7 @@ połączyć,to connect/combine (once),,perf verb
 pościg,pursuit,Nie ma pościgu,m noun
 pośpiech,haste/rush,Nie ma pośpiechu,m noun
 pośpieszny,hasty,,adverb
+pośpieszyć,to hurry/rush (once),,perf verb
 poświęcać,to sacrifice (repeated),,verb
 poświęcić,to sacrifice (once),,perf verb
 pożarty,gobbled,,adjective
@@ -1664,6 +1687,7 @@ przyzwolenie,consent,,n noun
 przyzwyczaisz (przyzwyczaić),You will get accustomed,,conjugation
 przyzwyczaić,to get accustomed (once),,perf verb
 przyzwyczajać,to get accustomed (repeated),,verb
+przyzwyczajenie,habit,,n noun
 przyzwyczajony,accustomed,,adjective
 przyzwyczaję (przyzwyczaić),I will get accustomed,,conjugation
 przyśnić się,to dream about (once),,perf verb
@@ -1682,6 +1706,7 @@ pójdę (pójść),I will go,,conjugation
 pójdź (pójść),Go! (once),,imperative
 pół miliona,half a million,,numeral
 pół tysiąca,half a thousand,,numeral
+półka,shelf,,f noun
 północ,north,Na północy (Northwards),f noun
 później,later,,adverb
 pęczniejesz (pęcznieć),You are swelling,,conjugation
@@ -1732,6 +1757,7 @@ rowerzyści,cyclists,,m plural noun
 rozbierać,to undress (repeated),,verb
 rozbijać,to break/shatter (repeated),,verb
 rozbić,to break/shatter (once),,perf verb
+rozbrykany,frisky,,adjective
 rozczarowany,disappointed,,adjective
 rozczarować się,to be disappointed (once),,perf verb
 rozczarowywać się,to be disappointed (repeated),,verb
@@ -1745,6 +1771,10 @@ rozkaz,order/command,Nie ma rozkazu,m noun
 rozkazujący,commanding/imperative,,adjective
 rozkosz,pleasure/delight,,f noun
 rozkład,decomposition,Nie ma rozkładu,m noun
+rozlec się,to ring out (once),,perf verb
+rozlegać się,to ring out (repeated),,verb
+rozlegniesz się (rozlec się),You will ring out,,conjugation
+rozlegnę się (rozlec się),I will ring out,,conjugation
 rozmazać,to smear/smudge (once),,perf verb
 rozmazywać,to smear/smudge (repeated),,verb
 rozmażesz (rozmazać),You will smear/smudge,,conjugation
@@ -1819,12 +1849,14 @@ również,also,Rząd obiecuje również niższy podatek,adverb
 równik,equator,,m noun
 równina,plain,,f noun
 równouprawnienie,equal rights (equality),,n noun
+równowaga,balance,,f noun
 różnica,difference,,f noun
 różnić się,to differ,,verb
 różny,different/diverse,,adjective
 ręcznie,by hand,,adverb
 rękaw,sleeve,,m noun
 sad,orchard,Nie ma sadu,m noun
+samobójczy,suicidal,,adjective
 samobójstwo,suicide,,n noun
 samodzielność,autonomy,,f noun
 samolubny,selfish,,adjective
@@ -1878,6 +1910,7 @@ skutek,consequence/result/effect,,m noun
 skąpy,miserly/stingy,,adjective
 składnia,syntax,,f noun
 skłamać,to lie (once),,perf verb
+skłonność,tendency/propensity/vulnerability,,f noun
 smarować,to spread/rub/grease/smear (repeated),,verb
 smażyć,to fry (repeated),,verb
 smucisz się (smucić się),You are saddened,,conjugation
@@ -1988,6 +2021,7 @@ szanowny,honourable,,adjective
 szał,frenzy/delirium/lunacy,Nie ma szału,m noun
 szczególnie,particularly/especially,,adverb
 szczegół,detail,,m noun
+szczepionka,vaccine,,f noun
 szczerze,frankly/candidly,,adverb
 szczotkować,to brush (repeated),,verb
 szczupły,lean,,adjective
@@ -2025,11 +2059,12 @@ tajny,secret,,adjective
 tak samo,equally/same,,phrase
 tak zwany,so-called,,phrase
 tandeta,crap/tat/rubbish,,f noun
+tarcza,shield/clock-face/target/disc,,f noun
 teczka,briefcase,,f noun
 temu,ago,Dwa tygodnie temu dostałem pracę,adverb
 teoria,theory,,f noun
 teraźniejszość,the present,,f noun
-termin,deadline,,m noun
+termin,deadline/date,,m noun
 terminarz,calendar,,m noun
 tkanina,fabric/cloth,,f noun
 tkanka,tissue,,f noun
@@ -2085,10 +2120,13 @@ ubiegły,last,W ubiegłym roku,adjective
 ubierać,to dress (repeated),,verb
 ubrać,to dress (once),,perf verb
 ubrudzić,to dirty (once),,perf verb
+ubóść,to butt (once),,perf verb
 ubłagać,to beg (once),,perf verb
 uciec,to run away/escape (once),,perf verb
 ucieczka,getaway/escape,,f noun
 uciekać,to run away/escape (repeated),,verb
+uciekniesz (uciec),You will run away,,conjugation
+ucieknę (uciec),I will run away,,conjugation
 uczelnia,university/college,,f noun
 uczestniczyć,to participate,,verb
 uczestnik,participant,,m noun
@@ -2202,6 +2240,8 @@ urodzajny,fertile,,adjective
 urodzenie,birth,Data urodzenia,n noun
 urodzić,to give birth to (once),,perf verb
 urosnąć,to grow (once),,perf verb
+urozmaicać coś,to vary/diversify something (repeated),,verb
+urozmaicić coś,to vary/diversify something (once),,perf verb
 uruchamiać,to set in motion (repeated),,verb
 uruchomić,to set in motion (once),,perf verb
 urząd,government office,Idę do urzędu,m noun
@@ -2301,6 +2341,7 @@ wierność,fidelity/faithfulness,,f noun
 wierny,faithful,Wierny jak pies,adjective
 wiertło,drill,,n noun
 wierzyć,to believe,Wierzysz mu? (Do you believe me?),verb
+wieszak,hanger/coat-stand/coat-rack,,m noun
 wietrzny,windy,,adjective
 wieża,tower,,f noun
 wieżowiec,high rise block,Nie ma wieżowca,m noun
@@ -2321,6 +2362,7 @@ więź,tie/bond,,f noun
 wkrótce,shortly,,adverb
 wkurzony,pissed off,,adjective
 wkładać,to put/place (repeated),,verb
+wniebogłosy,at the top of one's voice,,adverb
 wniosek,conclusion,,m noun
 wobec,towards,"Jesteśmy krytyczni wobec osób, które piją alkoholu w pracy",preposition
 wojewoda,governor of province,,m noun
@@ -2350,6 +2392,7 @@ wrażenie,impression,Zrobiła na mnie wrażenie (She impressed me),n noun
 wrażliwość,sensitivity,,f noun
 wrażliwy,sensitive,,adjective
 wrona,crow,,f noun
+wrzask,scream/squawk,Nie ma wrzasku,m noun
 wrzesień,September,,m noun
 wrzesz (wrzeć),You will boil,,conjugation
 wrzeć,to boil (repeated),,verb
@@ -2460,7 +2503,9 @@ wymyślny,fancy/sophisticated,,adjective
 wymówić,to pronounce/utter (once),,perf verb
 wynagrodzenie,salary/remuneration,,n noun
 wynajem,renting/hiring/leasing,Nie ma wynajmu,m noun
+wynajmiesz (wynająć),You will hire,,conjugation
 wynajmować,to hire (repeated),,verb
+wynajmę (wynająć),I will hire,,conjugation
 wynająć,to hire (once),,perf verb
 wynalazek,invention,Nie ma wynalazku,m noun
 wynegocjować,to negotiate (once),,perf verb
@@ -2599,6 +2644,9 @@ zabraniać,to forbid (repeated),,verb
 zabrać,to take away (once),,perf verb
 zabronić,to forbid (once),,perf verb
 zabrzmieć,to sound (once),Aby nie zabrzmiały fałszywie,perf verb
+zaburzać,to upset/disturb (repeated),,verb
+zaburzenia umysłowe/psychiczne,mental/psychological disorders,,phrase
+zaburzyć,to upset/disturb (once),,perf verb
 zabytek,monument,Nie ma zabytku,m noun
 zachodzić,to go behind (repeated),,verb
 zachowanie,behaviour,,n noun
@@ -2623,6 +2671,8 @@ zadanie,job/task,,n noun
 zadawać,to pose/set (repeated),,verb
 zadać,to pose/set (once),,perf verb
 zadbać,to care (for) (once),,perf verb
+zadowalać,to satisfy (repeated),,verb
+zadowolić,to satisfy (once),,perf verb
 zadrapanie,scratch,,n noun
 zadrżeć,to shiver (once),,verb
 zadziwiający,astonishing,,adjective
@@ -2650,6 +2700,7 @@ zakradać się,to sneak in (repeated),,verb
 zakradniesz się (zakraść się),You will sneak in,,conjugation
 zakradnę się (zakraść się),I will sneak in,,conjugation
 zakraść się,to sneak in (once),,perf verb
+zakres,range/extent/scope,Nie ma zakresu,m noun
 zakręcać,to screw/tighten (repeated),,verb
 zakręcić,to screw/tighten (once),,perf verb
 zaktualizować,to update (once),,perf verb
@@ -2669,6 +2720,7 @@ zamieniać,to exchange/swap (repeated),,verb
 zamienić,to exchange/swap (once),,perf verb
 zamierzać,to intend (repeated),,verb
 zamierzyć,to intend (once),,perf verb
+zamieszanie,confusion/mix-up,,n noun
 zamieszkanie,inhabitancy,,n noun
 zamieć,snowstorm/blizzard,,f noun
 zamieść,to sweep (once),,perf verb
@@ -2764,6 +2816,7 @@ zawarty,contained,,adjective
 zawdzięczać,to owe,,verb
 zawiedziesz się (zawieść się),You will be let down,,conjugation
 zawierać,to contain (repeated),,verb
+zawiesisty,thick,,adjective
 zawieść się,to be let down (once),,verb
 zawieźć,to give a lift to (once),,perf verb
 zawijać,to wrap up (repeated),,verb
@@ -2995,6 +3048,7 @@ złudzenie,illusion,,n noun
 śmiejesz się (śmiać się),You are laughing,,conjugation
 śmieję się (śmiać się),I am laughing,,conjugation
 śnić się,to dream about (repeated),,verb
+śpieszyć,to hurry/rush (repeated),,verb
 śpiwór,sleeping bag,Nie ma śpiwora,m noun
 środek,middle/centre,,m noun
 środowisko,(the) environment,,n noun
@@ -3007,10 +3061,12 @@ złudzenie,illusion,,n noun
 świecę (świecić),I am shining,,conjugation
 świt,dawn,Nie ma świtu,m noun
 świta,retinue/entourage,,f noun
+świąteczny,festive,,adjective
 świątynia,temple,,f noun
 źródło,spring (of water),,n noun
 żaden,no/none/neither,Żaden z nas (Neither of us),pronoun
 żal,grief/remorse/grudge,Nie ma żalu,m noun
+żarówka,(light) bulb,,f noun
 żałować,to regret (repeated),,verb
 żebro,rib,Nie ma żadnych żeber,n noun
 żegnać,to say farewell (repeated),,verb
