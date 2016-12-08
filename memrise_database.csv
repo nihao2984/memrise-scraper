@@ -162,6 +162,7 @@ bojaźliwy,timid,,adjective
 bok,side,Nie ma boku,m noun
 boleć,to ache/hurt,Boli mnie głowa,verb
 boleśnie,painfully,,adverb
+bombka,glass ball decoration,,f noun
 bon,token/voucher,Nie ma bonu,m noun
 brak,a lack,,m noun
 brakować,to lack,Brakuje mi wyobraźni (I lack imagination),verb
@@ -533,6 +534,7 @@ jednorazowy,single/disposable,,adjective
 jedynaczka,only (girl) child,,f noun
 jedynak,only (boy) child,,m noun
 jedynie,only,,adverb
+jesienny,autumnal,,adjective
 jezioro,lake,,n noun
 jeździsz (jeździć),You are going (by vehicle),,conjugation
 jeździć,to go (by vehicle),,verb
@@ -563,6 +565,7 @@ klawisz,piano key,,m noun
 klejnot,jewel,Nie ma klejnotu,m noun
 klękać,to kneel (repeated),,verb
 klęknąć,to kneel (once),,perf verb
+klęska,disaster/defeat/catastrophe,,f noun
 kobiecość,femininity,,f noun
 kobiecy,feminine,,adjective
 kojarzyć się,to be associated/reminded (repeated),To kojarzy mi się z czymś,verb
@@ -619,6 +622,7 @@ krzywa,curve,,f noun
 krzyż,cross,,m noun
 królewicz,prince I,,m noun
 królowa,queen,,f noun
+krótkotrwały,short-lived/short-lasting,,adjective
 krążyć,to circle/rotate/orbit,,verb
 książę,prince II,,m noun
 księżniczka,princess,,f noun
@@ -651,6 +655,7 @@ leczyć,to treat/cure/heal (repeated),,verb
 lecę (lecieć),I am flying,,conjugation
 ledwie,barely/hardly,,particle
 lepszość,superiority,,f noun
+letni,summery,,adjective
 lewa strona,left side,Po lewej stronie (on the left side),f noun
 leż (leżeć),Lie!,,imperative
 leżeć,to lie,,verb
@@ -914,6 +919,8 @@ nieudolnie,clumsily,,adverb
 nieuleczalny,incurable,,adjective
 niewiadomy,unknown,,adjective
 niewierność,infidelity,,f noun
+niewolnica,slave (female),,f noun
+niewolnik,slave (male),,m noun
 niezależność,independence,,f noun
 niezależny,independent,,adjective
 niezbędny,indispensable/necessary/essential,,adjective
@@ -1090,6 +1097,7 @@ odsunąć się,to back off/away (once),,perf verb
 odsuwać się,to back off/away (repeated),,verb
 odwaga,courage,,f noun
 odważać się,to dare (repeated),,verb
+odważny,brave/courageous,,adjective
 odważyć się,to dare (once),,perf verb
 odwdzięczać się,to repay (repeated),,verb
 odwdzięczyć się,to repay (once),,perf verb
@@ -1305,6 +1313,8 @@ pokażę (pokazać),I will show,,conjugation
 pokojówka,maid,,f noun
 pokolenie,generation,,n noun
 pokonanie,defeat,,n noun
+pokonać,to defeat/beat (once),,perf verb
+pokonywać,to defeat/beat (repeated),,verb
 pokrywka,cover,,f noun
 pokój,room/peace,,m noun
 pokład,deck,Nie ma pokładu,m noun
@@ -1330,6 +1340,8 @@ pomarszczony,wrinkled/shrivelled,,adjective
 pomieszczenie,room,,n noun
 pomnik,monument,Nie ma pomnika,m noun
 pomnożyć,to multiply (once),,perf verb
+pomocnica,helper (female),,f noun
+pomocnik,helper (male),,m noun
 pomogę (pomóc),I will help,,conjugation
 pomożesz (pomóc),You will help,,conjugation
 pomylić się,to make mistakes (once),,perf verb
@@ -1535,6 +1547,7 @@ przejmować,to take over (repeated),,verb
 przejrzeć,to skim over (once),,perf verb
 przejąć,to take over (once),,perf verb
 przejście,crossing/passage,Przejście dla pieszych,n noun
+przejściowy,transitional/transient/temporary,,adjective
 przejść,to cross (once),,perf verb
 przekazać,"to hand over, to pass on (once)",,perf verb
 przekazywać,"to hand over, to pass on (repeated)",,verb
@@ -1574,6 +1587,7 @@ przerwiesz (przerwać),You will interupt/discontinue,,conjugation
 przerwę (przerwać),I will interupt/discontinue,,conjugation
 przerywać,to interupt/discontinue (repeated),,verb
 przesiadać się,to change seats (repeated),,verb
+przesilenie,solstice/crisis,,n noun
 przesiąść się,to change seats (once),,perf verb
 przestawać,to stop doing (repeated),Przestań!,verb
 przestać,to stop doing (once),Przestań!,perf verb
@@ -1839,6 +1853,7 @@ rzeczownik,noun,,m noun
 rzeczywistość,reality,,f noun
 rzeka,river,,f noun
 rzemiosło,craft/trade,,n noun
+rześki,brisk/fresh,,adjective
 rzeźnik,butcher,,m noun
 rzucać,to throw (repeated),,verb
 rzucić,to throw (once),,perf verb
@@ -2060,6 +2075,7 @@ tak samo,equally/same,,phrase
 tak zwany,so-called,,phrase
 tandeta,crap/tat/rubbish,,f noun
 tarcza,shield/clock-face/target/disc,,f noun
+tchórz,(a) coward,,m noun
 teczka,briefcase,,f noun
 temu,ago,Dwa tygodnie temu dostałem pracę,adverb
 teoria,theory,,f noun
@@ -2346,6 +2362,7 @@ wietrzny,windy,,adjective
 wieża,tower,,f noun
 wieżowiec,high rise block,Nie ma wieżowca,m noun
 winny,guilty,,adjective
+wiosenny,spring-like,,adjective
 wioska,hamlet/village,,f noun
 wisieć,to hang,,verb
 wisisz (wisieć),You are hanging,,conjugation
@@ -2936,6 +2953,7 @@ zgrabny,shapely,,adjective
 zgromadzić,to amass/gather (once),,perf verb
 zgłoszenie,application/enrolment,,n noun
 ziarno,grain/particle,Jest wiele ziaren,n noun
+zimowy,wintery,,adjective
 zjawisko,phenomenon,,n noun
 zlecać,to commission (repeated),,verb
 zlecenie,commission,,n noun
@@ -2964,6 +2982,7 @@ znajdować,to find (repeated),,verb
 znakomity,outstanding/overwhelming,,adjective
 znaleźć,to find (once),,perf verb
 znamienity,noble,,adjective
+zniechęcony,dispirited,,adjective
 znieść,to tolerate/endure/stand (once),,perf verb
 znikać,to disappear/vanish (repeated),,verb
 zniknąć,to disappear/vanish (once),,perf verb
@@ -3005,6 +3024,7 @@ zwiększać,to increase (repeated),,verb
 zwiększyć,to increase (once),,perf verb
 zwolnić,to reduce/release/vacate/dismiss (once),,perf verb
 zwrot,turn/return,Nie ma zwrotu,m noun
+zwycięstwo,victory,,n noun
 zwłaszcza,especially,,adverb
 zyskać,to gain/win/profit (once),,perf verb
 zyskiwać,to gain/win/profit (repeated),,verb
