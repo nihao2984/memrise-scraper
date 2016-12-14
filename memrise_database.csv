@@ -993,6 +993,8 @@ obrona,defense,,f noun
 obronić,to defend (once),,perf verb
 obrońca,defender,,m noun
 obrzeże,edge,,n noun
+obrzucać,to heap/hurl (repeated),,verb
+obrzucić,to heap/hurl (once),,perf verb
 obskurny,dingy/shabby,,adjective
 obszar,area/territory,,m noun
 obsługiwać,to serve or to operate (repeated),,verb
@@ -1000,6 +1002,8 @@ obsłużyć,to serve or to operate (once),,perf verb
 oburzony,indignant/outraged,,adjective
 obuwie,footwear,,n noun
 obuwniczy,footwear,,adjective
+obwiniać kogoś o coś,to accuse/blame someone of/for something (repeated),,verb
+obwinić kogoś o coś,to accuse/blame someone of/for something (once),,perf verb
 obwisły,sagging/drooping,,adjective
 obóz,camp,Nie ma obozu,m noun
 obłąkany,crazy/mad,,adjective
@@ -1178,6 +1182,7 @@ opłatek,wafer,Nie ma opłatka,m noun
 opłukać,to rinse (once),,perf verb
 orzeł,eagle,Widzę orła,m noun
 osada,settlement,,f noun
+oschły,stiff,,adjective
 osiedlać,to settle (repeated),,verb
 osiedle,(housing) estate,,n noun
 osiedlić,to settle (once),,perf verb
@@ -2012,6 +2017,7 @@ stajnia,stable,,f noun
 stan,state/condition,Jaki jest stan pacjenta? (What is the patient's condition?),m noun
 stanowczo,firmly/flatly/categorically,,adverb
 stanowisko,post/position,,n noun
+staranny,careful,,adjective
 starczać,to suffice (repeated),,verb
 starczyć,to suffice (once),,perf verb
 starość,old age,,f noun
@@ -2637,6 +2643,7 @@ wyznanie,declaration,,n noun
 wyznawać,to confide/confess/profess (repeated),,verb
 wyznać,to confide/confess/profess (once),,perf verb
 wyzwanie,challenge,,n noun
+wyzwisko,insult,,n noun
 wyćwiczyć,to exercise (once),,perf verb
 wyłączać,to turn off (repeated),,verb
 wyłączenie,exclusion/cut-off,,n noun
@@ -3063,6 +3070,7 @@ zwiększyć,to increase (once),,perf verb
 zwolnić,to reduce/release/vacate/dismiss (once),,perf verb
 zwrot,turn/return,Nie ma zwrotu,m noun
 zwycięstwo,victory,,n noun
+zwyczajny,routine/regular/plain,,adjective
 zwłaszcza,especially,,adverb
 zyskać,to gain/win/profit (once),,perf verb
 zyskiwać,to gain/win/profit (repeated),,verb
