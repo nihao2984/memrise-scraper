@@ -253,6 +253,9 @@ czaję się (czaić się),I am lurking,,conjugation
 czar,charm,Nie ma czaru,m noun
 czasami,sometimes,,adverb
 czasownik,verb,,m noun
+czcisz (czcić),You are honouring,,conjugation
+czcić,to honour (repeated),,verb
+czczę (czcić),I am honouring,,conjugation
 czekanie,waiting,,n noun
 czepiać się,to pick on,,verb
 czerwiec,June,,m noun
@@ -465,6 +468,7 @@ gałąź,branch,Nie ma gałęzi,f noun
 gaś (gasić),Extinguish! (repeated),,imperative
 gaśniesz (gasnąć),You are going out,,conjugation
 gdyż,because,,conjunction
+geneza,genesis/origin,,f noun
 giełda,exchange (e.g. stock or labour),,f noun
 ginąć,to be killed (repeated),,verb
 giąć,to bend (repeated),,verb
@@ -520,6 +524,7 @@ inaczej,otherwise/differently,,adverb
 indziej,else,,adverb
 ingerencja,interference,,f noun
 ingerować,to interfere,,verb
+inicjować,to initialize (repeated),,verb
 iskierka,small spark,,f noun
 iskra,spark,,f noun
 istnienie,existence,,n noun
@@ -670,6 +675,7 @@ licencjat,bachelor's degree,Nie ma licencjatu,m noun
 liczba,number/figure,,f noun
 liczebnik główny,cardinal number,,adjective
 liczebnik porządkowy,ordinal number,,adjective
+liczny,numerous,,adjective
 liczyć,to count (repeated),,verb
 lipiec,July,,m noun
 listopad,November,,m noun
@@ -885,6 +891,7 @@ nazistowski,nazi,,adjective
 naziści,nazis,,m plural noun
 nałożyć,to apply (once),,perf verb
 nałóg,bad habit,Nie ma nałogu,m noun
+naśmiewać się z kogoś/czegoś,to laugh at somebody/something,,verb
 negocjować,to negotiate (repeated),,verb
 niczyj,nobody's/no-one's,,adjective
 nie kłóć się (kłócić się),Don't argue! (repeated),,imperative
@@ -1030,6 +1037,7 @@ odbyć się,to take place (once),,perf verb
 odbędzie się (odbyć się),it will take place,,conjugation
 odbędą się (odbyć się),they will take place,,conjugation
 odchodzić,to go away (repeated),,verb
+odcinek,section/episode/segment,Nie ma odcinka,m noun
 odcięty,cut off from,,adjective
 odczepiać,to detach/uncouple (repeated),,verb
 odczepić,to detach/uncouple (once),,perf verb
@@ -1150,6 +1158,7 @@ ojczyzna,homeland/motherland,,f noun
 okazać,to display (once),,perf verb
 okazywać,to display (repeated),,verb
 okolica,neighbourhood,"W tej okolicy, nie ma ławek!",f noun
+okolicznościowy,occasional,,adjective
 określenie,term/designation,,n noun
 określony,specific,,adjective
 okruch,crumb,,m noun
@@ -1231,6 +1240,7 @@ patetyczny,pompous,,adjective
 państwowy,state/civil/public/national,,adjective
 październik,October,,m noun
 pejzaż,landscape,,m noun
+pestka,pip,,f noun
 pewność siebie,self-confidence,,f noun
 pewny,sure,Pewny siebie (Sure of oneself),adjective
 picie,drinking,,n noun
@@ -1504,6 +1514,7 @@ pośpieszny,hasty,,adverb
 pośpieszyć,to hurry/rush (once),,perf verb
 poświęcać,to sacrifice (repeated),,verb
 poświęcić,to sacrifice (once),,perf verb
+pożar,fire,Nie ma pożaru,m noun
 pożarty,gobbled,,adjective
 pożałować,to regret (once),,perf verb
 pożegnanie,farewell/parting,,n noun
@@ -1639,6 +1650,7 @@ przewiązywać,to tie up (repeated),,verb
 przeziębiony,having a cold,,adjective
 przezroczysty,transparent,,adjective
 przełom,breakthrough,Nie ma przełomu,m noun
+przełożony,boss/supervisor/superior,,m noun
 przeżywać,to live through or experience (repeated),,verb
 przeżyć,to live through or experience (once),,perf verb
 przodek,ancestor,Nie ma przodka,m noun
@@ -1769,6 +1781,7 @@ płukać,to rinse (repeated),,verb
 płyn,liquid,Nie ma płynu,m noun
 płynnie,fluently/smoothly,,adverb
 rada,advice,,f noun
+radosny,joyful,,adjective
 ramię,arm/shoulder,,n noun
 ramka,frame,,f noun
 randka,date (romantic),,f noun
@@ -1991,6 +2004,8 @@ sprawdzić,to check/verify/confirm (once),,perf verb
 sprawiać,to cause II (repeated),,verb
 sprawiedliwość,justice,,f noun
 sprawić,to cause II (once),,perf verb
+sprowadzać,to fetch (repeated),,verb
+sprowadzić,to fetch (once),,perf verb
 sprytny,cunning/shrewd,,adjective
 sprzeczny,conflicting/contradictory,,adjective
 sprzed,in front/before,Zdjęcia sprzed wojny,preposition
@@ -2021,6 +2036,7 @@ staranny,careful,,adjective
 starczać,to suffice (repeated),,verb
 starczyć,to suffice (once),,perf verb
 starość,old age,,f noun
+starożytny,ancient,,adjective
 stawać się,to become/happen (repeated),,verb
 stać się,to become/happen (once),,perf verb
 stały,regular/steady/stable/fixed,,adjective
@@ -2096,6 +2112,7 @@ słowiański,Slavic,,adjective
 słownictwo,vocabulary,,n noun
 słuchacz,listener,Słuchaczka,m noun
 słup,pole/pylon/post/column,,m noun
+słuszny,correct/rightful/justified,,adjective
 służbowo,on business,,adverb
 służący,servant,,m noun
 słynny,famous/well-known,,adjective
@@ -2161,6 +2178,7 @@ tępy,blunt/dull,,adjective
 tęsknota,a longing,,f noun
 tło,background,,n noun
 tłum,crowd,Nie ma tłumu,m noun
+tłumaczyć,to explain/translate/interpret (repeated),,verb
 tłusty,fat,,adjective
 u stóp czegoś,at the foot of something,,phrase
 ubezpieczenie,insurance,,n noun
@@ -2175,6 +2193,7 @@ ucieczka,getaway/escape,,f noun
 uciekać,to run away/escape (repeated),,verb
 uciekniesz (uciec),You will run away,,conjugation
 ucieknę (uciec),I will run away,,conjugation
+uczcić,to honour (once),,perf verb
 uczelnia,university/college,,f noun
 uczestniczyć,to participate,,verb
 uczestnik,participant,,m noun
@@ -2244,6 +2263,8 @@ upadniesz (upaść),You will fall,,conjugation
 upadnij (upaść),Fall! (once),,imperative
 upadnę (upaść),I will fall,,conjugation
 upalny,sweltering,,adjective
+upamiętniać,to commemorate (repeated),,verb
+upamiętnić,to commemorate (once),,perf verb
 uparty,stubborn/obstinate,,adjective
 upał,heat,Nie ma upału,m noun
 upaść,to fall (once),,perf verb
@@ -2320,7 +2341,9 @@ uwalniać,to rid/free/liberate (repeated),,verb
 uwolnić,to rid/free/liberate (once),,perf verb
 uwzględniać,to take into consideration (repeated),,verb
 uwzględnić,to take into consideration (once),,perf verb
+uzależniać się od czegoś,to become addicted to something (repeated),,verb
 uzależnienie,addiction,,n noun
+uzależnić się od czegoś,to become addicted to something (once),,perf verb
 uzasadniać,to justify/defend a point of view (repeated),Nie powinni musieć uzasadniać wartości swego wina,verb
 uzasadniony,justified,,adjective
 uzasadnić,to justify/defend a point of view (once),,perf verb
@@ -2383,6 +2406,7 @@ weźmiesz (wziąć),You will take,,conjugation
 wiara,faith,,f noun
 widocznie,apparently/evidently,,adverb
 widownia,audience,,f noun
+wiec,rally or mass meeting,Nie ma wiecu,m noun
 wieczny,eternal/endless,,adjective
 wiedza,knowledge,,f noun
 wiedźma,witch/hag,,f noun
@@ -2496,6 +2520,8 @@ wybrany,chosen,,adjective
 wybrać,to choose/select/pick (once),,perf verb
 wybrzeże,coast,,n noun
 wybuch,explosion/eruption/outbreak,,m noun
+wybuchać,to explode/erupt (repeated),,verb
+wybuchnąć,to explode/erupt (once),,perf verb
 wycelować,to aim (once),,perf verb
 wychodzić,to leave (on foot) (repeated),,verb
 wychować,to raise (e.g. children) (once),,perf verb
@@ -2628,6 +2654,7 @@ wytrzeć,to wipe (once),,perf verb
 wytrzyj (wytrzeć),Wipe! (once),,conjugation
 wytrę (wytrzeć),I will wipe,,conjugation
 wytwarzanie,production,,n noun
+wytłumaczyć,to explain/translate/interpret (once),,perf verb
 wywiad,(an) interview (with the media),,m noun
 wywiercić,to drill (once),,perf verb
 wywiązać,"to set in, to ensue (once)",,perf verb
@@ -2742,6 +2769,7 @@ zagubiony,lost,,adjective
 zaimek,pronoun,,m noun
 zaimek dzierżawczy,possessive pronoun,,linguistic
 zaimek wskazujący,demonstrative pronoun,,linguistic
+zainicjować,to initialize (once),,perf verb
 zajmiesz (zająć),You will capture/occupy/seize,,conjugation
 zajmij (zająć),Capture/occupy/seize! (once),,imperative
 zajmować,to capture/occupy/seize (repeated),,verb
@@ -3129,6 +3157,7 @@ złudzenie,illusion,,n noun
 świta,retinue/entourage,,f noun
 świąteczny,festive,,adjective
 świątynia,temple,,f noun
+święto,holiday,Wesołych świąt!,n noun
 źródło,spring (of water),,n noun
 żaden,no/none/neither,Żaden z nas (Neither of us),pronoun
 żal,grief/remorse/grudge,Nie ma żalu,m noun
