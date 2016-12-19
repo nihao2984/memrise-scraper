@@ -327,6 +327,7 @@ dokuczyć,to tease (once),,perf verb
 dokładność,precision/accuracy,,f noun
 dolegać,to trouble/bother,Co panu/pani dolega?,verb
 dolny,lower,,adjective
+domagać się czegoś,to demand something II,,verb
 domniemany,alleged/supposed,,adjective
 domyślać się,to guess/suspect (repeated),,verb
 domyślić się,to guess/suspect (once),,perf verb
@@ -387,6 +388,8 @@ dowiedzieć się,to learn about (once),,perf verb
 dowolny,free/any/arbitrary,,adjective
 dowód,evidence,Policja szuka dowodów,m noun
 dozorca,caretaker/janitor,,m noun
+dołączać,to join II (repeated),,verb
+dołączyć,to join II (once),,perf verb
 doświadczenie,experience,,n noun
 drabina,ladder,,f noun
 dreszcze,shivers,,m plural noun
@@ -412,6 +415,7 @@ dyżur,duty hours,Nie ma dyżuru,m noun
 dzbanek,jug,Nie ma dzbanka,m noun
 dziać się,to happen,,verb
 dział,division/department,,m noun
+działacz,activist,,m noun
 działalność,activity,,f noun
 działanie,action,Potrzebujemy innego działania,n noun
 działać,to work/function,,verb
@@ -561,6 +565,7 @@ kazać,to command/order,,verb
 każesz (kazać),You are commanding,,conjugation
 każę (kazać),I am commanding,,conjugation
 kibic,supporter/fan,,m noun
+kieliszek,(a) glass,Nie ma kielszka,m noun
 kiepski,poor/bad/rotten,,adjective
 kierownica,steering wheel or handle bars,,f noun
 kierunek,direction,Czy to dobry kierunek?,m noun
@@ -597,6 +602,7 @@ kontrahent,contractor,,m noun
 kopać,to kick (repeated),,verb
 koperta,envelope,,f noun
 kopnąć,to kick (once),,perf verb
+kora,bark (skin of a tree),,f noun
 koryto,trough or river bed,,n noun
 korzeń,root,Pamiętaj o swoich korzeniach!,m noun
 korzystać,to benefit from (repeated),,verb
@@ -1404,6 +1410,7 @@ popychać,to push (repeated),,verb
 popyt,demand,Nie ma popytu,m noun
 poranny,morning,,adjective
 porażka,failure,Ta podróż to porażka! (This journey is a failure!),f noun
+porozumienie,agreement/arrangement/understanding,,n noun
 porwany,kidnapped,,adjective
 porwać,to kidnap (once),,perf verb
 porwiesz (porwać),You will kidnap,,conjugation
@@ -1483,6 +1490,7 @@ powtórzyć,to repeat/revise/review (once),,perf verb
 powtórzę (powtórzyć),I will repeat,,conjugation
 powyższy,preceeding/above,Proszę znaleźć w powyższym zadaniu,adjective
 powód,reason,Nie ma powodu,m noun
+powąchać,to smell/sniff (once),,perf verb
 poza tym,anyway/besides,,adverb
 pozaziemski,"alien (as in, extra-terrestrial)",Istota pozaziemska,adjective
 pozbawiać,to deprive (repeated),,verb
@@ -1741,8 +1749,8 @@ przyzwyczajać,to get accustomed (repeated),,verb
 przyzwyczajenie,habit,,n noun
 przyzwyczajony,accustomed,,adjective
 przyzwyczaję (przyzwyczaić),I will get accustomed,,conjugation
-przyłączać się,to join (repeated),,verb
-przyłączyć się,to join (once),,perf verb
+przyłączać się,to join I (repeated),,verb
+przyłączyć się,to join I (once),,perf verb
 przyśnić się,to dream about (once),,perf verb
 próba,try,"Trzecia próba, trzecia porażka",f noun
 prąd,electricity,,m noun
@@ -1900,6 +1908,7 @@ rzucać,to throw (repeated),,verb
 rzucić,to throw (once),,perf verb
 rząd,government,,m noun
 rządzić,to govern,,verb
+rzęsa,eyelash,,f noun
 ród,family/kin/tribe,Nie ma rodu,m noun
 również,also,Rząd obiecuje również niższy podatek,adverb
 równik,equator,,m noun
@@ -1964,6 +1973,7 @@ skupić się,to concentrate (once),,perf verb
 skuteczny,effective,,adjective
 skutek,consequence/result/effect,,m noun
 skąpy,miserly/stingy,,adjective
+skład,composition,Nie ma składu,m noun
 składnia,syntax,,f noun
 składnik,component/element/ingredient,,m noun
 skłamać,to lie (once),,perf verb
@@ -2401,6 +2411,9 @@ wewnętrzny,internal,,adjective
 wezmę (wziąć),I will take,,conjugation
 wezwanie,summons/calls,Lekarze mają wezwanie do pacjentów,n noun
 wezwany,summoned,,adjective
+wezwać,to summon (once),,perf verb
+wezwiesz (wezwać),You will summon,,conjugation
+wezwę (wezwać),I will summon,,conjugation
 weź (wziąć),Take! (once),,imperative
 weźmiesz (wziąć),You will take,,conjugation
 wiara,faith,,f noun
@@ -2694,9 +2707,11 @@ wzrosnąć,to rise/grow/increase (once),,perf verb
 wzruszać,to move/touch (repeated),,verb
 wzruszenie,emotion,,n noun
 wzruszyć,to move/touch (once),,perf verb
+wzywać,to summon (repeated),,verb
 wzór,pattern,,m noun
 wódz,leader/chief/chieftain,,m noun
 wóź (wozić),Transport/drive!,,imperative
+wąchać,to smell/sniff (repeated),,verb
 wąski,narrow,,adjective
 wątpić,to doubt,Wątpię że będzie to robić (I doubt he'll do it),verb
 wątpliwość,doubt,,f noun
@@ -2820,6 +2835,8 @@ zanieczyszczenie,pollution/contamination,,n noun
 zanim,before,,conjunction
 zanotować,to note/log (once),,perf verb
 zanurkować,to dive (once),,perf verb
+zanurzać,to dip/immerse (repeated),,verb
+zanurzyć,to dip/immerse (once),,perf verb
 zaopiekować się,to look after (once),,perf verb
 zapalać,to ignite (repeated),,verb
 zapalisz (zapalić),You will ignite,,conjugation
@@ -3119,6 +3136,7 @@ złudzenie,illusion,,n noun
 łapczywy,greedy,,adjective
 ławka,bench,,f noun
 łańcuch,chain,,m noun
+łokieć,elbow,Nie ma łokcia,m noun
 łono,lap/bosom,Na łono przyrody,n noun
 łowić,to catch/hunt (repeated),,verb
 łuk,bow,Nie ma łuku,m noun
@@ -3173,4 +3191,4 @@ złudzenie,illusion,,n noun
 życzenie,wish,Masz trzy życzenia! (You have three wishes!),n noun
 życzliwy,kind/friendly,,adjective
 żyjący,living,,adjective
-żądać,to demand (repeated),,verb
+żądać,to demand I (repeated),,verb
