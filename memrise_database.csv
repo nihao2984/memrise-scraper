@@ -341,6 +341,7 @@ dopasowywać,to fit/match (repeated),,verb
 dopełniacz (kogo? czego?),genitive case,,m noun
 dopiero,barely/scarcely,,adverb
 dopingować,to support/boost (repeated),,verb
+dopóki,until,,adverb
 doradca,advisor,,m noun
 doradzać komuś,to advise somebody (repeated),,verb
 doradzić komuś,to advise somebody (once),,perf verb
@@ -449,6 +450,7 @@ dźwięczny,resonant,,adjective
 ekran,screen,Komórka ma duży ekran,m noun
 ekscytujący,exciting,,adjective
 eksponat,exhibit,Nie ma eksponatu,m noun
+elektrowstrząs,electroshock,Nie ma elektrowstrząsu,m noun
 emerytura,pension,Odchodzić na emeryturę (To retire),f noun
 energooszczędny,energy-saving,,adjective
 etap,lap/leg/stage,Nie ma etapu,m noun
@@ -860,9 +862,11 @@ należ (należeć),Belong! (repeated),,imperative
 należeć,to belong,Nie należę do nikogo,verb
 należysz (należeć),You belong,,conjugation
 należę (należeć),I belong,,conjugation
+namawiać kogoś do czegoś,to persuade somebody to (do) something (repeated),,verb
 namowa,suggestion/instigation,,f noun
 namydlać,to soap (repeated),,verb
 namydlić,to soap (once),,perf verb
+namówić kogoś do czegoś,to persuade somebody to (do) something (once),,perf verb
 napełniaj (napełniać),Fill! (repeated),,imperative
 napełniam (napełniać),I am filling,,conjugation
 napełniasz (napełniać),You are filling,,conjugation
@@ -1193,6 +1197,7 @@ okłamywać kogoś,to deceive (or lie to) somebody (repeated),,verb
 opaska,bandage/armband,,f noun
 opieka,care,,f noun
 opiekować się,to look after (repeated),,verb
+opiekun,carer,,m noun
 opierać,to lean/rest (repeated),,verb
 opinia,opinion,,f noun
 opis,description,Czytaj opis! (Read the description!),m noun
@@ -1240,6 +1245,7 @@ otrzymać,to receive/obtain (once),,perf verb
 otrzymywać,to receive/obtain (repeated),,verb
 otulać,to wrap (repeated),,verb
 otulić,to wrap (once),,perf verb
+otępiały,spaced-out,,adjective
 owad,insect,Nie ma owada,m noun
 oznajmiać,to announce (repeated),,verb
 oznajmić,to announce (once),,perf verb
@@ -1327,6 +1333,8 @@ podnoś (podnosić),Pick up! (repeated),,imperative
 podobieństwo,similarity,,n noun
 podobno,reportedly/supposedly/apparently,,adverb
 podobny,similar,,adjective
+podporządkować się komuś,to submit to somebody (once),,perf verb
+podporządkowywać się komuś,to submit to somebody (repeated),,verb
 podrażniać,to physically irritate (repeated),,verb
 podrażnić,to physically irritate (once),,perf verb
 podróżowanie,travelling,,n noun
@@ -1469,6 +1477,8 @@ potykać się,to stumble/trip (repeated),,verb
 potęga,(a) force/power,,f noun
 potężny,mighty/powerful,,adjective
 potłuczony,shattered,,adjective
+powalać,to fell/floor/deck (repeated),,verb
+powalić,to fell/floor/deck (once),,perf verb
 poważny,serious,,adjective
 powiadamiać,to notify (repeated),,verb
 powiadomić,to notify (once),,perf verb
@@ -1837,6 +1847,8 @@ rosnąć,to grow (repeated),,verb
 rosnę (rosnąć),I am growing,,conjugation
 rowerzysta,cyclist,,m noun
 rowerzyści,cyclists,,m plural noun
+rozbawiać,to amuse (repeated),,verb
+rozbawić,to amuse (once),,perf verb
 rozbierać,to undress (repeated),,verb
 rozbijać,to break/shatter (repeated),,verb
 rozbić,to break/shatter (once),,perf verb
@@ -2274,6 +2286,7 @@ ulżyć,to lighten/ease,,verb
 ulżę (ulżyć),I am lightening/easing,,verb
 umarzać,to write off (repeated),,verb
 umawiać się z kimś,to arrange to meet with someone (repeated),,verb
+umiar,moderation,Nie ma umiaru,m noun
 umiarkowany,temperate/moderate,,adjective
 umiejętność,ability/skill,,f noun
 umierać,to die (repeated),,verb
@@ -2359,6 +2372,10 @@ urządzenie,device/appliance/utensil,,n noun
 urzędnik,official or civil servant,,m noun
 uschnąć,to wither (once),,perf verb
 usmażyć,to fry (once),,perf verb
+uspokajać się,to calm (oneself) down (repeated),,verb
+uspokoisz się (uspokoić się),You will calm down,,conjugation
+uspokoić się,to calm (oneself) down (once),,perf verb
+uspokoję się (uspokoić się),I will calm down,,conjugation
 usprawiedliwienie,explanation/justification/excuse,,n noun
 ustalony,fixed/established,,adjective
 usunięty,ousted/expelled,,adjective
@@ -2386,7 +2403,13 @@ uzależnić się od czegoś,to become addicted to something (once),,perf verb
 uzasadniać,to justify/defend a point of view (repeated),Nie powinni musieć uzasadniać wartości swego wina,verb
 uzasadniony,justified,,adjective
 uzasadnić,to justify/defend a point of view (once),,perf verb
+uznajesz (uznawać),You are acknowledging,,conjugation
+uznaję (uznawać),I am acknowledging,,conjugation
+uznam (uznać),I will acknowledge,,conjugation
 uznany,recognized,,adjective
+uznasz (uznać),You will acknowledge,,conjugation
+uznawać,to acknowledge (repeated),,verb
+uznać,to acknowledge (once),,perf verb
 uzupełniać,to fill out (repeated),,verb
 uzupełnić,to fill out (once),,verb
 ułożyć,to arrange/align (once),,perf verb
