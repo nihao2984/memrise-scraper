@@ -441,8 +441,10 @@ dziwić się,to be surprised (repeated),,verb
 dziwię się (dziwić się),I am surprised,,conjugation
 dół,bottom/pit,Nie ma dołu,m noun
 dłoń,palm/hand,,f noun
+dług,debt,Nie ma długu,m noun
 długotrwały,long-lasting,,adjective
 długość,length,,f noun
+dłużny,indebted,,adjective
 dźgać,to jab (repeated),,verb
 dźgnąć,to jab (once),,perf verb
 dźwig,crane,Nie ma dźwigu,m noun
@@ -699,6 +701,12 @@ liczyć,to count (repeated),,verb
 lipiec,July,,m noun
 listopad,November,,m noun
 litościwy,merciful,,adjective
+lizać,to lick (repeated),,verb
+liznąć,to lick (once),,perf verb
+liznę (liznąć),I will lick,,conjugation
+liźniesz (liznąć),You will lick,,conjugation
+liżesz (lizać),You are licking,,conjugation
+liżę (lizać),I am licking,,conjugation
 lokować,to place (repeated),,verb
 los,fortune/fate,Nie ma losu,m noun
 losować,to draw (e.g. a card) (repeated),,verb
@@ -734,6 +742,7 @@ mianownik (kto? co?),nominative case,,m noun
 miara,measure/size,,f noun
 miecz,sword,,m noun
 miejscownik (o kim? o czym?),locative case,,m noun
+miejscowość,(a) place,,f noun
 miejski,municipal/urban,,adjective
 miesiąc,month,,m noun
 miesięczny,monthly,,adjective
@@ -822,6 +831,7 @@ mówienie,speaking,,n noun
 mózg,brain,Nie ma mózgu,m noun
 męczyć się,to suffer II (repeated),,verb
 męczący,tiresome/tiring,,adjective
+mędrzec,sage (wise man),Nie ma mędrca,m noun
 męski,masculine,,adjective
 męskoosobowy,masculine personal,,adjective
 młodość,youth,,f noun
@@ -969,6 +979,7 @@ nieśmiertelność,immortality,,f noun
 niszczyć,to devastate/destroy (repeated),,verb
 niższość,inferiority,,f noun
 niższy,lower,,adjective
+nocleg,overright accommodation,Nie ma noclegu,m noun
 notoryczny,notorious,,adjective
 notować,to note (repeated),,verb
 nowinka,gossip,,f noun
@@ -1182,7 +1193,7 @@ ojczysty,native,,adjective
 ojczyzna,homeland/motherland,,f noun
 okazać,to display (once),,perf verb
 okazywać,to display (repeated),,verb
-okolica,neighbourhood,"W tej okolicy, nie ma ławek!",f noun
+okolica,neighbourhood I,"W tej okolicy, nie ma ławek!",f noun
 okolicznościowy,occasional,,adjective
 określenie,term/designation,,n noun
 określony,specific,,adjective
@@ -1437,6 +1448,7 @@ popyt,demand,Nie ma popytu,m noun
 poranny,morning,,adjective
 porażka,failure,Ta podróż to porażka! (This journey is a failure!),f noun
 porozumienie,agreement/arrangement/understanding,,n noun
+poruszenie,agitation/commotion,,n noun
 porwany,kidnapped,,adjective
 porwać,to kidnap (once),,perf verb
 porwiesz (porwać),You will kidnap,,conjugation
@@ -1541,6 +1553,7 @@ pozwolić,to allow (once),,perf verb
 pozywać kogoś do sądu,to take somebody to court (repeated),,verb
 pozór,appearance/pretence,Nie ma pozoru,m noun
 połowa,half/middle,,f noun
+położony,situated,,adjective
 położyć,to lay (once),,perf verb
 południe,south,Na południu (Southwards),n noun
 połączyć,to connect/combine (once),,perf verb
@@ -1808,6 +1821,7 @@ pęknąć,to crack (once),,perf verb
 płacisz (płacić),You are paying (for),,conjugation
 płacić,to pay (for) (repeated),,verb
 płacę (płacić),I am paying (for),,conjugation
+płaski,flat,,adjective
 płać (płacić),Pay! (repeated),,imperative
 płeć,sex,Nie ma płci,f noun
 płodność,fertility,,f noun
@@ -1819,6 +1833,7 @@ płyn,liquid,Nie ma płynu,m noun
 płynnie,fluently/smoothly,,adverb
 rada,advice,,f noun
 radosny,joyful,,adjective
+raj,paradise,Nie ma raju,m noun
 ramię,arm/shoulder,,n noun
 ramka,frame,,f noun
 randka,date (romantic),,f noun
@@ -1835,6 +1850,7 @@ redagować,to edit (repeated),,verb
 reguła,rule,,f noun
 rejestrować,to register (repeated),,verb
 rejon,region,Nie ma rejonu,m noun
+rekin,shark,,m noun
 reklamacja,complaint II,,f noun
 remis,(a) draw,Nie ma remisu,m noun
 robak,bug,,m noun
@@ -2156,6 +2172,7 @@ szyba,pane (of glass),,f noun
 szycie,sewing,,n noun
 sąd,court (of law),,m noun
 sądzić,to think/suppose (repeated),,verb
+sąsiedztwo,neighbourhood II,,n noun
 sędzia,judge (profession),Prawnik słucha sędziego,m noun
 sława,fame/reputation,,f noun
 słodzić,to sweeten (repeated),,verb
@@ -2173,6 +2190,7 @@ tajemnica,(a) secret,,f noun
 tajny,secret,,adjective
 tak samo,equally/same,,phrase
 tak zwany,so-called,,phrase
+tamtejszy,local,,adjective
 tandeta,crap/tat/rubbish,,f noun
 tarcza,shield/clock-face/target/disc,,f noun
 tchórz,(a) coward,,m noun
@@ -2431,6 +2449,7 @@ w pobliżu,in the vicinity,,phrase
 wada,flaw,Każdy człowiek ma wady (Everyone has flaws),f noun
 wahanie,hesitation,,n noun
 walka,fight/battle/struggle,,f noun
+walor,virtue II,Nie ma waloru,m noun
 waluta,currency,W jakiej walucie (loc.) płacisz? (In which currency are you paying?),f noun
 warownia,stronghold,,f noun
 warstwa,layer/coat,,f noun
@@ -2751,6 +2770,7 @@ wyższy,higher,,adjective
 wzajemnie,"mutually, reciprocally",,adverb
 wzdłuż,along/longways,,preposition
 wzgląd,respect/regard,Nie ma względu,m noun
+wzgórze,hill,,n noun
 wzmacniać,to strengthen (repeated),,verb
 wzmocnić,to strengthen (once),,perf verb
 wznieść,to lift/raise (once),,perf verb
@@ -2772,6 +2792,7 @@ wątpić,to doubt,Wątpię że będzie to robić (I doubt he'll do it),verb
 wątpliwość,doubt,,f noun
 wędka,fishing rod,,f noun
 wędrować,to roam/ramble/trek/hike,,verb
+węgiel,coal,Nie ma węgielu,m noun
 władza,power/authority,,f noun
 włamać się,to break into (once),,perf verb
 włamiesz się (włamać się),You will break into,,conjugation
@@ -2871,7 +2892,7 @@ zakład,bet,Nie ma zakładu,m noun
 zakładać,"to found/establish/install, to put on clothes (repeated)",,verb
 zakładnik,hostage,,m noun
 zalać,to flood (once),,perf verb
-zaleta,virtue,Cierpliwość to zaleta (Patience is a virtue),f noun
+zaleta,virtue I,Cierpliwość to zaleta (Patience is a virtue),f noun
 zalewać,to flood (repeated),,verb
 zamach,assassination attempt,,m noun
 zamarzać,to freeze (repeated),,verb
@@ -3095,6 +3116,8 @@ zeszły,past,W zeszłym roku,adjective
 zetknięcie,contact/encounter,,n noun
 zewnątrz,outside,,adverb
 zewnętrzny,external,,adjective
+zgadnąć,to guess (once),,perf verb
+zgadywać,to guess (repeated),,verb
 zgadzać się,to agree (repeated),,verb
 zgasić,"to put out, to extinguish (once)",,perf verb
 zgasnąć,to go out (once),,perf verb
@@ -3138,6 +3161,8 @@ znajdować,to find (repeated),,verb
 znakomity,outstanding/overwhelming,,adjective
 znaleźć,to find (once),,perf verb
 znamienity,noble,,adjective
+zniechęcać,to discourage (repeated),,verb
+zniechęcić,to discourage (once),,perf verb
 zniechęcony,dispirited,,adjective
 znieść,to tolerate/endure/stand (once),,perf verb
 znikać,to disappear/vanish (repeated),,verb
@@ -3246,6 +3271,7 @@ złudzenie,illusion,,n noun
 święto,holiday,Wesołych świąt!,n noun
 źródło,spring (of water),,n noun
 żaden,no/none/neither,Żaden z nas (Neither of us),pronoun
+żaglówka,sailing boat,,f noun
 żal,grief/remorse/grudge,Nie ma żalu,m noun
 żarówka,(light) bulb,,f noun
 żałować,to regret (repeated),,verb
