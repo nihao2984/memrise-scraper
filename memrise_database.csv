@@ -571,6 +571,8 @@ karać,to punish (repeated),,verb
 kartka,sheet of paper,,f noun
 karzesz (karać),You are punishing,,conjugation
 karzę (karać),I am punishing,,conjugation
+kasa,cash desk,,f noun
+kasjer,cashier,,m noun
 kawaler,bachelor,,m noun
 kazać,to command/order,,verb
 każesz (kazać),You are commanding,,conjugation
@@ -737,6 +739,7 @@ marzec,March,,m noun
 marzysz (marzyć),You are dreaming,,conjugation
 marzyć,to dream,,verb
 marzę (marzyć),I am dreaming,,conjugation
+masowo,in great numbers,,adverb
 matowy,matt (not shiny),,adjective
 mazak,felt-tip pen,,m noun
 meteoropatia,weather sensitivity,,f noun
@@ -880,6 +883,9 @@ namowa,suggestion/instigation,,f noun
 namydlać,to soap (repeated),,verb
 namydlić,to soap (once),,perf verb
 namówić kogoś do czegoś,to persuade somebody to (do) something (once),,perf verb
+napad na kogoś/coś,assault on somebody/something,Nie ma napadu,m noun
+napadać na kogoś/coś,to assault somebody/something (repeated),,verb
+napaść na kogoś/coś,to assault somebody/something (once),,verb
 napełniaj (napełniać),Fill! (repeated),,imperative
 napełniam (napełniać),I am filling,,conjugation
 napełniasz (napełniać),You are filling,,conjugation
@@ -1240,6 +1246,7 @@ osiągać,to achieve (repeated),,verb
 osiągnąć,to achieve (once),"Nie osiągnęliśmy tego, co chcemy osiągnąć",perf verb
 osobisty,personal,,adjective
 osobiście,personally,,adverb
+osobno,separately/apart,,adverb
 osobowość,personality,Ale masz wspaniała osobowość!,f noun
 ostatecznie,eventually/ultimately,,adverb
 ostrość,sharpness,,f noun
@@ -1327,6 +1334,7 @@ podcinać,to slash (repeated),,verb
 podciąć,to slash (once),,perf verb
 poddawać się,to give up/in (repeated),,verb
 poddać się,to give up/in (once),,perf verb
+podejrzany,suspicious,,adjective
 podejrzenie,suspicion,,n noun
 podejrzewać,to suspect,Policja podejrzewa trzy osoby,verb
 podejść,to approach (once),,perf verb
@@ -1594,6 +1602,7 @@ producent,manufacturer/producer,,m noun
 projektant,designer,,m noun
 promieniotwórczość,radioactivity,,f noun
 proponować,to propose (repeated),,verb
+prostować,to straighten (out) (repeated),,verb
 prosty,straight(forward)/simple,,adjective
 prośba,request,,f noun
 przebiec,to run across (once),,perf verb
@@ -2224,6 +2233,7 @@ traf,chance,Nie ma trafu,m noun
 trafiać,to hit (repeated),,verb
 trafić,to hit (once),,perf verb
 traktować,to treat/handle (repeated),,verb
+tratwa,raft,,f noun
 treść,content,,f noun
 troska,worry/care/concern,,f noun
 troszczyć się,"to care for, to take care of (repeated)",,verb
@@ -2374,6 +2384,8 @@ uprościsz (uprościć),You will simplify,,conjugation
 uprościć,to simplify (once),,perf verb
 uprość (uprościć),Simplify! (once),,imperative
 uprzejmy,polite,,adjective
+upuszczać,to drop (repeated),,verb
+upuścić,to drop (once),,perf verb
 upłynąć,to go by (once),,perf verb
 upływać,to go by (repeated),,verb
 uratować,to rescue/save I (once),,perf verb
@@ -2704,6 +2716,7 @@ wypracowywać,to develop (repeated),,verb
 wyprasować,to press/iron (once),,perf verb
 wyprawa,expedition,,f noun
 wyprać,to launder (once),,perf verb
+wyprostować,to straighten (out) (once),,perf verb
 wyprowadzać się,to move out (repeated),,verb
 wyprowadzić się,to move out (once),,perf verb
 wyprzedaż,clearance sale,,m noun
@@ -3285,6 +3298,11 @@ złudzenie,illusion,,n noun
 żarówka,(light) bulb,,f noun
 żałować,to regret (repeated),,verb
 żebro,rib,Nie ma żadnych żeber,n noun
+żeglarka,yachtsman/sailor (female),,f noun
+żeglarski,sailing/yachting,,adjective
+żeglarstwo,sailing/yachting,,n noun
+żeglarz,yachtsman/sailor (male),,m noun
+żeglować,to sail/navigate,,verb
 żegnać,to say farewell (repeated),,verb
 żelazko,(an) iron,,n noun
 żelazo,iron,,n noun
