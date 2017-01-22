@@ -172,6 +172,7 @@ brakować,to lack,Brakuje mi wyobraźni (I lack imagination),verb
 brakujący,missing,Uzupełnić brakujące litery (Fill in the missing letters),adjective
 bramka,goal/gate,,f noun
 bramkarz,goalkeeper,,m noun
+bransoleta,bracelet,,f noun
 branża,branch/trade/business,,f noun
 bratowa,sister-in-law,,f noun
 bronić,to defend (repeated),,verb
@@ -277,6 +278,7 @@ czyścisz (czyścić),You are cleaning/brushing,,conjugation
 czyścić,to clean/brush (repeated),,verb
 częstować,to offer (repeated),,verb
 częsty,common/frequent,,adjective
+częściowy,partial,,adjective
 część,part/piece,,f noun
 członek,member (of a group),Jestem członkiem tej grupy,m noun
 cętka,spot,W cętki (spotted),f noun
@@ -443,6 +445,7 @@ dziwię się (dziwić się),I am surprised,,conjugation
 dół,bottom/pit,Nie ma dołu,m noun
 dłoń,palm/hand,,f noun
 dług,debt,Nie ma długu,m noun
+długoterminowy,long-term,,adjective
 długotrwały,long-lasting,,adjective
 długość,length,,f noun
 dłużny,indebted,,adjective
@@ -656,6 +659,7 @@ krzywa,curve,,f noun
 krzyż,cross,,m noun
 królewicz,prince I,,m noun
 królowa,queen,,f noun
+krótkoterminowy,short-term,,adjective
 krótkotrwały,short-lived/short-lasting,,adjective
 krążyć,to circle/rotate/orbit,,verb
 krępować,to embarrass II (repeated),,verb
@@ -668,6 +672,7 @@ kuchenny,kitchen,,adjective
 kula,ball/sphere/bullet,,f noun
 kumpel,pal/buddy,,m noun
 kupno,purchase,,n noun
+kurort,health resort or spa,Nie ma kurortu,m noun
 kurz,dust,Nie ma kurzu,m noun
 kwadratowy,square,,adjective
 kwatera,lodging,,f noun
@@ -682,6 +687,7 @@ kłócisz się (kłócić się),You are arguing,,conjugation
 kłócić się,to argue (repeated),,verb
 kłócę się (kłócić się),I am arguing,,conjugation
 kłótnia,argument,,f noun
+lalka,doll,,f noun
 lansować,to promote/launch (repeated),,verb
 lecieć,to fly (repeated),,verb
 lecisz (lecieć),You are flying,,conjugation
@@ -763,6 +769,7 @@ milcz (milczeć),Keep silent!,,imperative
 milczeć,to keep silent,,verb
 milczysz (milczeć),You are keeping silent,,conjugation
 milczę (milczeć),I am keeping silent,,conjugation
+mile widziany,welcome,,adjective
 milion,one million,,numeral
 milknąć,to fall silent (repeated),,verb
 mimiczny,facial,,adjective
@@ -916,6 +923,7 @@ nastawiać,to set (repeated),,verb
 nastawiony,orientated,,adjective
 nastawić,to set (once),,perf verb
 nastolatek,teenager,,m noun
+nastrojowy,moody/atmospheric,,adjective
 nastrój,mood I,Nie ma nastroju,m noun
 nastąpić,to follow/proceed (once),,perf verb
 następować,to follow/proceed (repeated),,verb
@@ -1234,6 +1242,7 @@ opróżnić,to empty (once),,perf verb
 opuszczać,to abandon/leave (repeated),,verb
 opuścić,to abandon/leave (once),,perf verb
 opętany,possessed,,adjective
+opłakany,deplorable/lamentable,,adjective
 opłatek,wafer,Nie ma opłatka,m noun
 opłukać,to rinse (once),,perf verb
 orzeł,eagle,Widzę orła,m noun
@@ -1594,6 +1603,7 @@ pragnąć,to desire (repeated),,verb
 praktyka,practice,Nie akceptuję takiej praktyki,f noun
 prasować,to press/iron (repeated),,verb
 prawa strona,right side,Po prawej stronie (on the right hand side),f noun
+prawdopodobieństwo,probability,,n noun
 prawdopodobny,probable,,adjective
 prać,to launder (repeated),,verb
 premia,bonus,"Mam dobrą pensję, czasem premię",f noun
@@ -1707,6 +1717,8 @@ przesłuchać,to interrogate/question (once),,perf verb
 przesłuchiwać,to interrogate/question (repeated),,verb
 przetrwać,to survive,,verb
 przewaga,advantage/superiority,,f noun
+przewidywać,to predict/forecast/foresee (repeated),,verb
+przewidzieć,to predict/forecast/foresee (once),,perf verb
 przewijać,to fast-forward/rewind (repeated),,verb
 przewinąć,to fast-forward/rewind (once),,perf verb
 przewiązać,to tie up (once),,perf verb
@@ -1982,6 +1994,7 @@ równowaga,balance,,f noun
 równość,equality,,f noun
 różnica,difference,,f noun
 różnić się,to differ,,verb
+różnorodność,variety,,f noun
 różny,different/diverse,,adjective
 ręcznie,by hand,,adverb
 rękaw,sleeve,,m noun
@@ -2005,6 +2018,7 @@ siedzieć,to sit,,verb
 siedzisz (siedzieć),You are sitting,,conjugation
 siedzę (siedzieć),I am sitting,,conjugation
 siedź (siedzieć),Sit!,,imperative
+siekiera,small axe or hatchet,,f noun
 sierociniec,orphanage,Nie ma sierocińca,m noun
 sierpień,August,,m noun
 sierść,fur,,f noun
@@ -2014,6 +2028,7 @@ siądziesz (siąść),You will sit,,conjugation
 siądę (siąść),I will sit,,conjugation
 siądź (siąść),Sit down! (once),,imperative
 siąść,to sit down (once),,perf verb
+skala,scale,,f noun
 skarżyć się na kogoś/coś,to complain about somebody/something (repeated),,verb
 skazany,sentenced/convicted,,m noun
 skała,rock,,f noun
@@ -2052,6 +2067,7 @@ smucisz się (smucić się),You are saddened,,conjugation
 smucić się,to be sad (repeated),,verb
 smucę się (smucić się),I am saddened,,conjugation
 smutek,sorrow,,m noun
+smycz,lead/leash,,f noun
 soczewica,lentil,,f noun
 soczysty,juicy,,adjective
 sonda,opinion poll,,f noun
@@ -2215,12 +2231,15 @@ teoria,theory,,f noun
 teraźniejszość,the present,,f noun
 termin,deadline/date,,m noun
 terminarz,calendar,,m noun
+teściowa,mother-in-law,,f noun
+teść,father-in-law,,m noun
 tkanina,fabric/cloth,,f noun
 tkanka,tissue,,f noun
 tlen,oxygen,Nie ma tlenu,m noun
 tom,volume (of a book),Nie ma tomu,m noun
 topić,to drown (repeated),,verb
 topnieć,to thaw (repeated),,verb
+topór,large axe,Nie ma topora,m noun
 towar,goods/commodity,Nie ma towaru,m noun
 towarzyski,gregarious,,adjective
 towarzystwo,company,,n noun
@@ -2311,6 +2330,7 @@ ukryty,hidden,,adjective
 ukrywać,to hide/conceal (repeated),,verb
 ukryć,to hide/conceal (once),,perf verb
 ukształtować,to shape (once),,perf verb
+układ,arrangement/layout,Nie ma układu,m noun
 układać,to arrange/align (repeated),,verb
 ulewny,torrential,,adjective
 ulokować,to place (once),,perf verb
@@ -2327,7 +2347,7 @@ umierać,to die (repeated),,verb
 umieć,"to know how, to be able",,verb
 umorzony,written off,,adjective
 umorzyć,to write off (once),,perf verb
-umowa,agreement,,f noun
+umowa,agreement/deal/treaty,,f noun
 umrzeć,to die (once),,perf verb
 umysł,mind,,m noun
 umysłowy,intellectual/mental,,adjective
@@ -2398,6 +2418,7 @@ urodzaj,harvest,Nie ma urodzaju,m noun
 urodzajny,fertile,,adjective
 urodzenie,birth,Data urodzenia,n noun
 urodzić,to give birth to (once),,perf verb
+urok,appeal/attraction/charm,Nie ma uroku,m noun
 urosnąć,to grow (once),,perf verb
 urozmaicać coś,to vary/diversify something (repeated),,verb
 urozmaicić coś,to vary/diversify something (once),,perf verb
@@ -2488,6 +2509,7 @@ wdech,inhalation,Nie ma wdechu,m noun
 wdowa,widow,,f noun
 wdowiec,widower,Nie ma wdowca,m noun
 wdzięczność,gratitude,,f noun
+wdzięczny,grateful,,adjective
 według,according to,Według mnie (In my opinion),preposition
 wejście,entrance,,n noun
 wesołość,cheerfulness,,f noun
@@ -2978,6 +3000,7 @@ zarysować,to scratch (once),,perf verb
 zarysowywać,to scratch (repeated),,verb
 zarząd,management/administration,,m noun
 zarządzanie,management,,n noun
+zarówno,as well as,,adverb
 zasada,rule,Zasady nie są dla nas! (The rules aren't for us!),f noun
 zaskakiwać,to spring into life (repeated),,verb
 zaskakujący,surprising,,adjective
@@ -3104,6 +3127,7 @@ zdradzić,to betray (once),,perf verb
 zdrowiejesz (zdrowieć),You are recuperating,,conjugation
 zdrowieję (zdrowieć),I am recuperating,,conjugation
 zdrowieć,to recuperate (repeated),,verb
+zdrowotny,health,,adjective
 zdrętwieć,to go numb (once),,perf verb
 zdumiejesz (zdumieć),You will amaze/astound,,conjugation
 zdumieję (zdumieć),I will amaze/astound,,conjugation
@@ -3145,6 +3169,7 @@ zgasnąć,to go out (once),,perf verb
 zginąć,to be killed (once),,perf verb
 zgiąć,to bend (once),,perf verb
 zgoda,agreement,,f noun
+zgodnie,in agreement,,adverb
 zgodzić się,to agree (once),,perf verb
 zgrabny,shapely,,adjective
 zgromadzić,to amass/gather (once),,perf verb
@@ -3291,6 +3316,7 @@ złudzenie,illusion,,n noun
 świąteczny,festive,,adjective
 świątynia,temple,,f noun
 święto,holiday,Wesołych świąt!,n noun
+źle widziany,unwelcome,,adjective
 źródło,spring (of water),,n noun
 żaden,no/none/neither,Żaden z nas (Neither of us),pronoun
 żaglówka,sailing boat,,f noun
