@@ -131,6 +131,7 @@ bawełna,cotton,,f noun
 bać się,"to be scared, to fear",,verb
 beczka,barrel,,f noun
 bezawaryjny,failure-free (without breakdown),,adjective
+bezczelność,insolence,,f noun
 bezdomny,homeless,,adjective
 bezinteresowny,selfless/unselfish,,adjective
 beznadziejny,hopeless,,adjective
@@ -184,6 +185,7 @@ brzmieć,to sound (repeated),,verb
 brzmij (brzmieć),Sound! (repeated),,imperative
 brzmisz (brzmieć),You sound,,conjugation
 brzmię (brzmieć),I sound,,conjugation
+brzęczeć,to clink/chink (repeated),,verb
 budować,to build (repeated),,verb
 bunt,rebellion/mutiny,Nie ma buntu,m noun
 buntownik,rebel/mutineer,,m noun
@@ -470,6 +472,7 @@ ferie,holiday/break,,f plural noun
 filiżanka,cup,,f noun
 filozofia,philosophy,,f noun
 furgonetka,van,,f noun
+futerał,case,Nie ma futerału,m noun
 futro,fur coat,,n noun
 gabinet,small or private office,Gabinet lekarski,m noun
 garnek,(cooking) pot,Nie ma garnka,m noun
@@ -509,6 +512,7 @@ gospodarz,host,,m noun
 gotówka,cash,,f noun
 gościnny,hospitable,,adjective
 gość,guest,,m noun
+grajek,musician,,m noun
 granatowy,navy blue,,adjective
 granica,border,,f noun
 gromadzić,to amass/gather (repeated),,verb
@@ -521,6 +525,7 @@ grzejnik,heater/radiator,,m noun
 grzmot,thunder,Nie ma grzmotu,m noun
 grób,grave/tomb,Nie ma grobu,m noun
 gust,taste,Ma pan dobry gust (You are a man of taste),m noun
+gwałcić,to rape/violate (repeated),,verb
 gwałtownie,fiercely/rapidly/sharply/suddenly,,adverb
 góra,top/mountain,,f noun
 górny,upper,,adjective
@@ -554,6 +559,7 @@ iść piechotą,to go on foot,,phrase
 jad,venom,Nie ma jadu,m noun
 jadowity,venomous,,adjective
 jakby,as if/though,"Dlaczego zawsze mówisz o naszej mamie, jakby nić mogło cię zdenerwować",conjunction
+jatka,massacre,,f noun
 jazda,a drive/ride (e.g. car/bike),Po jeździe,f noun
 jednocześnie,at the same time,,adverb
 jednorazowy,single/disposable,,adjective
@@ -647,6 +653,7 @@ krok,step,Nie ma kroku,m noun
 kromka,slice,,f noun
 kropla,drop,,f noun
 kruk,raven,,m noun
+krwawy,bloody,,adjective
 krytykować,to criticise (repeated),,verb
 krztusić się,to choke (repeated),,verb
 krzyczeć,to shout (repeated),,verb
@@ -689,6 +696,7 @@ kłócę się (kłócić się),I am arguing,,conjugation
 kłótnia,argument,,f noun
 lalka,doll,,f noun
 lansować,to promote/launch (repeated),,verb
+latarka,torch/flashlight,,f noun
 lecieć,to fly (repeated),,verb
 lecisz (lecieć),You are flying,,conjugation
 lecz,but,,conjunction
@@ -975,6 +983,7 @@ niespełna,nearly,,adverb
 niespodzianka,surprise,,f noun
 niespodziewany,unexpected/unforeseen,,adjective
 niesprawiedliwy,unfair/unjust,,adjective
+niesłychany,unheard of,,adjective
 nietknięty,untouched/unharmed/intact,,adjective
 nieuczciwy,dishonest,,adjective
 nieudolnie,clumsily,,adverb
@@ -1081,6 +1090,8 @@ oczekiwać,to anticipate,,verb
 oczekuj (oczekiwać),Anticipate!,,imperative
 oczekujesz (oczekiwać),You are anticipating,,conjugation
 oczekuję (oczekiwać),I am anticipating,,conjugation
+oczyszczać,to purify (repeated),,verb
+oczyścić,to purify (once),,perf verb
 od nowa,from scratch,Zaczynać od nowa,phrase
 odbicie,reflection,,n noun
 odbierać,to take back (repeated),,verb
@@ -1366,6 +1377,8 @@ podnoś (podnosić),Pick up! (repeated),,imperative
 podobieństwo,similarity,,n noun
 podobno,reportedly/supposedly/apparently,,adverb
 podobny,similar,,adjective
+podpalać,to set fire to (repeated),,verb
+podpalić,to set fire to (once),,perf verb
 podporządkować się komuś,to submit to somebody (once),,perf verb
 podporządkowywać się komuś,to submit to somebody (repeated),,verb
 podrażniać,to physically irritate (repeated),,verb
@@ -1755,6 +1768,8 @@ przyjść,to come/arrive (on foot) (once),,perf verb
 przykro mi,I'm sorry,,phrase
 przykrywać,to cover (repeated),,verb
 przykryć,to cover (once),,perf verb
+przymierzać,to try on (repeated),,verb
+przymierzyć,to try on (once),,perf verb
 przymiotnik,adjective,,m noun
 przynajmniej,at least,,adverb
 przyniesiesz (przynieść),You will bring (on foot),,conjugation
@@ -2072,7 +2087,9 @@ soczewica,lentil,,f noun
 soczysty,juicy,,adjective
 sonda,opinion poll,,f noun
 spadać,to fall/drop (repeated),,verb
+spalać,to burn (repeated),,verb
 spalenizna,the smell of burning,,f noun
+spalić,to burn (once),,perf verb
 spalony,burnt/scorched,,adjective
 spaść,to fall/drop (once),,perf verb
 spełniać,to fulfil or carry out (repeated),,verb
@@ -2145,6 +2162,7 @@ strefa,zone,,f noun
 streszczenie,summary,,n noun
 strzała,arrow (weapon),,f noun
 strzałka,arrow (pointer),,f noun
+strzelanina,shooting,,f noun
 strzelać,to shoot/fire (repeated),,verb
 strzelisz (strzelić),You will shoot/fire,,conjugation
 strzelić,to shoot/fire (once),,perf verb
@@ -2275,6 +2293,7 @@ tyjesz (tyć),You are gaining weight,,conjugation
 tyję (tyć),I am gaining weight,,conjugation
 tyle,so many/much,Nawet nie tyle (Not even that much),adverb
 tylny,rear,,adjective
+tymczasem,meanwhile,,adverb
 typowy,typical,,adjective
 tysiąc,one thousand,,numeral
 tyć,to gain weight (repeated),,verb
@@ -2333,6 +2352,7 @@ ukształtować,to shape (once),,perf verb
 układ,arrangement/layout,Nie ma układu,m noun
 układać,to arrange/align (repeated),,verb
 ulewny,torrential,,adjective
+uliczny,street,,adjective
 ulokować,to place (once),,perf verb
 ulubieniec,favourite,,m noun
 ulżysz (ulżyć),You are lightening/easing,,verb
@@ -2562,7 +2582,9 @@ więzienie,prison,,n noun
 więzień,prisoner,,m noun
 więź,tie/bond,,f noun
 wkrótce,shortly,,adverb
+wkurzać się,to be pissed off (repeated),,verb
 wkurzony,pissed off,,adjective
+wkurzyć się,to be pissed off (once),,perf verb
 wkładać,to put/place (repeated),,verb
 wniebogłosy,at the top of one's voice,,adverb
 wniosek,conclusion,,m noun
@@ -2866,6 +2888,7 @@ zabraniać,to forbid (repeated),,verb
 zabrać,to take away (once),,perf verb
 zabronić,to forbid (once),,perf verb
 zabrzmieć,to sound (once),Aby nie zabrzmiały fałszywie,perf verb
+zabrzęczeć,to clink/chink (once),,perf verb
 zaburzać,to upset/disturb (repeated),,verb
 zaburzenia umysłowe/psychiczne,mental/psychological disorders,,phrase
 zaburzyć,to upset/disturb (once),,perf verb
@@ -3144,6 +3167,7 @@ zegniesz (zgiąć),You will bend,,conjugation
 zegnij (zgiąć),Bend! (once),,imperative
 zegnę (zgiąć),I will bend,,conjugation
 zejść,to descend (once),,perf verb
+zemsta,revenge/vengeance,,f noun
 zemścić się,to avenge oneself on somebody (once),,perf verb
 zepchnąć,to drive back (once),,perf verb
 zepsuć,to break/spoil/ruin (once),,perf verb
@@ -3173,6 +3197,7 @@ zgodnie,in agreement,,adverb
 zgodzić się,to agree (once),,perf verb
 zgrabny,shapely,,adjective
 zgromadzić,to amass/gather (once),,perf verb
+zgwałcić,to rape/violate (once),,perf verb
 zgłaszać,to report (repeated),,verb
 zgłosić,to report (once),,perf verb
 zgłoszenie,application/enrolment,,n noun
@@ -3337,5 +3362,6 @@ złudzenie,illusion,,n noun
 życiorys,C.V.,Nie ma życiorysu,m noun
 życzenie,wish,Masz trzy życzenia! (You have three wishes!),n noun
 życzliwy,kind/friendly,,adjective
-żyjący,living,,adjective
+żyjący,living I,,adjective
+żywy,living II,,adjective
 żądać,to demand I (repeated),,verb
