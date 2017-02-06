@@ -254,6 +254,8 @@ cudzoziemiec,foreigner,Jestem cudzoziemcem,m noun
 cudzy,somebody else's,,adjective
 cyfrowy,digital,,adjective
 cygan,gypsy,,m noun
+cykać,to tick (repeated),,verb
+cyknąć,to tick (once),,perf verb
 cyniczny,cynical,,adjective
 czaisz się (czaić się),You are lurking,,conjugation
 czaić się,to lurk (repeated),,verb
@@ -756,6 +758,7 @@ marzę (marzyć),I am dreaming,,conjugation
 masowo,in great numbers,,adverb
 matowy,matt (not shiny),,adjective
 mazak,felt-tip pen,,m noun
+meblować,to furnish (repeated),,verb
 meteoropatia,weather sensitivity,,f noun
 mgła,fog/mist,,f noun
 mianownik (kto? co?),nominative case,,m noun
@@ -1035,11 +1038,11 @@ obie kobiety,both women,,numeral
 obiecaj (obiecać),Promise! (once),,imperative
 obiecam (obiecać),I will promise,,conjugation
 obiecasz (obiecać),You will promise,,conjugation
-obiecać,to promise (once),,perf verb
+obiecać,to promise I (once),,perf verb
 obiecuj (obiecywać),Promise! (repeated),,imperative
 obiecujesz (obiecywać),You promise,,conjugation
 obiecuję (obiecywać),I promise,,conjugation
-obiecywać,to promise (repeated),,verb
+obiecywać,to promise I (repeated),,verb
 obiektyw,lens,Nie ma obiektywu,m noun
 obierać,to peel/shell/skin (repeated),,verb
 obietnica,(a) promise,,f noun
@@ -1318,6 +1321,7 @@ picie,drinking,,n noun
 pieczeń,roast,,f noun
 piekarnik,oven,,m noun
 pieniądze,money,Nie ma pieniędzy,m plural noun
+pieniężny,monetary,,adjective
 pierzesz (prać),You are laundering,,conjugation
 pierś,chest/breast,,f noun
 pierścionek,ring,Nie ma pierścionka,m noun
@@ -1667,6 +1671,7 @@ przejąć,to take over (once),,perf verb
 przejście,crossing/passage,Przejście dla pieszych,n noun
 przejściowy,transitional/transient/temporary,,adjective
 przejść,to cross (once),,perf verb
+przekaz (pieniężny),(money) order,Nie ma przekazu,m noun
 przekazać,"to hand over, to pass on (once)",,perf verb
 przekazywać,"to hand over, to pass on (repeated)",,verb
 przekonanie,belief/conviction,,n noun
@@ -1681,6 +1686,8 @@ przekręcić,to turn/rotate (once),,perf verb
 przekształcać,to reshape (repeated),,verb
 przekształcić,to reshape (once),,perf verb
 przekąska,snack,,f noun
+przelać pieniądze,to transfer money (once),,perf verb
+przelewać pieniądze,to transfer money (repeated),,verb
 przemoc,violence,,f noun
 przemoknięty,soaked/drenched,,adjective
 przemysł,industry,,m noun
@@ -1793,6 +1800,10 @@ przypuszczać,to suppose/assume,,verb
 przypuszczenie,supposition/assumption,,n noun
 przypływ,high tide,Nie ma przypływu,m noun
 przyroda,nature,Kocham przyrodę! (I love nature!),f noun
+przyrzec,to promise II (once),,perf verb
+przyrzekać,to promise II (repeated),,verb
+przyrzekniesz (przyrzec),You will promise,,conjugation
+przyrzeknę (przyrzec),I will promise,,conjugation
 przysięga,oath/swearing,,f noun
 przyspieszać,to accelerate (repeated),,verb
 przyspieszyć,to accelerate (once),,perf verb
@@ -2192,6 +2203,7 @@ szacunek,respect,"Pamiętaj, szacunek to wszystko!",m noun
 szafka,wall cupboard,,f noun
 szaleniec,madman,Nie ma szaleńca,m noun
 szaleństwo,madness/insanity,,n noun
+szalony,insane,,adjective
 szanowny,honourable,,adjective
 szał,frenzy/delirium/lunacy,Nie ma szału,m noun
 szczególnie,particularly/especially,,adverb
@@ -2263,6 +2275,7 @@ towarzyski,gregarious,,adjective
 towarzystwo,company,,n noun
 towarzyszyć,to accompany,,verb
 toń,depths,,f noun
+tożsamość,identity,,f noun
 tracisz (tracić),You are losing (something),,conjugation
 tracić,to lose (something) (repeated),,verb
 tracę (tracić),I am losing (something),,conjugation
@@ -2360,6 +2373,7 @@ ulżyć,to lighten/ease,,verb
 ulżę (ulżyć),I am lightening/easing,,verb
 umarzać,to write off (repeated),,verb
 umawiać się z kimś,to arrange to meet with someone (repeated),,verb
+umeblować,to furnish (once),,perf verb
 umiar,moderation,Nie ma umiaru,m noun
 umiarkowany,temperate/moderate,,adjective
 umiejętność,ability/skill,,f noun
@@ -2893,6 +2907,7 @@ zaburzać,to upset/disturb (repeated),,verb
 zaburzenia umysłowe/psychiczne,mental/psychological disorders,,phrase
 zaburzyć,to upset/disturb (once),,perf verb
 zabytek,monument,Nie ma zabytku,m noun
+zabytkowy,antique/vintage,,adjective
 zachodzić,to go behind (repeated),,verb
 zachowanie,behaviour,,n noun
 zachować,to preserve/retain/keep (once),,perf verb
