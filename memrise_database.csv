@@ -101,6 +101,7 @@ aby,in order to,Aby odnieść sukces nie muszą koniecznie studiować,conjunctio
 akapit,paragraph,Nie ma akapitu,m noun
 aksamitny,velvety,,adjective
 aktualizować,to update (repeated),,verb
+aktualny,current/topical,,adjective
 akurat,exactly,,particle
 aleja,avenue,Nie ma alei,f noun
 ambasada,embassy,,f noun
@@ -224,6 +225,7 @@ chociaż,(even) though,"Nie jestem wesoły, chociaż piję wino",conjunction
 chodzenie,walking,,n noun
 choroba,disease,,f noun
 choć,(even) though,"Jestem smutny, choć mam wino",conjunction
+chropowaty,rough/harsh,,adjective
 chudnąć,to loose weight (repeated),,verb
 chwilowo,momentarily/temporarily,Sklep jest chwilowo nieczynny,adverb
 chwilowy,temporary,,adjective
@@ -272,10 +274,12 @@ czerwiec,June,,m noun
 czesne,tuition fee,,n noun
 czoło,forehead,"Na czole, pięć czół",n noun
 czterysta,four hundred,,numeral
+czuwać nad kimś/czymś,to watch over somebody/something,,verb
 czułość,tenderness/affection,,f noun
 czynić,to do/make something significant (repeated),,verb
 czynnik,factor/consideration,,m noun
 czynność,action/activity,,f noun
+czynsz,rent,Nie ma czynszu,m noun
 czyszczę (czyścić),I am cleaning/brushing,,conjugation
 czytelnik,reader,Czytelniczka,m noun
 czyścisz (czyścić),You are cleaning/brushing,,conjugation
@@ -533,6 +537,9 @@ góra,top/mountain,,f noun
 górny,upper,,adjective
 gąbka,sponge,,f noun
 gęsty,thick/dense,,adjective
+głaskać,to stroke (repeated),,verb
+głaszczesz (głaskać),You are stroking,,conjugation
+głaszczę (głaskać),I am stroking,,conjugation
 głaz,boulder,Nie ma głazu,m noun
 głośnik,(loud)speaker,,m noun
 głuchy,deaf,,adjective
@@ -611,6 +618,7 @@ kobiecość,femininity,,f noun
 kobiecy,feminine,,adjective
 kojarzyć się,to be associated/reminded (repeated),To kojarzy mi się z czymś,verb
 kojący,soothing,,adjective
+kolec,prickle/quill/thorn,Nie ma kolca,m noun
 kolej,railway/railroad,Nie ma kolei,f noun
 kolejność,sequence/order,,f noun
 kolejny,consecutive/subsequent,,adjective
@@ -706,6 +714,7 @@ leczenie,treatment/therapy,,n noun
 leczyć,to treat/cure/heal (repeated),,verb
 lecę (lecieć),I am flying,,conjugation
 ledwie,barely/hardly,,particle
+lenić się,to be lazy,,verb
 lepszość,superiority,,f noun
 letni,summery,,adjective
 lewa strona,left side,Po lewej stronie (on the left side),f noun
@@ -1257,6 +1266,7 @@ opuszczać,to abandon/leave (repeated),,verb
 opuścić,to abandon/leave (once),,perf verb
 opętany,possessed,,adjective
 opłakany,deplorable/lamentable,,adjective
+opłata,charge/fee/fare,,f noun
 opłatek,wafer,Nie ma opłatka,m noun
 opłukać,to rinse (once),,perf verb
 orzeł,eagle,Widzę orła,m noun
@@ -1275,7 +1285,11 @@ ostatecznie,eventually/ultimately,,adverb
 ostrość,sharpness,,f noun
 ostrożnie,carefully,,adverb
 ostrze,edge/blade,,n noun
+ostrzec,to warn (once),,perf verb
+ostrzegać,to warn (repeated),,verb
+ostrzegę (ostrzec),I will warn,,conjugation
 ostrzeżenie,warning,,n noun
+ostrzeżesz (ostrzec),You will warn,,conjugation
 oszacować,to estimate/assess (once),,perf verb
 oszczędzać,to save/economize (repeated),,verb
 oszczędzić,to save/economize (once),,perf verb
@@ -1408,6 +1422,7 @@ pognać,to rush (once),,perf verb
 pogorszyć,to worsen (once),,perf verb
 pogoń,chase/pursuit,,f noun
 pogrzeb,funeral,Nie ma pogrzebu,m noun
+pogłaskać,to stroke (once),,perf verb
 pogłębiać,to deepen (repeated),,verb
 pogłębić,to deepen (once),,perf verb
 pojawiać się,"to appear, to show up (repeated)",,perf verb
@@ -1967,6 +1982,7 @@ rozsypywać,to spill/disperse (repeated),,verb
 rozsądny,sensible/wise,,adjective
 roztapiać,to melt (repeated),,verb
 roztopić,to melt (once),,perf verb
+roztrwonić,to squander (once),,perf verb
 roztrzepany,scatterbrained,,adjective
 roztrącać,to jostle (repeated),,verb
 roztrącić,to jostle (once),,perf verb
@@ -2038,6 +2054,7 @@ schylać,to bend down (repeated),,verb
 schylić,to bend down (once),,perf verb
 senny,drowsy/sleepy/soporific,,adjective
 siadać,to sit down (repeated),,verb
+siano,hay,,n noun
 siedzenie,seat,,n noun
 siedziba,headquarters,,f noun
 siedzieć,to sit,,verb
@@ -2164,6 +2181,7 @@ stawać się,to become/happen (repeated),,verb
 stać się,to become/happen (once),,perf verb
 stały,regular/steady/stable/fixed,,adjective
 staż,training/internship,Nie ma stażu,m noun
+stodoła,barn,,f noun
 stolarz,carpenter/joiner,,m noun
 stopnieć,to thaw (once),,perf verb
 stosunek,relation/attitude,W stosunku do czegoś,m noun
@@ -2237,6 +2255,7 @@ sąsiedztwo,neighbourhood II,,n noun
 sędzia,judge (profession),Prawnik słucha sędziego,m noun
 sława,fame/reputation,,f noun
 słodzić,to sweeten (repeated),,verb
+słoma,straw,,f noun
 słowiański,Slavic,,adjective
 słownictwo,vocabulary,,n noun
 słuchacz,listener,Słuchaczka,m noun
@@ -2254,6 +2273,7 @@ tak zwany,so-called,,phrase
 tamtejszy,local,,adjective
 tandeta,crap/tat/rubbish,,f noun
 tarcza,shield/clock-face/target/disc,,f noun
+tarka,grater,,f noun
 tchórz,(a) coward,,m noun
 teczka,briefcase,,f noun
 temu,ago,Dwa tygodnie temu dostałem pracę,adverb
@@ -2293,6 +2313,7 @@ trumna,coffin/casket,,f noun
 trwać,to last/persist,,verb
 trwałość,durability,,f noun
 trwały,durable,,adjective
+trwonić,to squander (repeated),,verb
 trzysta,three hundred,,numeral
 trząść się,to shake (repeated),,verb
 trzęsiesz się (trząść się),You are shaking,,conjugation
@@ -2700,6 +2721,8 @@ wydajny,efficient,,adjective
 wydarzenie,event,,n noun
 wydatek,expense,Nie ma wydatku,m noun
 wydrukować,to print (once),,perf verb
+wyganiać,to chase off/out (repeated),,verb
+wygonić,to chase off/out (once),,perf verb
 wygrać,to win (once),,perf verb
 wygrywać,to win (repeated),,verb
 wyjazd,trip,Nie ma wyjazdu,m noun
@@ -2991,6 +3014,7 @@ zamieść,to sweep (once),,perf verb
 zamilknąć,to fall silent (once),,perf verb
 zamiotę (zamieść),I will sweep,,conjugation
 zamożny,wealthy,,adjective
+zamrażarka,freezer,,f noun
 zamówienia,orders,,f plural noun
 zanieczyszczenie,pollution/contamination,,n noun
 zanim,before,,conjunction
