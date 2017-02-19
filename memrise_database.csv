@@ -123,9 +123,11 @@ awaria,breakdown/crash/failure,,f noun
 badacz,researcher,Nie ma badacza,m noun
 badanie,study/test/research,,n noun
 badać,to research/investigate (repeated),,verb
+bagażnik,boot/trunk,,m noun
 bagno,marsh/swamp/bog,,noun
 bandyci,bandits,,m plural noun
 bandyta,bandit,,m noun
+barierka,barrier,,f noun
 barwa,colour,,f noun
 barwny,colourful,,adjective
 bawełna,cotton,,f noun
@@ -529,7 +531,7 @@ grudzień,December,,m noun
 grzech,sin,Nie ma grzechu,m noun
 grzejnik,heater/radiator,,m noun
 grzmot,thunder,Nie ma grzmotu,m noun
-grób,grave/tomb,Nie ma grobu,m noun
+grób,grave/tomb I,Nie ma grobu,m noun
 gust,taste,Ma pan dobry gust (You are a man of taste),m noun
 gwałcić,to rape/violate (repeated),,verb
 gwałtownie,fiercely/rapidly/sharply/suddenly,,adverb
@@ -566,6 +568,7 @@ istotny,significant,,adjective
 izolować,to isolate (repeated),,verb
 iść piechotą,to go on foot,,phrase
 jad,venom,Nie ma jadu,m noun
+jadalny,edible,,adjective
 jadowity,venomous,,adjective
 jakby,as if/though,"Dlaczego zawsze mówisz o naszej mamie, jakby nić mogło cię zdenerwować",conjunction
 jatka,massacre,,f noun
@@ -577,6 +580,7 @@ jedynak,only (boy) child,,m noun
 jedynie,only,,adverb
 jemioła,mistletoe,,f noun
 jesienny,autumnal,,adjective
+jezdnia,road/roadway,,f noun
 jezioro,lake,,n noun
 jeździsz (jeździć),You are going (by vehicle),,conjugation
 jeździć,to go (by vehicle),,verb
@@ -623,6 +627,7 @@ kolej,railway/railroad,Nie ma kolei,f noun
 kolejność,sequence/order,,f noun
 kolejny,consecutive/subsequent,,adjective
 kolekcja,collection,,f noun
+kombinezon,overalls,Nie ma kombinezonu,m noun
 komin,chimney,Nie ma komina,m noun
 komisariat,police station,Nie ma komisariatu,m noun
 komnata,chamber,,f noun
@@ -755,6 +760,7 @@ majątek,asset/property,Nie ma majątku,m noun
 makler,stock broker,,m noun
 mandat,ticket/fine,Nie ma mandatu,m noun
 marka,brand/make,,f noun
+marmur,marble,Nie ma marmuru,m noun
 marnować,to waste (repeated),,verb
 marny,weak/feeble/flimsy,,adjective
 marsz,march,Nie ma marszu,m noun
@@ -765,6 +771,7 @@ marzysz (marzyć),You are dreaming,,conjugation
 marzyć,to dream,,verb
 marzę (marzyć),I am dreaming,,conjugation
 masowo,in great numbers,,adverb
+maszynista,engine/train driver,,m noun
 matowy,matt (not shiny),,adjective
 mazak,felt-tip pen,,m noun
 meblować,to furnish (repeated),,verb
@@ -809,6 +816,7 @@ mnożyć,to multiply (repeated),,verb
 mnóstwo,plenty (of something),,n noun
 moczyć,to wet (repeated),,verb
 modlitwa,prayer,,f noun
+mogiła,grave/tomb II,,f noun
 mogli,They were able to (m),,conjugation
 mogliście,You (plural) were able to (m),,conjugation
 mogliśmy,We were able to (m),,conjugation
@@ -956,6 +964,7 @@ nauka,science,,f noun
 nawias,bracket,Nie ma nawiasu,m noun
 nawyk,habit/practice/custom,Nie ma nawyku,m noun
 nawóz,fertilizer/manure,Nie ma nawozu,m noun
+nazbierać,to pick/collect/gather,,verb
 nazista,nazi,,m noun
 nazistowski,nazi,,adjective
 naziści,nazis,,m plural noun
@@ -1107,6 +1116,7 @@ oczyścić,to purify (once),,perf verb
 od nowa,from scratch,Zaczynać od nowa,phrase
 odbicie,reflection,,n noun
 odbierać,to take back (repeated),,verb
+odblaskowy,reflective,,adjective
 odbywa się (odbywać się),it is taking place,,conjugation
 odbywają się (odbywać się),they are taking place,,conjugation
 odbywać się,to take place (repeated),,verb
@@ -1290,6 +1300,7 @@ ostrzegać,to warn (repeated),,verb
 ostrzegę (ostrzec),I will warn,,conjugation
 ostrzeżenie,warning,,n noun
 ostrzeżesz (ostrzec),You will warn,,conjugation
+ostygnąć,to cool down (once),,perf verb
 oszacować,to estimate/assess (once),,perf verb
 oszczędzać,to save/economize (repeated),,verb
 oszczędzić,to save/economize (once),,perf verb
@@ -1300,6 +1311,7 @@ otaczać,to surround (repeated),,verb
 oto,here is/are,Oto rezultaty badań (Here are the results of the study),
 otoczenie,surroundings,,n noun
 otoczyć,to surround (once),,perf verb
+otruć kogoś czymś,to poison somebody with something (once),,perf verb
 otrzymać,to receive/obtain (once),,perf verb
 otrzymywać,to receive/obtain (repeated),,verb
 otulać,to wrap (repeated),,verb
@@ -1401,6 +1413,7 @@ podporządkować się komuś,to submit to somebody (once),,perf verb
 podporządkowywać się komuś,to submit to somebody (repeated),,verb
 podrażniać,to physically irritate (repeated),,verb
 podrażnić,to physically irritate (once),,perf verb
+podrzędny,second-rate,,adjective
 podróżowanie,travelling,,n noun
 podręcznik,textbook,,m noun
 podstawa,base/basis/ground,,f noun
@@ -1527,7 +1540,9 @@ postanowić,to decide (once),,perf verb
 postać,figure/form,Dwie postaci,f noun
 posterunek,police/fire station,Nie ma posterunku,m noun
 postój,stopover/stop-off,Nie ma postoju,m noun
+postąpić,to act/proceed (once),,perf verb
 postęp,progress,Nie ma postępu,m noun
+postępować,to act/proceed (repeated),,verb
 poszczególny,individual/particular,,adjective
 potknąć się,to stumble/trip (once),,perf verb
 potomstwo,offspring,,n noun
@@ -2093,11 +2108,14 @@ skrzypce,violin,,f pl noun
 skrzyżowanie,junction/crossing/crossroads,,n noun
 skrócić,to shorten (once),,perf verb
 skrót,abbreviation/short-cut,Nie ma skrótu,m noun
+skręcać,to twist (repeated),,verb
+skręcić,to twist (once),,perf verb
 skrępować,to embarrass II (once),,verb
 skupiać się,to concentrate (repeated),,verb
 skupić się,to concentrate (once),,perf verb
 skuteczny,effective,,adjective
 skutek,consequence/result/effect,,m noun
+skórzany,leather,,adjective
 skąpy,miserly/stingy,,adjective
 skład,composition,Nie ma składu,m noun
 składnia,syntax,,f noun
@@ -2206,6 +2224,7 @@ stwierdzić,to assert/claim (once),,perf verb
 stworzyć,to create (once),,perf verb
 stwórca,creator,,m noun
 styczeń,January,,m noun
+stygnąć,to cool down (repeated),,verb
 stypendium,bursary/grant,,n noun
 stąd,from here,,adverb
 sumienie,conscience,,n noun
@@ -2309,7 +2328,9 @@ troska,worry/care/concern,,f noun
 troszczyć się,"to care for, to take care of (repeated)",,verb
 trucizna,poison,,f noun
 trud,difficulty,Nie ma trudu,m noun
+trujący,poisonous,,adjective
 trumna,coffin/casket,,f noun
+truć kogoś czymś,to poison somebody with something (repeated),,verb
 trwać,to last/persist,,verb
 trwałość,durability,,f noun
 trwały,durable,,adjective
@@ -2524,6 +2545,7 @@ uznawać,to acknowledge (repeated),,verb
 uznać,to acknowledge (once),,perf verb
 uzupełniać,to fill out (repeated),,verb
 uzupełnić,to fill out (once),,verb
+ułamek,fraction,Nie ma ułamka,m noun
 ułożyć,to arrange/align (once),,perf verb
 uśpisz (uśpić),You will put to sleep,,conjugation
 uśpić,to put to sleep (once),,perf verb
@@ -2556,6 +2578,7 @@ wbijesz (wbić),You will hammer/plunge/sink,,conjugation
 wbiję (wbić),I will hammer/plunge/sink,,conjugation
 wbić,to hammer/plunge/sink (once),,perf verb
 wbrew,against,Wbrew zasadom,preposition
+wbudowany,built-in,,adjective
 wcale,whatsoever/in the least,,adverb
 wciąż,still/always/continually,,adverb
 wczasy pracownicze,worker's holiday,,phrase
@@ -2597,6 +2620,7 @@ wierność,fidelity/faithfulness,,f noun
 wierny,faithful,Wierny jak pies,adjective
 wiertło,drill,,n noun
 wierzyć,to believe,Wierzysz mu? (Do you believe me?),verb
+wierzący,believer,,m noun
 wieszak,hanger/coat-stand/coat-rack,,m noun
 wietrzny,windy,,adjective
 wieża,tower,,f noun
@@ -2616,6 +2640,7 @@ większość,most/majority,Większośćz z nas (Most of us),f noun
 więzienie,prison,,n noun
 więzień,prisoner,,m noun
 więź,tie/bond,,f noun
+wjazd,slip road (entry),Nie ma wjazdu,m noun
 wkrótce,shortly,,adverb
 wkurzać się,to be pissed off (repeated),,verb
 wkurzony,pissed off,,adjective
@@ -2725,7 +2750,8 @@ wyganiać,to chase off/out (repeated),,verb
 wygonić,to chase off/out (once),,perf verb
 wygrać,to win (once),,perf verb
 wygrywać,to win (repeated),,verb
-wyjazd,trip,Nie ma wyjazdu,m noun
+wyjazd I,trip,Nie ma wyjazdu,m noun
+wyjazd II,slip road (exit),Nie ma wyjazdu,m noun
 wyjaśniać,to explain (repeated),,verb
 wyjaśnienie,explanation,,n noun
 wyjaśnić,to explain (once),,perf verb
@@ -2888,6 +2914,7 @@ wódz,leader/chief/chieftain,,m noun
 wóź (wozić),Transport/drive!,,imperative
 wąchać,to smell/sniff (repeated),,verb
 wąski,narrow,,adjective
+wątek,plot/thread,Nie ma wątku,m noun
 wątpić,to doubt,Wątpię że będzie to robić (I doubt he'll do it),verb
 wątpliwość,doubt,,f noun
 wędka,fishing rod,,f noun
@@ -2990,6 +3017,7 @@ zakres,range/extent/scope,Nie ma zakresu,m noun
 zakrztusić się,to choke (once),,perf verb
 zakręcać,to screw/tighten (repeated),,verb
 zakręcić,to screw/tighten (once),,perf verb
+zakręt,bend/turn/corner,Nie ma zakrętu,m noun
 zaktualizować,to update (once),,perf verb
 zakład,bet,Nie ma zakładu,m noun
 zakładać,"to found/establish/install, to put on clothes (repeated)",,verb
@@ -3109,6 +3137,7 @@ zawalić się,"to cave in, to collapse (once)",Zawalił się świat,perf verb
 zawartość,contents,,f noun
 zawarty,contained,,adjective
 zawdzięczać,to owe,,verb
+zawiadowca,station-master,,m noun
 zawiedziesz się (zawieść się),You will be let down,,conjugation
 zawierać,to contain (repeated),,verb
 zawiesisty,thick,,adjective
@@ -3242,6 +3271,7 @@ zgłosić,to report (once),,perf verb
 zgłoszenie,application/enrolment,,n noun
 ziarno,grain/particle,Jest wiele ziaren,n noun
 zimowy,wintery,,adjective
+zioło,herb,,n noun
 zjawisko,phenomenon,,n noun
 zlecać,to commission (repeated),,verb
 zlecenie,commission,,n noun
