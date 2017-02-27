@@ -574,7 +574,7 @@ jadalny,edible,,adjective
 jadowity,venomous,,adjective
 jakby,as if/though,"Dlaczego zawsze mówisz o naszej mamie, jakby nić mogło cię zdenerwować",conjunction
 jatka,massacre,,f noun
-jazda,a drive/ride (e.g. car/bike),Po jeździe,f noun
+jazda,a drive/ride I (e.g. car/bike),Po jeździe,f noun
 jednocześnie,at the same time,,adverb
 jednogłośny,unanimous,,adjective
 jednorazowy,single/disposable,,adjective
@@ -1260,7 +1260,7 @@ okruch,crumb,,m noun
 okrutny,cruel/severe/savage,,adjective
 okrzyk,shout/cry/exclamation,Nie ma okrzyku,m noun
 okręt,ship,Nie ma okrętu,m noun
-okup,random,Nie ma okupu,m noun
+okup,ransom,Nie ma okupu,m noun
 okłamać kogoś,to deceive (or lie to) somebody (once),,perf verb
 okłamiesz kogoś (okłamać kogoś),You will deceive somebody,,conjugation
 okłamię kogoś (okłamać kogoś),I will deceive somebody,,conjugation
@@ -1708,6 +1708,7 @@ przegapić,to miss (once),,perf verb
 przeglądać,to skim over (repeated),,verb
 przegrać,to lose (once),,perf verb
 przegrywać,to lose (repeated),,verb
+przejażdżka,a drive/ride II (e.g. car/bike),,f noun
 przejmować,to take over (repeated),,verb
 przejrzeć,to skim over (once),,perf verb
 przejąć,to take over (once),,perf verb
@@ -1997,6 +1998,8 @@ rozpocząć się,to begin/commence (once),,perf verb
 rozpoznawać,to recognize/identify/diagnose (repeated),,verb
 rozpoznać,to recognize/identify/diagnose (once),,perf verb
 rozprawa,trial/hearing,,f noun
+rozpędzać,to speed up (repeated),,verb
+rozpędzić,to speed up (once),,perf verb
 rozrastać się,to grow/spread (repeated),,verb
 rozrosnąć się,to grow/spread (once),,perf verb
 rozruch,startup/starting,Nie ma rozruchu,m noun
@@ -2019,6 +2022,10 @@ roztrącać,to jostle (repeated),,verb
 roztrącić,to jostle (once),,perf verb
 rozważać,to weigh up (repeated),,verb
 rozważyć,to weigh up (once),,perf verb
+rozwiać,to clear/disperse (once),,perf verb
+rozwiejesz (rozwiać),You will clear/disperse,,conjugation
+rozwieję (rozwiać),I will clear/disperse,,conjugation
+rozwiewać,to clear/disperse (repeated),,verb
 rozwijaj się (rozwijać się),Improve/develop! (repeated),,imperative
 rozwijam się (rozwijać się),I am improving/developing,,conjugation
 rozwijasz się (rozwijać się),You are improving/developing,,conjugation
@@ -2326,6 +2333,9 @@ tkanka,tissue,,f noun
 tlen,oxygen,Nie ma tlenu,m noun
 toczyć się,to roll/trundle/wheel (repeated),,verb
 tom,volume (of a book),Nie ma tomu,m noun
+toniesz (tonąć),You are sinking,,conjugation
+tonąć,to sink (repeated),,verb
+tonę (tonąć),I am sinking,,conjugation
 topić,to drown (repeated),,verb
 topnieć,to thaw (repeated),,verb
 topór,large axe,Nie ma topora,m noun
@@ -2886,6 +2896,8 @@ wytrzeć,to wipe (once),,perf verb
 wytrzyj (wytrzeć),Wipe! (once),,conjugation
 wytrę (wytrzeć),I will wipe,,conjugation
 wytwarzanie,production,,n noun
+wytwarzać,to produce/generate (repeated),,verb
+wytworzyć,to produce/generate (once),,perf verb
 wytłumaczyć,to explain/translate/interpret (once),,perf verb
 wywiad,(an) interview (with the media),,m noun
 wywiercić,to drill (once),,perf verb
@@ -3140,6 +3152,7 @@ zasłużę (zasłużyć),I will deserve,,conjugation
 zatarg,dispute/clash/feud,Nie ma zatargu,m noun
 zatem,then,,adverb
 zatkany,clogged,,adjective
+zatonąć,to sink (once),,perf verb
 zatroszczyć się,to take care of (once),,perf verb
 zatrudniać,to employ (repeated),,verb
 zatrudnić,to employ (once),,perf verb
