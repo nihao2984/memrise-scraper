@@ -145,6 +145,7 @@ bezpieczny,safe,,adjective
 bezrobocie,unemployment,,n noun
 bezwzględny,ruthless,,adjective
 bieganie,running,,n noun
+biel,whiteness,,f noun
 bielizna,underwear,,f noun
 biernik (kogo? co?),accusative case,,m noun
 bierny,passive,,adjective
@@ -234,6 +235,7 @@ chwilowo,momentarily/temporarily,Sklep jest chwilowo nieczynny,adverb
 chwilowy,temporary,,adjective
 chwycić,to grasp/grab (once),,perf verb
 chwytać,to grasp/grab (repeated),,verb
+chór,choir,,m noun
 chętny,eager,,adjective
 chęć,desire,,f noun
 chłodnia,refrigerator room,,f noun
@@ -288,6 +290,7 @@ czyszczę (czyścić),I am cleaning/brushing,,conjugation
 czytelnik,reader,Czytelniczka,m noun
 czyścisz (czyścić),You are cleaning/brushing,,conjugation
 czyścić,to clean/brush (repeated),,verb
+cząstka,particle/fraction,,f noun
 częstować,to offer (repeated),,verb
 częsty,common/frequent,,adjective
 częściowy,partial,,adjective
@@ -423,6 +426,7 @@ drżeć,to shiver (repeated),,verb
 drżysz (drżeć),You are shivering,,conjugation
 drżę (drżeć),I am shivering,,conjugation
 dumny,proud,,adjective
+dusić,to strangle (repeated),,verb
 dusza,soul,,f noun
 dwa miliony,two million,,numeral
 dwa tysiące,two thousand,,numeral
@@ -524,7 +528,7 @@ gościnny,hospitable,,adjective
 gość,guest,,m noun
 grajek,musician,,m noun
 granatowy,navy blue,,adjective
-granica,border,,f noun
+granica,border I,,f noun
 gromadzić,to amass/gather (repeated),,verb
 grozisz (grozić),You are threatening,,conjugation
 grozić,to threaten (repeated),,verb
@@ -554,6 +558,7 @@ hazard,gambling,Nie ma hazardu,m noun
 hałasować,to make noise,,verb
 hejnał,bugle-call,Nie ma hejnału,m noun
 hipoteza,hypothesis,,f noun
+huk,boom/crash,Nie ma huku,m noun
 imiesłów,participle,,m noun
 imitować,to imitate,,verb
 inaczej,otherwise/differently,,adverb
@@ -599,7 +604,7 @@ karzę (karać),I am punishing,,conjugation
 kasa,cash desk,,f noun
 kasjer,cashier,,m noun
 kawaler,bachelor,,m noun
-kazać,to command/order,,verb
+kazać,to command/order I,,verb
 każesz (kazać),You are commanding,,conjugation
 każę (kazać),I am commanding,,conjugation
 kibic,supporter/fan,,m noun
@@ -883,6 +888,7 @@ męskoosobowy,masculine personal,,adjective
 młodość,youth,,f noun
 młodzieniec,youth,,m noun
 mścić się,to avenge oneself on somebody (repeated),,verb
+mżawka,drizzle,,
 na dodatek,in addition,W dodatku,phrase
 na stałe,permanently,,adverb
 nabijać,to load/charge/fill (repeated),,verb
@@ -910,6 +916,8 @@ nadziewać,to impale (repeated),,verb
 nadzwyczaj,unusually,,adverb
 nagranie,recording,,n noun
 nagroda,prize,,f noun
+nakazać,to command/order II (once),,perf verb
+nakazywać,to command/order II (repeated),,verb
 nakrapiany,speckled,,adjective
 nakładać,to apply (repeated),,verb
 nalać,to pour into (once),,perf verb
@@ -968,6 +976,7 @@ natomiast,whereas,"Nie lubię go, natomiast lubię jego żoną",adverb
 nauczanie,teaching,,n noun
 nauczyć się,to learn (once),,perf verb
 nauka,science,,f noun
+nawa,aisle,,f noun
 nawias,bracket,Nie ma nawiasu,m noun
 nawyk,habit/practice/custom,Nie ma nawyku,m noun
 nawóz,fertilizer/manure,Nie ma nawozu,m noun
@@ -1008,6 +1017,7 @@ nieprzytomny,unconscious,,adjective
 nieraz,many a time,,adverb
 nieruchomy,"still, not moving",,adjective
 niespełna,nearly,,adverb
+niespełniony,unfulfilled,,adjective
 niespodzianka,surprise,,f noun
 niespodziewany,unexpected/unforeseen,,adjective
 niesprawiedliwy,unfair/unjust,,adjective
@@ -1016,6 +1026,7 @@ nietknięty,untouched/unharmed/intact,,adjective
 nieuczciwy,dishonest,,adjective
 nieudolnie,clumsily,,adverb
 nieuleczalny,incurable,,adjective
+nieustannie,continuously/continually,,adverb
 niewiadomy,unknown,,adjective
 niewierność,infidelity,,f noun
 niewola,captivity,,f noun
@@ -1103,6 +1114,7 @@ obuwniczy,footwear,,adjective
 obwiniać kogoś o coś,to accuse/blame someone of/for something (repeated),,verb
 obwinić kogoś o coś,to accuse/blame someone of/for something (once),,perf verb
 obwisły,sagging/drooping,,adjective
+obwódka,border II,,f noun
 obóz,camp,Nie ma obozu,m noun
 obłąkany,crazy/mad,,adjective
 ocalać,to rescue/save II (repeated),,verb
@@ -1247,6 +1259,7 @@ ograniczenie,limitation,,n noun
 ograniczyć,to restrict/limit/reduce (once),,perf verb
 ogólnokształcący,general education,,adjective
 ogłoszenie,notice/announcement,,n noun
+ohydny,hideous,,adjective
 ojczym,stepfather,,m noun
 ojczysty,native,,adjective
 ojczyzna,homeland/motherland,,f noun
@@ -1332,6 +1345,9 @@ oznajmić,to announce (once),,perf verb
 ośmielać,to encourage (repeated),,verb
 ośmielić,to encourage (once),,perf verb
 ośrodek,centre,Ośrodek leczenia uzależnień,m noun
+oświadczać się komuś,to propose to somebody (repeated),,verb
+oświadczyny,proposal,,m plural noun
+oświadczyć się komuś,to propose to somebody (once),,perf verb
 oświetlenie,illumination/lighting,,n noun
 ożenić,to get married (to a woman) (once),,perf verb
 paczka,package/parcel,,f noun
@@ -1357,6 +1373,7 @@ pieczeń,roast,,f noun
 piekarnik,oven,,m noun
 pieniądze,money,Nie ma pieniędzy,m plural noun
 pieniężny,monetary,,adjective
+pierwotny,primitive,,adjective
 pierzesz (prać),You are laundering,,conjugation
 pierś,chest/breast,,f noun
 pierścionek,ring,Nie ma pierścionka,m noun
@@ -1554,6 +1571,7 @@ postąpić,to act/proceed (once),,perf verb
 postęp,progress,Nie ma postępu,m noun
 postępować,to act/proceed (repeated),,verb
 poszczególny,individual/particular,,adjective
+poszukiwany,sought-after,,adjective
 potknąć się,to stumble/trip (once),,perf verb
 potoczyć się,to roll/trundle/wheel (once),,perf verb
 potomstwo,offspring,,n noun
@@ -1626,8 +1644,10 @@ poznajesz (poznawać),You are meeting,,conjugation
 poznaję (poznawać),I am meeting,,conjugation
 poznawać,"to meet, to get to know (repeated)",,verb
 poznać,"to meet, to get to know (once)",,perf verb
+pozornie,seemingly/ostensibly,,adverb
 pozostawiać,to leave behind II (repeated),,verb
 pozostawić,to leave behind II (once),,perf verb
+pozostały,remaining,,adjective
 pozwalać,to allow (repeated),Pozwalają dzieciom pić kawę (They allow children to drink coffee),verb
 pozwać kogoś do sądu,to take somebody to court (once),,perf verb
 pozwolenie,permit,,n noun
@@ -1815,6 +1835,7 @@ przyjeżdżać,to arrive (by vehicle) (repeated),,verb
 przyjmować,to accept (repeated),,verb
 przyjąć,to accept (once),,perf verb
 przyjęcie,party,,n noun
+przyjęty,accepted,,adjective
 przyjść,to come/arrive (on foot) (once),,perf verb
 przykro mi,I'm sorry,,phrase
 przykrywać,to cover (repeated),,verb
@@ -2011,8 +2032,11 @@ rozrzucę (rozrzucić),I will scatter/spread,,conjugation
 rozstanie,parting/split-up,,n noun
 rozstawać się,to part/split with (repeated),,verb
 rozstać się,to part/split with (once),,perf verb
+rozstrzelać,to execute by shooting (once),,perf verb
+rozstrzeliwać,to execute by shooting (repeated),,verb
 rozsypać,to spill/disperse (once),,perf verb
 rozsypywać,to spill/disperse (repeated),,verb
+rozsądek,sense,Nie ma rozsądku,m noun
 rozsądny,sensible/wise,,adjective
 roztapiać,to melt (repeated),,verb
 roztopić,to melt (once),,perf verb
@@ -2057,6 +2081,7 @@ ryzyko,risk,,n noun
 rzeczownik,noun,,m noun
 rzeczywistość,reality,,f noun
 rzeka,river,,f noun
+rzekomo,allegedly,,adverb
 rzemiosło,craft/trade,,n noun
 rześki,brisk/fresh,,adjective
 rzeźnik,butcher,,m noun
@@ -2074,6 +2099,7 @@ równocześnie,simultaneously,,adverb
 równouprawnienie,equal rights (equality),,n noun
 równowaga,balance,,f noun
 równość,equality,,f noun
+równy,flat/level/even/equal,,adjective
 różnica,difference,,f noun
 różnić się,to differ,,verb
 różnorodność,variety,,f noun
@@ -2422,6 +2448,7 @@ udowodniać,to prove (repeated),,verb
 udowodnić,to prove (once),,perf verb
 udręczać,to torment (repeated),,verb
 udręczyć,to torment (once),,perf verb
+udusić,to strangle (once),,perf verb
 udział,participation,Brać udział w czymś (to take part in something),m noun
 ufać,to trust (repeated),,verb
 ukarać,to punish (once),,perf verb
@@ -2436,6 +2463,10 @@ ukryć,to hide/conceal (once),,perf verb
 ukształtować,to shape (once),,perf verb
 układ,arrangement/layout,Nie ma układu,m noun
 układać,to arrange/align (repeated),,verb
+ulec komuś/czemuś,to give into somebody or something (once),,perf verb
+ulegać komuś/czemuś,to give into somebody or something (repeated),,verb
+ulegniesz komuś/czemuś,You will give into somebody or something,,conjugation
+ulegnę komuś/czemuś,I will give into somebody or something,,conjugation
 ulewny,torrential,,adjective
 uliczny,street,,adjective
 ulokować,to place (once),,perf verb
@@ -2547,6 +2578,7 @@ usuwać,to remove (repeated),,verb
 usychać,to wither (repeated),,verb
 usypiać,to put to sleep (repeated),,verb
 uszkodzenie,damage/injury,,n noun
+uszkodzony,damaged,,adjective
 usługa,service,,f noun
 utopić,to drown (once),,perf verb
 utracić,to lose (something) (once),,perf verb
@@ -2620,6 +2652,7 @@ wdzięczność,gratitude,,f noun
 wdzięczny,grateful,,adjective
 według,according to,Według mnie (In my opinion),preposition
 wejście,entrance,,n noun
+welon,veil,Nie ma welonu,m noun
 wesołość,cheerfulness,,f noun
 wesprzesz (wesprzeć),You will support,,conjugation
 wesprzeć,to support (once),,perf verb
@@ -2979,6 +3012,7 @@ zabieg,operation/procedure,Nie ma zabiegu,m noun
 zabierać,to take away (repeated),,verb
 zabijać,to kill (repeated),,verb
 zabić,to kill (once),,perf verb
+zabraknąć,to run short of,Zabrakło nam pieniędzy,verb
 zabraniać,to forbid (repeated),,verb
 zabrać,to take away (once),,perf verb
 zabronić,to forbid (once),,perf verb
@@ -3379,6 +3413,7 @@ zwiększać,to increase (repeated),,verb
 zwiększyć,to increase (once),,perf verb
 zwolnić,to reduce/release/vacate/dismiss (once),,perf verb
 zwrot,turn/return,Nie ma zwrotu,m noun
+zwrotnica,train points,,f noun
 zwycięstwo,victory,,n noun
 zwyczajny,routine/regular/plain,,adjective
 zwłaszcza,especially,,adverb
@@ -3430,6 +3465,7 @@ złudzenie,illusion,,n noun
 śpieszyć,to hurry/rush (repeated),,verb
 śpiwór,sleeping bag,Nie ma śpiwora,m noun
 środek,middle/centre,,m noun
+środkowy,central/middle,adjective,
 środowisko,(the) environment,,n noun
 świadectwo,certificate (esp. educational),,n noun
 świadek,witness,Nie ma świadka,m noun
