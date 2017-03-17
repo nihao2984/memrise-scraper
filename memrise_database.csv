@@ -215,6 +215,7 @@ błyszczysz (błyszczeć),You are sparkling/shining,,conjugation
 błyszczę (błyszczeć),I am sparkling/shining,,conjugation
 błąd,mistake/error,Nie ma błędu (There's no mistake),m noun
 błądzić,to wander (repeated),,verb
+błękitny,light blue,,adjective
 całkowicie,completely/totally,,adverb
 cecha,feature/trait/property/attribute,Odwaga jest ważna cecha charakteru,f noun
 celibat,celibacy,Nie ma celibatu,m noun
@@ -256,6 +257,7 @@ cofać,to reverse (repeated),,verb
 cofniesz (cofnąć),You will reverse,,conjugation
 cofnąć,to reverse (once),,perf verb
 cofnę (cofnąć),I will reverse,,conjugation
+coin,moneta,,f noun
 cuchnąć,to stink,,verb
 cud,miracle/marvel/wonder,Nie ma cudu,m noun
 cudzoziemiec,foreigner,Jestem cudzoziemcem,m noun
@@ -732,6 +734,7 @@ lenić się,to be lazy,,verb
 lepszość,superiority,,f noun
 letni,summery,,adjective
 lewa strona,left side,Po lewej stronie (on the left side),f noun
+leń,lazybones,,m noun
 leż (leżeć),Lie!,,imperative
 leżeć,to lie,,verb
 leżysz (leżeć),You are lying,,conjugation
@@ -984,6 +987,10 @@ nazbierać,to pick/collect/gather,,verb
 nazista,nazi,,m noun
 nazistowski,nazi,,adjective
 naziści,nazis,,m plural noun
+nazwać,to name (once),,perf verb
+nazwiesz (nazwać),You will name,,conjugation
+nazwę (nazwać),I will name,,conjugation
+nazywać,to name (repeated),,verb
 nałożyć,to apply (once),,perf verb
 nałóg,bad habit,Nie ma nałogu,m noun
 naśmiewać się z kogoś/czegoś,to laugh at somebody/something,,verb
@@ -1009,6 +1016,7 @@ niepodatny,impervious/insusceptible,,adjective
 niepodległość,political/national independence,,f noun
 niepowodzenie,fiasco/failure,,n noun
 niepowtarzalność,uniqueness,,f noun
+nieproszony,uninvited,,adjective
 nieprzebyty,impassable,,adjective
 nieprzerwany,uninterrupted,,adjective
 nieprzypadkowo,"intentionally, not accidentally",,adverb
@@ -1223,6 +1231,7 @@ odstawienie,withdrawal,,n noun
 odstawić,to put aside/away (once),,perf verb
 odsunąć się,to back off/away (once),,perf verb
 odsuwać się,to back off/away (repeated),,verb
+odtąd,from now on,,adverb
 odwaga,courage,,f noun
 odważać się,to dare (repeated),,verb
 odważny,brave/courageous,,adjective
@@ -1351,6 +1360,7 @@ oświadczyć się komuś,to propose to somebody (once),,perf verb
 oświetlenie,illumination/lighting,,n noun
 ożenić,to get married (to a woman) (once),,perf verb
 paczka,package/parcel,,f noun
+pajac,puppet,,m noun
 palenisko,hearth,,n noun
 pamięć,memory,,f noun
 panować,to reign/control (repeated),Panować nad sobą (To control oneself),verb
@@ -1358,6 +1368,7 @@ pantofel,slipper,Nie ma pantofla,m noun
 pas,belt,Przypiąć się pasami,m noun
 pasażer,passenger,,m noun
 pasujący,matching,,adjective
+paszcza,muzzle,,f noun
 patelnia,(frying) pan,,m noun
 patetyczny,pompous,,adjective
 paznokieć,nail,Nie ma paznokcia,m noun
@@ -1403,6 +1414,7 @@ poczucie,feeling/sense,On nie ma poczucia winy,n noun
 początek,beginning,Stoje na początku (I'm standing at the start),m noun
 początkowo,initially,,adverb
 poczęstować,to offer (once),,perf verb
+poczęstunek,food and drinks,Nie ma poczęstunku,m noun
 podarować,to gift (once),,perf verb
 podatek,tax,,m noun
 podchodzić,to approach (repeated),,verb
@@ -1572,6 +1584,7 @@ postęp,progress,Nie ma postępu,m noun
 postępować,to act/proceed (repeated),,verb
 poszczególny,individual/particular,,adjective
 poszukiwany,sought-after,,adjective
+posłanie,bedding,,n noun
 potknąć się,to stumble/trip (once),,perf verb
 potoczyć się,to roll/trundle/wheel (once),,perf verb
 potomstwo,offspring,,n noun
@@ -1654,10 +1667,12 @@ pozwolenie,permit,,n noun
 pozwolić,to allow (once),,perf verb
 pozywać kogoś do sądu,to take somebody to court (repeated),,verb
 pozór,appearance/pretence,Nie ma pozoru,m noun
+połknąc,to swallow (once),,perf verb
 połowa,half/middle,,f noun
 położony,situated,,adjective
 położyć,to lay (once),,perf verb
 południe,south,Na południu (Southwards),n noun
+połykać,to swallow (repeated),,verb
 połączyć,to connect/combine (once),,perf verb
 pościg,pursuit,Nie ma pościgu,m noun
 pośpiech,haste/rush,Nie ma pośpiechu,m noun
@@ -1916,6 +1931,7 @@ przyśnić się,to dream about (once),,perf verb
 próba,try,"Trzecia próba, trzecia porażka",f noun
 prąd,electricity,,m noun
 prędkość,speed,,f noun
+psotnik,prankster,,m noun
 psuć,to break/spoil/ruin (repeated),,verb
 psychiczny,psychic,,adjective
 psychika,psyche,,f noun
@@ -1923,6 +1939,10 @@ publicysta,columnist,,m noun
 pudełko,box,,n noun
 pustka,emptiness,,f noun
 pustynia,desert,Jestem na pustyni (I'm in the desert),f noun
+puszcza,primeval forest,,f noun
+puszczać,to let go (repeated),,verb
+puszysty,fluffy,,adjective
+puścić,to let go (once),,perf verb
 pójdziesz (pójść),You will go,,conjugation
 pójdę (pójść),I will go,,conjugation
 pójdź (pójść),Go! (once),,imperative
@@ -2065,6 +2085,7 @@ rozwiązywać,to solve (repeated),,verb
 rozwiń się (rozwinąć się),Improve/develop! (once),,imperative
 rozwód,divorce,Nie ma rozwodu,m noun
 rozwój,development/progress,Nie ma rozwoju,m noun
+rozzłościć,to anger (repeated),,verb
 rozładować,to unload (once),,perf verb
 rozładowywać,to unload (repeated),,verb
 roślina,plant,,f noun
@@ -2259,6 +2280,7 @@ stowarzyszenie,association/society,,n noun
 strata,"loss (e.g. of life, time or money)",,f noun
 strefa,zone,,f noun
 streszczenie,summary,,n noun
+strugać,to carve (repeated),,verb
 strzała,arrow (weapon),,f noun
 strzałka,arrow (pointer),,f noun
 strzelanina,shooting,,f noun
@@ -2913,6 +2935,7 @@ wysokość,height,,f noun
 wyspać się,to sleep well (once),,perf verb
 wystawa,exhibition/show,,f noun
 wystawny,sumptuous,,adjective
+wystrugać,to carve (once),,perf verb
 wystrój,decoration,Nie ma wystroju,m noun
 wystąpić,to stand out (once),,perf verb
 występować,to stand out (repeated),,verb
@@ -2956,6 +2979,8 @@ wyłączyć,to turn off (once),,perf verb
 wyścig,race,,m noun
 wyślesz (wysłać),You will send,,conjugation
 wyślę (wysłać),I will send,,conjugation
+wyświetlać,to screen (a film) (repeated),,verb
+wyświetlić,to screen (a film) (once),,perf verb
 wyższy,higher,,adjective
 wzajemnie,"mutually, reciprocally",,adverb
 wzdłuż,along/longways,,preposition
@@ -2975,6 +3000,7 @@ wzruszyć,to move/touch (once),,perf verb
 wzywać,to summon (repeated),,verb
 wzór,pattern,,m noun
 wódz,leader/chief/chieftain,,m noun
+wówczas,then,,adverb
 wóź (wozić),Transport/drive!,,imperative
 wąchać,to smell/sniff (repeated),,verb
 wąski,narrow,,adjective
@@ -3006,6 +3032,7 @@ za pomocą,using (with the help of),,preposition
 zaangażowany,committed,,adjective
 zaangażować się,to involve oneself in (once),Oboje zaangażowali się w działalność opozycyjną,perf verb
 zaapelować,to appeal (once),,perf verb
+zabawa,fun,,f noun
 zabezpieczać,to protect/guard (repeated),,verb
 zabezpieczyć,to protect/guard (once),,perf verb
 zabieg,operation/procedure,Nie ma zabiegu,m noun
@@ -3184,7 +3211,7 @@ zasłużysz (zasłużyć),You will deserve,,conjugation
 zasłużyć,to deserve (once),,perf verb
 zasłużę (zasłużyć),I will deserve,,conjugation
 zatarg,dispute/clash/feud,Nie ma zatargu,m noun
-zatem,then,,adverb
+zatem,thus/ergo,,adverb
 zatkany,clogged,,adjective
 zatonąć,to sink (once),,perf verb
 zatroszczyć się,to take care of (once),,perf verb
@@ -3422,7 +3449,10 @@ zyskiwać,to gain/win/profit (repeated),,verb
 złamać,to break (once),,perf verb
 zło,evil/wrong,,n noun
 złocisty,golden,,adjective
+złoszczę (złościć),I am angering,,conjugation
 złowić,to catch/hunt (once),,perf verb
+złościć,to anger (repeated),,verb
+złościśz (złościć),You are angering,,conjugation
 złość,anger,,f noun
 złożony,complex/compound,,adjective
 złudzenie,illusion,,n noun
@@ -3465,7 +3495,7 @@ złudzenie,illusion,,n noun
 śpieszyć,to hurry/rush (repeated),,verb
 śpiwór,sleeping bag,Nie ma śpiwora,m noun
 środek,middle/centre,,m noun
-środkowy,central/middle,adjective,
+środkowy,central/middle,,adjective
 środowisko,(the) environment,,n noun
 świadectwo,certificate (esp. educational),,n noun
 świadek,witness,Nie ma świadka,m noun
