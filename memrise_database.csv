@@ -136,6 +136,7 @@ beczka,barrel,,f noun
 bezawaryjny,failure-free (without breakdown),,adjective
 bezczelność,insolence,,f noun
 bezdomny,homeless,,adjective
+bezdzietny,childless,,adjective
 bezinteresowny,selfless/unselfish,,adjective
 beznadziejny,hopeless,,adjective
 bezokolicznik,infinitive,,linguistic
@@ -257,7 +258,6 @@ cofać,to reverse (repeated),,verb
 cofniesz (cofnąć),You will reverse,,conjugation
 cofnąć,to reverse (once),,perf verb
 cofnę (cofnąć),I will reverse,,conjugation
-coin,moneta,,f noun
 cuchnąć,to stink,,verb
 cud,miracle/marvel/wonder,Nie ma cudu,m noun
 cudzoziemiec,foreigner,Jestem cudzoziemcem,m noun
@@ -448,6 +448,7 @@ działanie,action,Potrzebujemy innego działania,n noun
 działać,to work/function,,verb
 działka,building plot,,f noun
 dzieciństwo,childhood,,n noun
+dziedziczenie,inheritance,,n noun
 dziedziczyć,to inherit (repeated),,verb
 dziedzina,branch/discipline/area,Oboje otrzymali Nagrodę Nobla w dziedzinie fizyki,f noun
 dziel się (dzielić się),Share/divide! (repeated),,imperative
@@ -696,6 +697,7 @@ krótkotrwały,short-lived/short-lasting,,adjective
 krążyć,to circle/rotate/orbit,,verb
 krępować,to embarrass II (repeated),,verb
 książę,prince II,,m noun
+księgowa,accountant/bookkeeper,,m noun
 księżniczka,princess,,f noun
 kształt,shape,Nie ma kształtu,m noun
 kształtować,to shape (repeated),,verb
@@ -844,6 +846,7 @@ mogło,It was able to,,conjugation
 mogły,They were able to (f),,conjugation
 mogłyście,You (plural) were able to (f),,conjugation
 mogłyśmy,We were able to (f),,conjugation
+moneta,coin,,f noun
 morderca,murderer,,m noun
 mowa,speech,,f noun
 mozolny,arduous/laborious,,adjective
@@ -1167,6 +1170,7 @@ oddany,devoted,,adjective
 oddawaj (oddawać),Give back! (repeated),,imperative
 oddawać,"to give back, to return (repeated)",,verb
 oddać,"to give back, to return (once)",,perf verb
+oddzielnie,separately/apart II,,adverb
 odebrać,to take back (once),,perf verb
 odejdziesz (odejść),You will go away,,conjugation
 odejdę (odejść),I will go away,,conjugation
@@ -1223,6 +1227,7 @@ odpływ,low tide,Nie ma odpływu,m noun
 odreagować,to shake off (once),,perf verb
 odreagowywać,to shake off (repeated),,verb
 odrobina,a bit of,,f noun
+odruch,reflex,Nie ma odruchu,m noun
 odrywać,to tear away (repeated),,verb
 odrzucenie,rejection/dismissal,,n noun
 odsetek,percentage,Nie ma odsetka,m noun
@@ -1320,7 +1325,7 @@ osiągać,to achieve (repeated),,verb
 osiągnąć,to achieve (once),"Nie osiągnęliśmy tego, co chcemy osiągnąć",perf verb
 osobisty,personal,,adjective
 osobiście,personally,,adverb
-osobno,separately/apart,,adverb
+osobno,separately/apart I,,adverb
 osobowość,personality,Ale masz wspaniała osobowość!,f noun
 ostatecznie,eventually/ultimately,,adverb
 ostrość,sharpness,,f noun
@@ -1359,6 +1364,7 @@ oświadczyny,proposal,,m plural noun
 oświadczyć się komuś,to propose to somebody (once),,perf verb
 oświetlenie,illumination/lighting,,n noun
 ożenić,to get married (to a woman) (once),,perf verb
+pachnący,fragrant,,adjective
 paczka,package/parcel,,f noun
 pajac,puppet,,m noun
 palenisko,hearth,,n noun
@@ -1434,6 +1440,7 @@ podgrzejesz (podgrzać),You will (re)heat,,conjugation
 podgrzeję (podgrzać),I will (re)heat,,conjugation
 podgrzewać,to (re)heat (repeated),,verb
 podjęcie,undertaking,Przeddzień podjęcia pracy,n noun
+podniecenie,excitement/arousal,,n noun
 podniesiesz (podnieść),You will pick up,,conjugation
 podnieś (podnieść),Pick up! (once),,imperative
 podnieść,to pick up (once),,perf verb
@@ -1667,7 +1674,7 @@ pozwolenie,permit,,n noun
 pozwolić,to allow (once),,perf verb
 pozywać kogoś do sądu,to take somebody to court (repeated),,verb
 pozór,appearance/pretence,Nie ma pozoru,m noun
-połknąc,to swallow (once),,perf verb
+połknąć,to swallow (once),,perf verb
 połowa,half/middle,,f noun
 położony,situated,,adjective
 położyć,to lay (once),,perf verb
@@ -2085,7 +2092,7 @@ rozwiązywać,to solve (repeated),,verb
 rozwiń się (rozwinąć się),Improve/develop! (once),,imperative
 rozwód,divorce,Nie ma rozwodu,m noun
 rozwój,development/progress,Nie ma rozwoju,m noun
-rozzłościć,to anger (repeated),,verb
+rozzłościć,to anger (once),,verb
 rozładować,to unload (once),,perf verb
 rozładowywać,to unload (repeated),,verb
 roślina,plant,,f noun
@@ -2108,7 +2115,7 @@ rześki,brisk/fresh,,adjective
 rzeźnik,butcher,,m noun
 rzucać,to throw (repeated),,verb
 rzucić,to throw (once),,perf verb
-rząd,government,,m noun
+rząd,government or row,,m noun
 rządzić,to govern,,verb
 rzęsa,eyelash,,f noun
 ród,family/kin/tribe,Nie ma rodu,m noun
@@ -2250,6 +2257,8 @@ spychać,to drive back (repeated),,verb
 spójnik,conjunction,,m noun
 spóźniać się,to be late (repeated),,verb
 spóźnić się,to be late (once),,perf verb
+spłacać,to pay off (repeated),,verb
+spłacić,to pay off (once),,perf verb
 spłata,repayment,On ma problemy ze spłatą,f noun
 spłukać,to rinse/flush (once),,perf verb
 spłukiwać,to rinse/flush (repeated),,verb
@@ -2303,6 +2312,7 @@ stypendium,bursary/grant,,n noun
 stąd,from here,,adverb
 sumienie,conscience,,n noun
 surowy,raw/harsh/severe,,adjective
+suszarnia,drying room,,f noun
 suszyć,to dry (repeated),,verb
 swoboda,freedom/ease,,f noun
 swobodny,unconstrained,,adjective
@@ -2675,6 +2685,7 @@ wdzięczny,grateful,,adjective
 według,according to,Według mnie (In my opinion),preposition
 wejście,entrance,,n noun
 welon,veil,Nie ma welonu,m noun
+welsalka,sofa-bed,,f noun
 wesołość,cheerfulness,,f noun
 wesprzesz (wesprzeć),You will support,,conjugation
 wesprzeć,to support (once),,perf verb
@@ -2792,6 +2803,8 @@ wspomnieć,to recollect/remember (once),,perf verb
 wspólny,common/shared,Wspólne cele (Common goals),adjective
 współczesny,contemporary/current,,adjective
 współczucie,sympathy/compassion,,n noun
+współpraca,cooperation/collaboration,,f noun
+współpracować,to cooperate/collaborate,,verb
 współżycie,co-existence,,n noun
 wstawać,to get up (repeated),,verb
 wstawiać,to put/insert/replace (repeated),,verb
@@ -2950,6 +2963,8 @@ wytrwać,to persevere,,verb
 wytrzesz (wytrzeć),You will wipe,,conjugation
 wytrzeć,to wipe (once),,perf verb
 wytrzyj (wytrzeć),Wipe! (once),,conjugation
+wytrzymać,to endure/withstand (once),,verb
+wytrzymywać,to endure/withstand (repeated),,verb
 wytrę (wytrzeć),I will wipe,,conjugation
 wytwarzanie,production,,n noun
 wytwarzać,to produce/generate (repeated),,verb
@@ -2990,6 +3005,7 @@ wzmacniać,to strengthen (repeated),,verb
 wzmocnić,to strengthen (once),,perf verb
 wznieść,to lift/raise (once),,perf verb
 wznosić,to lift/raise (repeated),,verb
+wzorcowy,model/benchmark,,adjective
 wzornictwo,design,,n noun
 wzrastać,to rise/grow/increase (repeated),,verb
 wzrok,eyesight/vision,Nie ma wzroku,m noun
@@ -3451,8 +3467,8 @@ zło,evil/wrong,,n noun
 złocisty,golden,,adjective
 złoszczę (złościć),I am angering,,conjugation
 złowić,to catch/hunt (once),,perf verb
+złościsz (złościć),You are angering,,conjugation
 złościć,to anger (repeated),,verb
-złościśz (złościć),You are angering,,conjugation
 złość,anger,,f noun
 złożony,complex/compound,,adjective
 złudzenie,illusion,,n noun
