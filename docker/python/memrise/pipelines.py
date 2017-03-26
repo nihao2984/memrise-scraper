@@ -18,7 +18,7 @@ class CSVPipeline(object):
         return pipeline
 
     def spider_opened(self, spider):
-        file = open('memrise_{}.csv'.format(spider.name), 'w+b')
+        file = open('/opt/memrise_{}.csv'.format(spider.name), 'w+b')
         self.files[spider] = file
         self.exporter = CsvItemExporter(file)
         self.exporter.fields_to_export = [

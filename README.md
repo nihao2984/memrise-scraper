@@ -13,9 +13,7 @@ MEMRISE_COURSE_NAME = 'mikes-polish-course'
 Then run:
 
 ```
-vagrant up
-vagrant ssh
-scrape a b c
+. scrape a b c
 ```
 
 Where:
