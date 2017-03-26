@@ -542,6 +542,7 @@ grzejnik,heater/radiator,,m noun
 grzmot,thunder,Nie ma grzmotu,m noun
 grób,grave/tomb I,Nie ma grobu,m noun
 gust,taste,Ma pan dobry gust (You are a man of taste),m noun
+guz,lump,,m noun
 gwałcić,to rape/violate (repeated),,verb
 gwałtownie,fiercely/rapidly/sharply/suddenly,,adverb
 góra,top/mountain,,f noun
@@ -562,6 +563,7 @@ hałasować,to make noise,,verb
 hejnał,bugle-call,Nie ma hejnału,m noun
 hipoteza,hypothesis,,f noun
 huk,boom/crash,Nie ma huku,m noun
+huta,steelworks/ironworks,,f noun
 imiesłów,participle,,m noun
 imitować,to imitate,,verb
 inaczej,otherwise/differently,,adverb
@@ -590,6 +592,7 @@ jedynaczka,only (girl) child,,f noun
 jedynak,only (boy) child,,m noun
 jedynie,only,,adverb
 jemioła,mistletoe,,f noun
+jeniec,captive,,n noun
 jesienny,autumnal,,adjective
 jezdnia,road/roadway,,f noun
 jezioro,lake,,n noun
@@ -933,6 +936,7 @@ należeć,to belong,Nie należę do nikogo,verb
 należysz (należeć),You belong,,conjugation
 należę (należeć),I belong,,conjugation
 namawiać kogoś do czegoś,to persuade somebody to (do) something (repeated),,verb
+namiętność,passion,,f noun
 namowa,suggestion/instigation,,f noun
 namydlać,to soap (repeated),,verb
 namydlić,to soap (once),,perf verb
@@ -1017,6 +1021,7 @@ niemal,almost/nearly,Jestem niemal pewny,adverb
 nienawiść,hatred,,f noun
 niepodatny,impervious/insusceptible,,adjective
 niepodległość,political/national independence,,f noun
+nieporadny,incompetent/helpless,,adjective
 niepowodzenie,fiasco/failure,,n noun
 niepowtarzalność,uniqueness,,f noun
 nieproszony,uninvited,,adjective
@@ -1170,6 +1175,7 @@ oddany,devoted,,adjective
 oddawaj (oddawać),Give back! (repeated),,imperative
 oddawać,"to give back, to return (repeated)",,verb
 oddać,"to give back, to return (once)",,perf verb
+oddział,troop/squad,Nie ma oddziału,m noun
 oddzielnie,separately/apart II,,adverb
 odebrać,to take back (once),,perf verb
 odejdziesz (odejść),You will go away,,conjugation
@@ -1364,6 +1370,7 @@ oświadczyny,proposal,,m plural noun
 oświadczyć się komuś,to propose to somebody (once),,perf verb
 oświetlenie,illumination/lighting,,n noun
 ożenić,to get married (to a woman) (once),,perf verb
+pacha,armpit,,f noun
 pachnący,fragrant,,adjective
 paczka,package/parcel,,f noun
 pajac,puppet,,m noun
@@ -1636,6 +1643,8 @@ powiększać,to extend/enlarge (repeated),,verb
 powiększyć,to extend/enlarge (once),,perf verb
 powodować,to cause I (repeated),,verb
 powodzenie,success/luck,,n noun
+powołać do wojska,to conscript (once),,verb
+powoływać do wojska,to conscript (repeated),,verb
 powrotny,return,,adjective
 powrót,return,Nie ma powrotu,m noun
 powstanie,creation,,n noun
@@ -2001,6 +2010,7 @@ reklamacja,complaint II,,f noun
 remis,(a) draw,Nie ma remisu,m noun
 rewanż,rematch (revenge),Nie ma rewanżu,m noun
 robak,bug,,m noun
+rocznica,anniversary,,f noun
 roczny,annual/yearly,,adjective
 rodzaj,type,Jaki rodzaj chleba lubisz?,n noun
 rodzeństwo,siblings,,n noun
@@ -2029,6 +2039,8 @@ rozgniewać się,to be angry (once),,perf verb
 rozkaz,order/command,Nie ma rozkazu,m noun
 rozkazujący,commanding/imperative,,adjective
 rozkosz,pleasure/delight,,f noun
+rozkwitać,to blossom/flourish (repeated),,verb
+rozkwitnąć,to blossom/flourish (once),,perf verb
 rozkład,decomposition,Nie ma rozkładu,m noun
 rozlec się,to ring out (once),,perf verb
 rozlegać się,to ring out (repeated),,verb
@@ -2287,9 +2299,11 @@ stopnieć,to thaw (once),,perf verb
 stosunek,relation/attitude,W stosunku do czegoś,m noun
 stowarzyszenie,association/society,,n noun
 strata,"loss (e.g. of life, time or money)",,f noun
+strażnica,watchtower,,f noun
 strefa,zone,,f noun
 streszczenie,summary,,n noun
 strugać,to carve (repeated),,verb
+strzał,shot,Nie ma strzału,m noun
 strzała,arrow (weapon),,f noun
 strzałka,arrow (pointer),,f noun
 strzelanina,shooting,,f noun
@@ -2450,6 +2464,7 @@ u stóp czegoś,at the foot of something,,phrase
 ubezpieczenie,insurance,,n noun
 ubiegły,last,W ubiegłym roku,adjective
 ubierać,to dress (repeated),,verb
+ubogi,"poor (as in, not rich)",,adjective
 ubrać,to dress (once),,perf verb
 ubrudzić,to dirty (once),,perf verb
 ubóść,to butt (once),,perf verb
@@ -2685,7 +2700,7 @@ wdzięczny,grateful,,adjective
 według,according to,Według mnie (In my opinion),preposition
 wejście,entrance,,n noun
 welon,veil,Nie ma welonu,m noun
-welsalka,sofa-bed,,f noun
+wersalka,sofa-bed,,f noun
 wesołość,cheerfulness,,f noun
 wesprzesz (wesprzeć),You will support,,conjugation
 wesprzeć,to support (once),,perf verb
@@ -2771,6 +2786,7 @@ wpłynąć,to influence (once),,perf verb
 wpływ,influence,Nie ma wpływu,m noun
 wpływać,to influence (repeated),,verb
 wracać,to return (repeated),,verb
+wraz z kimś/czymś,along with somebody/something,,adverb
 wrażenie,impression,Zrobiła na mnie wrażenie (She impressed me),n noun
 wrażliwość,sensitivity,,f noun
 wrażliwy,sensitive,,adjective
@@ -2873,6 +2889,7 @@ wykrywać,to detect (repeated),,verb
 wykryć,to detect (once),,perf verb
 wykształcenie,education,,n noun
 wykształcony,educated,,adjective
+wykładowca,lecturer,,m noun
 wylansować,to promote/launch (once),,perf verb
 wylać,to pour out (once),,perf verb
 wyleczyć,to treat/cure/heal (once),,perf verb
@@ -3419,6 +3436,7 @@ znikać,to disappear/vanish (repeated),,verb
 zniknąć,to disappear/vanish (once),,perf verb
 zniszczyć,to devastate/destroy (once),,perf verb
 znosić,to tolerate/endure/stand (repeated),,verb
+znęcać się nad kimś/czymś,to ill-treat somebody/something,,verb
 zostawiać,to leave behind I (repeated),,verb
 zostawić,to leave behind I (once),,perf verb
 zranić,to wound/hurt (once),,perf verb
