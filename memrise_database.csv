@@ -1073,6 +1073,7 @@ oba,"both (m, n)","Oba samochody, oba drzewa",numeral
 obaj mężczyźni,both men,,numeral
 obawa,anxiety/fear,,f noun
 obawiać się,to be afraid/concerned,"Obawiam się, że ...",verb
+obcas,heel,,m noun
 obcinać,to clip/trim (repeated),,verb
 obciąć,to clip/trim (once),,perf verb
 obciążać,to burden/load (repeated),,verb
@@ -1600,6 +1601,7 @@ poszczególny,individual/particular,,adjective
 poszukiwany,sought-after,,adjective
 posłanie,bedding,,n noun
 potknąć się,to stumble/trip (once),,perf verb
+potoczny,colloquial/informal,,adjective
 potoczyć się,to roll/trundle/wheel (once),,perf verb
 potomstwo,offspring,,n noun
 potrafić,"to know how, to be able",,verb
@@ -1772,6 +1774,8 @@ przekazywać,"to hand over, to pass on (repeated)",,verb
 przekonanie,belief/conviction,,n noun
 przekonać,to convince (once),,perf verb
 przekonywać,to convince (repeated),,verb
+przekraczać,to cross/exceed (repeated),,verb
+przekroczyć,to cross/exceed (once),,perf verb
 przekroisz (przekroić),You will cut in half,,conjugation
 przekroić,to cut in half (once),,perf verb
 przekroję (przekroić),I will cut in half,,conjugation
@@ -2159,6 +2163,7 @@ schudnąć,to loose weight (once),,perf verb
 schylać,to bend down (repeated),,verb
 schylić,to bend down (once),,perf verb
 senny,drowsy/sleepy/soporific,,adjective
+serio,seriously,,adverb
 siadać,to sit down (repeated),,verb
 siano,hay,,n noun
 siedzenie,seat,,n noun
@@ -2298,7 +2303,7 @@ stolarz,carpenter/joiner,,m noun
 stopnieć,to thaw (once),,perf verb
 stosunek,relation/attitude,W stosunku do czegoś,m noun
 stowarzyszenie,association/society,,n noun
-strata,"loss (e.g. of life, time or money)",,f noun
+strata,"loss I (e.g. of life, time or money)",,f noun
 strażnica,watchtower,,f noun
 strefa,zone,,f noun
 streszczenie,summary,,n noun
@@ -2360,6 +2365,7 @@ szmata,rag,,f noun
 sznur,cord/line/lead,,m noun
 szopa,shed,,f noun
 szpiegować,to spy,,verb
+szpilka,pin/hairpin/needle or stiletto heel,,f noun
 sztuczny,artificial,,adjective
 szufelka,dustpan,,f noun
 szuflada,drawer,,f noun
@@ -2629,6 +2635,7 @@ uszkodzony,damaged,,adjective
 usługa,service,,f noun
 utopić,to drown (once),,perf verb
 utracić,to lose (something) (once),,perf verb
+utrata,loss II,,f noun
 utrzymanie,upkeep/maintenance,,n noun
 utrzymać,"to maintain, to provide for (once)",,perf verb
 utrzymywać,"to maintain, to provide for (repeated)",,verb
