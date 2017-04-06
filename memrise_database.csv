@@ -656,6 +656,7 @@ konto,account,,n noun
 kontrahent,contractor,,m noun
 kopać,to kick (repeated),,verb
 koperta,envelope,,f noun
+kopia,copy/duplicate,,f noun
 kopnąć,to kick (once),,perf verb
 kora,bark (skin of a tree),,f noun
 korcić,to tempt,,verb
@@ -808,6 +809,8 @@ mieszczę się (mieścić się),I am fitting,,conjugation
 mieszkaniec,occupant/inhabitant,,m noun
 mieścisz się (mieścić się),You are fitting,,conjugation
 mieścić się,to fit (repeated),,verb
+migać,to blink/flicker (repeated),,verb
+mignąć,to blink/flicker (once),,perf verb
 mijać,to pass (repeated),,verb
 mikstura,potion,,f noun
 milcz (milczeć),Keep silent!,,imperative
@@ -1019,8 +1022,10 @@ niekończący się,never-ending,,adjective
 nieletni,juvenille,,m noun
 niemal,almost/nearly,Jestem niemal pewny,adverb
 nienawiść,hatred,,f noun
+niepełnosprawny,disabled,,adjective
 niepodatny,impervious/insusceptible,,adjective
 niepodległość,political/national independence,,f noun
+niepokojący,worrying/disturbing,,adjective
 nieporadny,incompetent/helpless,,adjective
 niepowodzenie,fiasco/failure,,n noun
 niepowtarzalność,uniqueness,,f noun
@@ -1044,6 +1049,7 @@ nieudolnie,clumsily,,adverb
 nieuleczalny,incurable,,adjective
 nieustannie,continuously/continually,,adverb
 niewiadomy,unknown,,adjective
+niewiarygodny,unbelievable/incredible,,adjective
 niewierność,infidelity,,f noun
 niewola,captivity,,f noun
 niewolnica,slave (female),,f noun
@@ -1237,6 +1243,10 @@ odrobina,a bit of,,f noun
 odruch,reflex,Nie ma odruchu,m noun
 odrywać,to tear away (repeated),,verb
 odrzucenie,rejection/dismissal,,n noun
+odróżniać,to distinguish (repeated),,verb
+odróżnisz (odróżnić),You will distinguish,,conjugation
+odróżnić,to distinguish (once),,perf verb
+odróżnię (odróżnić),I will distinguish,,conjugation
 odsetek,percentage,Nie ma odsetka,m noun
 odstawiać,to put aside/away (repeated),,verb
 odstawienie,withdrawal,,n noun
@@ -1278,6 +1288,8 @@ ognisko,bonfire/campfire,Ognisko domowe,n noun
 ograniczać,to restrict/limit/reduce (repeated),,verb
 ograniczenie,limitation,,n noun
 ograniczyć,to restrict/limit/reduce (once),,perf verb
+ogrzać,to warm up (once),,perf verb
+ogrzewać,to warm up (repeated),,verb
 ogólnokształcący,general education,,adjective
 ogłoszenie,notice/announcement,,n noun
 ohydny,hideous,,adjective
@@ -1487,6 +1499,7 @@ pogięty,twisted (out of shape),,adjective
 pogląd,opinion/view/outlook,Nie ma poglądu,m noun
 pognać,to rush (once),,perf verb
 pogorszyć,to worsen (once),,perf verb
+pogotowie,emergency service or ambulance,,n noun
 pogoń,chase/pursuit,,f noun
 pogrzeb,funeral,Nie ma pogrzebu,m noun
 pogłaskać,to stroke (once),,perf verb
@@ -1496,6 +1509,7 @@ pojawiać się,"to appear, to show up (repeated)",,perf verb
 pojawić się,"to appear, to show up (once)",,perf verb
 pojedynczy,singular,,adjective
 pojemnik,container,,m noun
+pojemność,capacity,,f noun
 pojmować,to comprehend (repeated),,verb
 pojąć,to comprehend (once),,perf verb
 pojęcie,concept/idea/notion,,n noun
@@ -1735,6 +1749,8 @@ przebiegnę (przebiec),I will run across,,conjugation
 przecena,price reduction,,f noun
 przechodzień,passer-by,Nie ma przechodnia,m noun
 przechodzić,to cross (repeated),,verb
+przechować,to keep/store (once),,perf verb
+przechowywać,to keep/store (repeated),,verb
 przecinać,to cut II (repeated),,verb
 przeciwieństwo,opposition/contrast,,n noun
 przeciwniczka,opponent (female),,f noun
@@ -1787,8 +1803,10 @@ przekształcić,to reshape (once),,perf verb
 przekąska,snack,,f noun
 przelać pieniądze,to transfer money (once),,perf verb
 przelewać pieniądze,to transfer money (repeated),,verb
+przemakać,to get soaked (repeated),,verb
 przemoc,violence,,f noun
 przemoknięty,soaked/drenched,,adjective
+przemoknąć,to get soaked (once),,perf verb
 przemysł,industry,,m noun
 przemówienie,speech,,n noun
 przemęczać,to strain (repeated),,verb
@@ -1796,6 +1814,7 @@ przemęczyć,to strain (once),,perf verb
 przenikać,to penetrate (repeated),,verb
 przeniknąć,to penetrate (once),,perf verb
 przepaść,precipice/chasm/gulf/abyss,,f noun
+przepis,recipe,Nie ma przepisu,m noun
 przeplatać,to intersperse/intermingle (repeated),"Idzie kwiecień i przeplata, trochę zimy, trochę lata",verb
 przepleść,to intersperse/intermingle (once),,perf verb
 przeprowadzać,to perform/conduct (repeated),,verb
@@ -2082,6 +2101,7 @@ rozsypywać,to spill/disperse (repeated),,verb
 rozsądek,sense,Nie ma rozsądku,m noun
 rozsądny,sensible/wise,,adjective
 roztapiać,to melt (repeated),,verb
+roztargnienie,absent-mindedness,,n noun
 roztopić,to melt (once),,perf verb
 roztrwonić,to squander (once),,perf verb
 roztrzepany,scatterbrained,,adjective
@@ -2359,6 +2379,7 @@ szczęściara,lucky woman,,f noun
 szczęściarz,lucky man,,m noun
 szept,whisper,,m noun
 szeroki,wide,,adjective
+szklany,glass,,adjective
 szkodzić komuś/czemuś,to harm somebody/something (repeated),,verb
 szkło,glass,,n noun
 szmata,rag,,f noun
@@ -2749,6 +2770,7 @@ wioska,hamlet/village,,f noun
 wisieć,to hang,,verb
 wisisz (wisieć),You are hanging,,conjugation
 wiszę (wisieć),I am hanging,,conjugation
+witryna,website,,f noun
 wizerunek,image,,m noun
 wizytówka,business card,,f noun
 wiązać,to tie (repeated),,verb
@@ -2930,6 +2952,7 @@ wyobrazić sobie,to imagine (once),,perf verb
 wyobraźnia,imagination,Użyj wyobraźni! (Use your imagination!),f noun
 wyobrażać sobie,to imagine (repeated),,verb
 wypadek,"accident (as in, crash)",,m noun
+wypierać,to displace/oust (repeated),,verb
 wyplujesz (wypluć),You will spit out,,conjugation
 wypluję (wypluć),I will spit out,,conjugation
 wypluwać,to spit out (repeated),,verb
@@ -2948,6 +2971,7 @@ wyprostować,to straighten (out) (once),,perf verb
 wyprowadzać się,to move out (repeated),,verb
 wyprowadzić się,to move out (once),,perf verb
 wyprzedaż,clearance sale,,m noun
+wyprzeć,to displace/oust (once),,perf verb
 wypuszczać,to release (repeated),,verb
 wypuszczę (wypuścić),I will release,,conjugation
 wypuścisz (wypuścić),You will release,,conjugation
@@ -2982,6 +3006,7 @@ wysypiać się,to sleep well (repeated),,verb
 wysyłać,to send (repeated),,verb
 wyszaleć się,"to let off steam, to have fun",,verb
 wyszczotkować,to brush (once),,perf verb
+wyszukiwarka,search engine,,f noun
 wysłać,to send (once),,perf verb
 wytrwać,to persevere,,verb
 wytrzesz (wytrzeć),You will wipe,,conjugation
@@ -3528,6 +3553,7 @@ złudzenie,illusion,,n noun
 ściągać,to pull/draw (repeated),,verb
 ściągnąć,to pull/draw (once),,perf verb
 ściśniesz (ścisnąć),You will squeeze,,conjugation
+ślad,footprint/track/trail/trace,Nie ma śladu,m noun
 śledztwo,investigation,,n noun
 śmiać się,to laugh (repeated),,verb
 śmiej się (śmiać się),Laugh! (repeated),,imperative

@@ -13,7 +13,7 @@ MEMRISE_COURSE_NAME = 'mikes-polish-course'
 Then run:
 
 ```
-. scrape a b c
+. scrape.sh a b c
 ```
 
 Where:
