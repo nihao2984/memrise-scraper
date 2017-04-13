@@ -447,6 +447,7 @@ działalność,activity,,f noun
 działanie,action,Potrzebujemy innego działania,n noun
 działać,to work/function,,verb
 działka,building plot,,f noun
+dziecinny,children's,,adjective
 dzieciństwo,childhood,,n noun
 dziedziczenie,inheritance,,n noun
 dziedziczyć,to inherit (repeated),,verb
@@ -542,6 +543,7 @@ grzejnik,heater/radiator,,m noun
 grzmot,thunder,Nie ma grzmotu,m noun
 grób,grave/tomb I,Nie ma grobu,m noun
 gust,taste,Ma pan dobry gust (You are a man of taste),m noun
+guwernantka,governess,,f noun
 guz,lump,,m noun
 gwałcić,to rape/violate (repeated),,verb
 gwałtownie,fiercely/rapidly/sharply/suddenly,,adverb
@@ -785,6 +787,7 @@ marsz,march,Nie ma marszu,m noun
 marynarka,suit jacket,,f noun
 marz (marzyć),Dream!,,imperative
 marzec,March,,m noun
+marzyciel,dreamer,,m noun
 marzysz (marzyć),You are dreaming,,conjugation
 marzyć,to dream,,verb
 marzę (marzyć),I am dreaming,,conjugation
@@ -1060,6 +1063,7 @@ niezbędny,indispensable/necessary/essential,,adjective
 niezgodność,incompatibility,,f noun
 nieznośny,unbearable,,adjective
 niezrozumiały,incomprehensible/unintelligible,,adjective
+niezręczny,clumsy/awkward,,adjective
 niezwykły,unusual,,adjective
 nieśmiały,shy,,adjective
 nieśmiertelność,immortality,,f noun
@@ -1069,6 +1073,7 @@ niższy,lower,,adjective
 nocleg,overright accommodation,Nie ma noclegu,m noun
 notoryczny,notorious,,adjective
 notować,to note (repeated),,verb
+nowatorski,innovative,,adjective
 nowinka,gossip,,f noun
 nowo,newly,,adverb
 noworodek,newborn (baby),,m noun
@@ -1124,11 +1129,13 @@ obrażony,offended,,adjective
 obrona,defense,,f noun
 obronić,to defend (once),,perf verb
 obrońca,defender,,m noun
+obrus,tablecloth,Nie ma obrusa,m noun
 obrzeże,edge,,n noun
 obrzucać,to heap/hurl (repeated),,verb
 obrzucić,to heap/hurl (once),,perf verb
 obskurny,dingy/shabby,,adjective
 obszar,area/territory,,m noun
+obszerny,spacious/loose/lengthy,,adjective
 obsługiwać,to serve or to operate (repeated),,verb
 obsłużyć,to serve or to operate (once),,perf verb
 oburzony,indignant/outraged,,adjective
@@ -1182,6 +1189,7 @@ oddany,devoted,,adjective
 oddawaj (oddawać),Give back! (repeated),,imperative
 oddawać,"to give back, to return (repeated)",,verb
 oddać,"to give back, to return (once)",,perf verb
+oddychać,to breathe (repeated),,verb
 oddział,troop/squad,Nie ma oddziału,m noun
 oddzielnie,separately/apart II,,adverb
 odebrać,to take back (once),,perf verb
@@ -1194,6 +1202,7 @@ odejść,to go away (once),,perf verb
 oderwać,to tear away (once),,perf verb
 oderwiesz (oderwać),You will tear away,,conjugation
 oderwę (oderwać),I will tear away,,conjugation
+odetchnąć,to breathe (once),,perf verb
 odgłos,sound/noise,Nie ma odgłosu,m noun
 odizolować,to isolate (once),,perf verb
 odjechać,to leave/depart (by vehicle) (once),,perf verb
@@ -1311,6 +1320,8 @@ okłamać kogoś,to deceive (or lie to) somebody (once),,perf verb
 okłamiesz kogoś (okłamać kogoś),You will deceive somebody,,conjugation
 okłamię kogoś (okłamać kogoś),I will deceive somebody,,conjugation
 okłamywać kogoś,to deceive (or lie to) somebody (repeated),,verb
+omijać,to bypass/avoid/evade (repeated),,verb
+ominąć,to bypass/avoid/evade (once),,perf verb
 opaska,bandage/armband,,f noun
 opieka,care,,f noun
 opiekować się,to look after (repeated),,verb
@@ -1405,6 +1416,7 @@ pergamin,parchment,Nie ma pergaminu,m noun
 pestka,pip,,f noun
 pewność siebie,self-confidence,,f noun
 pewny,sure,Pewny siebie (Sure of oneself),adjective
+piaskownica,sandpit,,f noun
 picie,drinking,,n noun
 pieczeń,roast,,f noun
 piekarnik,oven,,m noun
@@ -1874,12 +1886,15 @@ przychodzić,to come/arrive (on foot) (repeated),,verb
 przycisk,button (tech),Nie ma przycisku,m noun
 przyczyna,cause/reason,,f noun
 przydatny,useful,,adjective
+przygarniać,to take in (repeated),,verb
+przygarnąć,to take in (once),,perf verb
 przygnębiony,depressed/down,,adjective
 przygotowanie,preparation,,n noun
 przygotowany,prepared,,adjective
 przygotować,to prepare (once),,perf verb
 przygotowywać,to prepare (repeated),,verb
 przyimek,preposition,,m noun
+przyjazny,friendly,,adjective
 przyjdziesz (przyjść),You will come/arrive (on foot),,conjugation
 przyjdę (przyjść),I will come/arrive (on foot),,conjugation
 przyjdź (przyjść),Come! (on foot) (once),,imperative
@@ -1951,6 +1966,7 @@ przytułek,poorhouse,Nie ma przytułku,m moun
 przytwierdzać,to attach (repeated),,verb
 przytwierdzić,to attach (once),,perf verb
 przytyć,to gain weight (once),,perf verb
+przywitać,to welcome (once),,perf verb
 przywracać,to restore (repeated),,verb
 przywrócić,to restore (once),,perf verb
 przywódca,leader,,m noun
@@ -1981,6 +1997,7 @@ pustynia,desert,Jestem na pustyni (I'm in the desert),f noun
 puszcza,primeval forest,,f noun
 puszczać,to let go (repeated),,verb
 puszysty,fluffy,,adjective
+pułapka,trap,,f noun
 puścić,to let go (once),,perf verb
 pójdziesz (pójść),You will go,,conjugation
 pójdę (pójść),I will go,,conjugation
@@ -2148,6 +2165,7 @@ rzeka,river,,f noun
 rzekomo,allegedly,,adverb
 rzemiosło,craft/trade,,n noun
 rześki,brisk/fresh,,adjective
+rzeźnia,abattoir,,f noun
 rzeźnik,butcher,,m noun
 rzucać,to throw (repeated),,verb
 rzucić,to throw (once),,perf verb
@@ -2233,6 +2251,7 @@ skupić się,to concentrate (once),,perf verb
 skuteczny,effective,,adjective
 skutek,consequence/result/effect,,m noun
 skórzany,leather,,adjective
+skądże,not at all,,pronoun
 skąpy,miserly/stingy,,adjective
 skład,composition,Nie ma składu,m noun
 składnia,syntax,,f noun
@@ -2306,6 +2325,7 @@ stacyjka,ignition,,f noun
 stadion,stadium,,m noun
 stado,herd/pack/flock,,n noun
 stajnia,stable,,f noun
+stamtąd,from there,,adverb
 stan,state/condition,Jaki jest stan pacjenta? (What is the patient's condition?),m noun
 stanowczo,firmly/flatly/categorically,,adverb
 stanowisko,post/position,,n noun
@@ -2382,6 +2402,7 @@ szeroki,wide,,adjective
 szklany,glass,,adjective
 szkodzić komuś/czemuś,to harm somebody/something (repeated),,verb
 szkło,glass,,n noun
+szlak,track/trail,Nie ma szlaku,m noun
 szmata,rag,,f noun
 sznur,cord/line/lead,,m noun
 szopa,shed,,f noun
@@ -2452,6 +2473,7 @@ trafiać,to hit (repeated),,verb
 trafić,to hit (once),,perf verb
 traktować,to treat/handle (repeated),,verb
 tratwa,raft,,f noun
+trawnik,lawn,,m noun
 treść,content,,f noun
 troska,worry/care/concern,,f noun
 troszczyć się,"to care for, to take care of (repeated)",,verb
@@ -2770,6 +2792,7 @@ wioska,hamlet/village,,f noun
 wisieć,to hang,,verb
 wisisz (wisieć),You are hanging,,conjugation
 wiszę (wisieć),I am hanging,,conjugation
+witać,to welcome (repeated),,verb
 witryna,website,,f noun
 wizerunek,image,,m noun
 wizytówka,business card,,f noun
@@ -2814,11 +2837,13 @@ wpuścić,to let in (once),,perf verb
 wpłynąć,to influence (once),,perf verb
 wpływ,influence,Nie ma wpływu,m noun
 wpływać,to influence (repeated),,verb
+wrabiać,to frame (repeated),,verb
 wracać,to return (repeated),,verb
 wraz z kimś/czymś,along with somebody/something,,adverb
 wrażenie,impression,Zrobiła na mnie wrażenie (She impressed me),n noun
 wrażliwość,sensitivity,,f noun
 wrażliwy,sensitive,,adjective
+wrobić,to frame (once),,perf verb
 wrona,crow,,f noun
 wrzask,scream/squawk,Nie ma wrzasku,m noun
 wrzesień,September,,m noun
@@ -2884,6 +2909,7 @@ wycierasz (wycierać),You are wiping,,conjugation
 wycierać,to wipe (repeated),,verb
 wyciągać,to pull out or to stretch (repeated),,verb
 wyciągnąć,to pull out or to stretch (once),,perf verb
+wyczyn,achievement,Nie ma wyczynu,m noun
 wyczyścić,to clean/brush (once),,perf verb
 wydajny,efficient,,adjective
 wydarzenie,event,,n noun
