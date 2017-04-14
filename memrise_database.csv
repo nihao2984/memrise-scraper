@@ -158,6 +158,7 @@ bitwa,battle,,f noun
 biżuteria,jewellery,,f noun
 blacha,sheet metal,,f noun
 blat,counter-top or work surface,Nie ma blatu,m noun
+blednąć,to turn pale (repeated),,verb
 bliskość,closeness/nearness,,f noun
 blizna,scar,,f noun
 bliźniaczka,twin (female),,f noun
@@ -486,6 +487,7 @@ faktura,invoice,,f noun
 fala,wave,,f noun
 farba,paint/dye/ink,,f noun
 fałszywie,falsely/insincerely,,adverb
+felieton,column,Nie ma felietonu,m noun
 ferie,holiday/break,,f plural noun
 filiżanka,cup,,f noun
 filozofia,philosophy,,f noun
@@ -1071,6 +1073,7 @@ niszczyć,to devastate/destroy (repeated),,verb
 niższość,inferiority,,f noun
 niższy,lower,,adjective
 nocleg,overright accommodation,Nie ma noclegu,m noun
+nosidełko,child carrier (sling),,n noun
 notoryczny,notorious,,adjective
 notować,to note (repeated),,verb
 nowatorski,innovative,,adjective
@@ -1499,6 +1502,7 @@ podsumowanie,summing-up/summary,,n noun
 podupadać,to deteriorate (repeated),,verb
 podupaść,to deteriorate (once),,perf verb
 podwójny,double,,adjective
+podział,division,Nie ma podziału,m noun
 podzielić się,to share/divide (once),,perf verb
 podziemie,basement/underground,,n noun
 podziemny,underground,,adjective
@@ -1758,6 +1762,8 @@ przebiec,to run across (once),,perf verb
 przebiegać,to run across (repeated),,verb
 przebiegniesz (przebiec),You will run across,,conjugation
 przebiegnę (przebiec),I will run across,,conjugation
+przebywać,to go through (repeated),,verb
+przebyć,to go through (once),,perf verb
 przecena,price reduction,,f noun
 przechodzień,passer-by,Nie ma przechodnia,m noun
 przechodzić,to cross (repeated),,verb
@@ -2441,6 +2447,7 @@ tarcza,shield/clock-face/target/disc,,f noun
 tarka,grater,,f noun
 tchórz,(a) coward,,m noun
 teczka,briefcase,,f noun
+tematyka,subject matter,,f noun
 temu,ago,Dwa tygodnie temu dostałem pracę,adverb
 teoria,theory,,f noun
 teraźniejszość,the present,,f noun
@@ -2501,6 +2508,7 @@ tyle,so many/much,Nawet nie tyle (Not even that much),adverb
 tylny,rear,,adjective
 tymczasem,meanwhile,,adverb
 typowy,typical,,adjective
+tyrać,to slave,,verb
 tysiąc,one thousand,,numeral
 tyć,to gain weight (repeated),,verb
 tępy,blunt/dull,,adjective
@@ -2548,6 +2556,8 @@ udusić,to strangle (once),,perf verb
 udział,participation,Brać udział w czymś (to take part in something),m noun
 ufać,to trust (repeated),,verb
 ukarać,to punish (once),,perf verb
+ukazać,to portray/depict (once),,perf verb
+ukazywać,to portray/depict (repeated),,verb
 ukradkiem,furtively/steathily,,adverb
 ukraść,to steal (once),,perf verb
 ukroić,to cut I (once),,perf verb
@@ -3362,6 +3372,7 @@ zażądać,to demand (once),,perf verb
 zbadać,to research/investigate (once),,perf verb
 zbierać,to collect/gather/save (repeated),,verb
 zbity,battered,,adjective
+zblednąć,to turn pale (once),,perf verb
 zbliżać,to move/bring closer (repeated),,verb
 zbliżyć,to move/bring closer (once),,perf verb
 zboże,grain,Zboże rośnie na polu (Grain is growing in the field),n noun
