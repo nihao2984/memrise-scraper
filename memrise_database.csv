@@ -448,6 +448,7 @@ działalność,activity,,f noun
 działanie,action,Potrzebujemy innego działania,n noun
 działać,to work/function,,verb
 działka,building plot,,f noun
+działo,cannon,,n noun
 dziecinny,children's,,adjective
 dzieciństwo,childhood,,n noun
 dziedziczenie,inheritance,,n noun
@@ -604,6 +605,7 @@ jeździsz (jeździć),You are going (by vehicle),,conjugation
 jeździć,to go (by vehicle),,verb
 jeżdżę (jeździć),I am going (by vehicle),,conjugation
 jubiler,jeweller,,m noun
+kaleczyć się czymś,to cut oneself with something (repeated),,verb
 kaloryfer,radiator,,m noun
 kancelaria,administrative office,,f noun
 kaprys,a whim,Nie ma kaprysu,m noun
@@ -1248,6 +1250,8 @@ odpowiedzialność,responsibility,,f noun
 odpowiedzialny,responsible,,adjective
 odpowiedzieć,to answer (once),,perf verb
 odpowietrznik,air vent,,m noun
+odprężać,to relax (repeated),,verb
+odprężyć,to relax (once),,perf verb
 odpływ,low tide,Nie ma odpływu,m noun
 odreagować,to shake off (once),,perf verb
 odreagowywać,to shake off (repeated),,verb
@@ -1323,6 +1327,7 @@ okłamać kogoś,to deceive (or lie to) somebody (once),,perf verb
 okłamiesz kogoś (okłamać kogoś),You will deceive somebody,,conjugation
 okłamię kogoś (okłamać kogoś),I will deceive somebody,,conjugation
 okłamywać kogoś,to deceive (or lie to) somebody (repeated),,verb
+olbrzymi,gigantic,,adjective
 omijać,to bypass/avoid/evade (repeated),,verb
 ominąć,to bypass/avoid/evade (once),,perf verb
 opaska,bandage/armband,,f noun
@@ -1501,6 +1506,7 @@ podstawowy,basic,,adjective
 podsumowanie,summing-up/summary,,n noun
 podupadać,to deteriorate (repeated),,verb
 podupaść,to deteriorate (once),,perf verb
+podwyżka,pay rise,,f noun
 podwójny,double,,adjective
 podział,division,Nie ma podziału,m noun
 podzielić się,to share/divide (once),,perf verb
@@ -1585,6 +1591,7 @@ ponoć,seemingly/supposedly,,adverb
 popchnąć,to push (once),,perf verb
 popełniać,to commit (e.g. a crime) (repeated),,verb
 popełnić,to commit (e.g. a crime) (once),,perf verb
+popielniczka,ashtray,,f noun
 popierać,"to back up, to second (repeated)",,verb
 poplamiony,stained/soiled,,adjective
 poplamić,to stain/soil (once),,perf verb
@@ -1691,6 +1698,7 @@ powtórzyć,to repeat/revise/review (once),,perf verb
 powtórzę (powtórzyć),I will repeat,,conjugation
 powyższy,preceeding/above,Proszę znaleźć w powyższym zadaniu,adjective
 powód,reason,Nie ma powodu,m noun
+powódź,flood,,f noun
 powąchać,to smell/sniff (once),,perf verb
 poza tym,anyway/besides,,adverb
 pozaziemski,"alien (as in, extra-terrestrial)",Istota pozaziemska,adjective
@@ -2026,6 +2034,7 @@ płaski,flat,,adjective
 płać (płacić),Pay! (repeated),,imperative
 płeć,sex,Nie ma płci,f noun
 płodność,fertility,,f noun
+płomień,flame,,m noun
 płucz (płukać),Rinse! (repeated),,imperative
 płuczesz (płukać),You are rinsing,,conjugation
 płuczę (płukać),I am rinsing,,conjugation
@@ -2227,6 +2236,7 @@ siądę (siąść),I will sit,,conjugation
 siądź (siąść),Sit down! (once),,imperative
 siąść,to sit down (once),,perf verb
 skala,scale,,f noun
+skaleczyć się czymś,to cut oneself with something (once),,perf verb
 skarżyć się na kogoś/coś,to complain about somebody/something (repeated),,verb
 skazany,sentenced/convicted,,m noun
 skała,rock,,f noun
@@ -2495,6 +2505,7 @@ trwały,durable,,adjective
 trwonić,to squander (repeated),,verb
 trzysta,three hundred,,numeral
 trząść się,to shake (repeated),,verb
+trzęsienie ziemi,earthquake,,phrase
 trzęsiesz się (trząść się),You are shaking,,conjugation
 trzęsę się (trząść się),I am shaking,,conjugation
 trąbka,trumpet,,f noun
@@ -2733,6 +2744,7 @@ w ogóle,in general,,phrase
 w pobliżu,in the vicinity,,phrase
 wada,flaw,Każdy człowiek ma wady (Everyone has flaws),f noun
 wahanie,hesitation,,n noun
+walać się,to scatter about,,verb
 walka,fight/battle/struggle,,f noun
 walor,virtue II,Nie ma waloru,m noun
 waluta,currency,W jakiej walucie (loc.) płacisz? (In which currency are you paying?),f noun
