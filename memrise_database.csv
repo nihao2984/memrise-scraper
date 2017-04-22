@@ -804,6 +804,9 @@ masowo,in great numbers,,adverb
 maszynista,engine/train driver,,m noun
 matowy,matt (not shiny),,adjective
 mazak,felt-tip pen,,m noun
+mdlejesz (mdleć),You are fainting,,conjugation
+mdleję (mdleć),I am fainting,,conjugation
+mdleć,to faint (repeated),,verb
 meblować,to furnish (repeated),,verb
 meteoropatia,weather sensitivity,,f noun
 mgła,fog/mist,,f noun
@@ -1218,6 +1221,9 @@ oderwać,to tear away (once),,perf verb
 oderwiesz (oderwać),You will tear away,,conjugation
 oderwę (oderwać),I will tear away,,conjugation
 odetchnąć,to breathe (once),,perf verb
+odezwać,to speak (once),,perf verb
+odezwiesz (odezwać),You will speak,,conjugation
+odezwę (odezwać),I will speak,,conjugation
 odgłos,sound/noise,Nie ma odgłosu,m noun
 odizolować,to isolate (once),,perf verb
 odjechać,to leave/depart (by vehicle) (once),,perf verb
@@ -1301,6 +1307,7 @@ odziedziczyć,to inherit (once),,perf verb
 odzieżowy,clothes/clothing,,adjective
 odzyskać,to regain (once),,perf verb
 odzyskiwać,to regain (repeated),,verb
+odzywać,to speak (repeated),,verb
 odłamek,sliver/shard/shrapnel,Nie ma odłamka,m noun
 odłożyć,to put back (once),,perf verb
 odświeżać,to refresh (repeated),,verb
@@ -2602,8 +2609,8 @@ układ,arrangement/layout,Nie ma układu,m noun
 układać,to arrange/align (repeated),,verb
 ulec komuś/czemuś,to give into somebody or something (once),,perf verb
 ulegać komuś/czemuś,to give into somebody or something (repeated),,verb
-ulegniesz komuś/czemuś,You will give into somebody or something,,conjugation
-ulegnę komuś/czemuś,I will give into somebody or something,,conjugation
+ulegniesz komuś/czemuś (ulec),You will give into somebody or something,,conjugation
+ulegnę komuś/czemuś (ulec),I will give into somebody or something,,conjugation
 ulewny,torrential,,adjective
 uliczny,street,,adjective
 ulokować,to place (once),,perf verb
@@ -3274,6 +3281,7 @@ zamożny,wealthy,,adjective
 zamrażarka,freezer,,f noun
 zamówienia,orders,,f plural noun
 zanieczyszczenie,pollution/contamination,,n noun
+zaniepokoić,to worry (once),,perf verb
 zanim,before,,conjunction
 zanotować,to note/log (once),,perf verb
 zanurkować,to dive (once),,perf verb
@@ -3467,6 +3475,7 @@ zegniesz (zgiąć),You will bend,,conjugation
 zegnij (zgiąć),Bend! (once),,imperative
 zegnę (zgiąć),I will bend,,conjugation
 zejść,to descend (once),,perf verb
+zemdleć,to faint (once),,perf verb
 zemsta,revenge/vengeance,,f noun
 zemścić się,to avenge oneself on somebody (once),,perf verb
 zepchnąć,to drive back (once),,perf verb
