@@ -670,6 +670,7 @@ kopia,copy/duplicate,,f noun
 kopnąć,to kick (once),,perf verb
 kora,bark (skin of a tree),,f noun
 korcić,to tempt,,verb
+korumpować,to corrupt (repeated),,verb
 koryto,trough or river bed,,n noun
 korzeń,root,Pamiętaj o swoich korzeniach!,m noun
 korzystać,to benefit from (repeated),,verb
@@ -920,6 +921,7 @@ nachylać się,to bend down/lean (repeated),,verb
 nachylić się,to bend down/lean (once),,perf verb
 naciskać,to press (repeated),,verb
 nacisnąć,to press (once),,perf verb
+naczelny,chief/head/managing,,adjective
 naczynie,vessel,,n noun
 nadal,still,,adverb
 nadawać się do czegoś,to be suitable for something (repeated),,verb
@@ -1027,6 +1029,7 @@ niebywały,exceptional,,adjective
 nieco,somewhat,,adverb
 niedawny,recent,Od niedawna (Until recently),adjective
 niedbałość,negligence,,f noun
+niedopuszczalny,unacceptable,,adjective
 niedoświadczony,inexperienced,,adjective
 niegdyś,formerly,,adverb
 niekończący się,never-ending,,adjective
@@ -1048,6 +1051,7 @@ nieprzystosowany,ill-suited/ill-fitted,,adjective
 nieprzytomny,unconscious,,adjective
 nieraz,many a time,,adverb
 nieruchomy,"still, not moving",,adjective
+nierzetelny,unreliable/shoddy,,adjective
 niespełna,nearly,,adverb
 niespełniony,unfulfilled,,adjective
 niespodzianka,surprise,,f noun
@@ -1147,6 +1151,7 @@ obszar,area/territory,,m noun
 obszerny,spacious/loose/lengthy,,adjective
 obsługiwać,to serve or to operate (repeated),,verb
 obsłużyć,to serve or to operate (once),,perf verb
+oburzający,outrageous,,adjective
 oburzony,indignant/outraged,,adjective
 obuwie,footwear,,n noun
 obuwniczy,footwear,,adjective
@@ -1311,6 +1316,7 @@ ograniczenie,limitation,,n noun
 ograniczyć,to restrict/limit/reduce (once),,perf verb
 ogrzać,to warm up (once),,perf verb
 ogrzewać,to warm up (repeated),,verb
+ogólnodostępny,readily accessible or available,,adjective
 ogólnokształcący,general education,,adjective
 ogłoszenie,notice/announcement,,n noun
 ohydny,hideous,,adjective
@@ -2252,6 +2258,7 @@ skierowany,aimed/directed,,adjective
 skojarzenie,association,,n noun
 skojarzyć się,to be associated/reminded (once),,perf verb
 skoro,since/as,Skoro uczysz się języka polskiego ...,conjunction
+skorumpować,to corrupt (once),,perf verb
 skorupa,crust/shell,,f noun
 skorzystać,to benefit from (once),,perf verb
 skracać,to shorten (repeated),,verb
@@ -2351,6 +2358,7 @@ stado,herd/pack/flock,,n noun
 stajnia,stable,,f noun
 stamtąd,from there,,adverb
 stan,state/condition,Jaki jest stan pacjenta? (What is the patient's condition?),m noun
+stanieć,to become cheaper (once),,perf verb
 stanowczo,firmly/flatly/categorically,,adverb
 stanowisko,post/position,,n noun
 staranny,careful,,adjective
@@ -2462,6 +2470,9 @@ tak samo,equally/same,,phrase
 tak zwany,so-called,,phrase
 tamtejszy,local,,adjective
 tandeta,crap/tat/rubbish,,f noun
+taniejesz (tanieć),You are becoming cheaper,,conjugation
+tanieję (tanieć),I am becoming cheaper,,conjugation
+tanieć,to become cheaper (repeated),,verb
 tarcza,shield/clock-face/target/disc,,f noun
 tarka,grater,,f noun
 tchórz,(a) coward,,m noun
@@ -3402,6 +3413,7 @@ zboże,grain,Zboże rośnie na polu (Grain is growing in the field),n noun
 zbrodnia,serious crime,,f noun
 zbroja,armour,Nie ma zbroi,f noun
 zbudować,to build (once),,perf verb
+zbulwersowany,appauled,,adjective
 zburzyć,to demolish/destroy (once),,perf verb
 zbłądzić,to wander (once),,perf verb
 zdanie,opinion/sentence,,n noun
