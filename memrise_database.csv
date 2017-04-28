@@ -428,6 +428,7 @@ drożeć,to become more expensive (repeated),,verb
 druciany,wire,,adjective
 drukować,to print (repeated),,verb
 drużyna,team/squad,,f noun
+drzazga,splinter,,f noun
 drętwieć,to go numb (repeated),,verb
 drżeć,to shiver (repeated),,verb
 drżysz (drżeć),You are shivering,,conjugation
@@ -463,6 +464,7 @@ dzielisz się (dzielić się),You are sharing/dividing,,conjugation
 dzielić się,to share/divide (repeated),,verb
 dzielnica,district,,f noun
 dzielę się (dzielić się),I am sharing/dividing,,conjugation
+dzieło,work/composition,,n noun
 dzisiejszy,today's,,adjective
 dziw się (dziwić się),Be surprised! (repeated),,imperative
 dziwisz się (dziwić się),You are surprised,,conjugation
@@ -488,6 +490,7 @@ energooszczędny,energy-saving,,adjective
 etap,lap/leg/stage,Nie ma etapu,m noun
 etat,job position,Czy woli pracę na etacie czy na własny rachunek?,m noun
 ewentualnie,alternatively,,adverb
+fabuła,plot/story,,f noun
 faktura,invoice,,f noun
 fala,wave,,f noun
 farba,paint/dye/ink,,f noun
@@ -1411,6 +1414,7 @@ otrzymać,to receive/obtain (once),,perf verb
 otrzymywać,to receive/obtain (repeated),,verb
 otulać,to wrap (repeated),,verb
 otulić,to wrap (once),,perf verb
+otwór,hole,Nie ma otworu,m noun
 otępiały,spaced-out,,adjective
 owad,insect,Nie ma owada,m noun
 oznajmiać,to announce (repeated),,verb
@@ -1476,6 +1480,7 @@ pobocze,verge/shoulder,,n noun
 pobrać,to download (once),,perf verb
 pobrać się,to get married (once),,perf verb
 pobyt,stay,Nie ma pobytu,m noun
+pocisk,missile/projectile,Nie ma pocisku,m noun
 pocztówka,postcard,,f noun
 poczucie,feeling/sense,On nie ma poczucia winy,n noun
 początek,beginning,Stoje na początku (I'm standing at the start),m noun
@@ -1784,6 +1789,7 @@ prawdopodobny,probable,,adjective
 prać,to launder (repeated),,verb
 premia,bonus,"Mam dobrą pensję, czasem premię",f noun
 pretensja,complaint I,,f noun
+proch,gunpowder,Nie ma prochu,m noun
 producent,manufacturer/producer,,m noun
 projektant,designer,,m noun
 promieniotwórczość,radioactivity,,f noun
@@ -1984,6 +1990,7 @@ przysięga,oath/swearing,,f noun
 przyspieszać,to accelerate (repeated),,verb
 przyspieszyć,to accelerate (once),,perf verb
 przystanek,bus/tram stop,Nie ma przystanku,m noun
+przystawka,starter,,f noun
 przystosować,to adjust/adapt (once),,perf verb
 przystosowywać,to adjust/adapt (repeated),,verb
 przyszły,coming/future,W przyszłm tygodniu,adjective
@@ -2083,6 +2090,7 @@ ratunek,rescue/help,Nie ma ratunku,m noun
 ratusz,town/city hall,,m noun
 rań (ranić),Wound/hurt! (repeated),,imperative
 reagować,to react (repeated),,verb
+recenzja,review,,f noun
 redagować,to edit (repeated),,verb
 reguła,rule,,f noun
 rejestrować,to register (repeated),,verb
@@ -2128,6 +2136,7 @@ rozlec się,to ring out (once),,perf verb
 rozlegać się,to ring out (repeated),,verb
 rozlegniesz się (rozlec się),You will ring out,,conjugation
 rozlegnę się (rozlec się),I will ring out,,conjugation
+rozmaity,various,,adjective
 rozmazać,to smear/smudge (once),,perf verb
 rozmazywać,to smear/smudge (repeated),,verb
 rozmażesz (rozmazać),You will smear/smudge,,conjugation
@@ -2461,6 +2470,7 @@ szuflada,drawer,,f noun
 szum,hum/burble/lap,Nie ma szumu,m noun
 szyba,pane (of glass),,f noun
 szycie,sewing,,n noun
+szyfr,cipher,Nie ma szyfru,m noun
 sąd,court (of law),,m noun
 sądzić,to think/suppose (repeated),,verb
 sąsiedztwo,neighbourhood II,,n noun
@@ -2501,6 +2511,9 @@ teściowa,mother-in-law,,f noun
 teść,father-in-law,,m noun
 tkanina,fabric/cloth,,f noun
 tkanka,tissue,,f noun
+tkwisz (tkwić),You are getting stuck,,conjugation
+tkwić,to get stuck (repeated),,verb
+tkwię (tkwić),I am getting stuck,,conjugation
 tlen,oxygen,Nie ma tlenu,m noun
 toczyć się,to roll/trundle/wheel (repeated),,verb
 tom,volume (of a book),Nie ma tomu,m noun
@@ -2731,6 +2744,7 @@ usypiać,to put to sleep (repeated),,verb
 uszkodzenie,damage/injury,,n noun
 uszkodzony,damaged,,adjective
 usługa,service,,f noun
+utkwić,to get stuck (once),,perf verb
 utopić,to drown (once),,perf verb
 utracić,to lose (something) (once),,perf verb
 utrata,loss II,,f noun
@@ -3339,6 +3353,8 @@ zarząd,management/administration,,m noun
 zarządzanie,management,,n noun
 zarówno,as well as,,adverb
 zasada,rule,Zasady nie są dla nas! (The rules aren't for us!),f noun
+zasadzać,to plant (repeated),,verb
+zasadzić,to plant (once),,perf verb
 zaskakiwać,to spring into life (repeated),,verb
 zaskakujący,surprising,,adjective
 zaskoczyć,to spring into life (once),,perf verb
