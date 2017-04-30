@@ -240,6 +240,8 @@ chwilowo,momentarily/temporarily,Sklep jest chwilowo nieczynny,adverb
 chwilowy,temporary,,adjective
 chwycić,to grasp/grab (once),,perf verb
 chwytać,to grasp/grab (repeated),,verb
+chybiać,"to miss (as in, not hit) (repeated)",,verb
+chybić,"to miss (as in, not hit) (once)",,perf verb
 chór,choir,,m noun
 chętny,eager,,adjective
 chęć,desire,,f noun
@@ -491,6 +493,7 @@ etap,lap/leg/stage,Nie ma etapu,m noun
 etat,job position,Czy woli pracę na etacie czy na własny rachunek?,m noun
 ewentualnie,alternatively,,adverb
 fabuła,plot/story,,f noun
+fachowy,professional II,,adjective
 faktura,invoice,,f noun
 fala,wave,,f noun
 farba,paint/dye/ink,,f noun
@@ -528,6 +531,7 @@ gniewać się,to be angry (repeated),,verb
 gnij (giąć),Bend! (repeated),,imperative
 gnę (giąć),I am bending,,conjugation
 godność,dignity,,f noun
+godziwy,fair/honourable,,adjective
 godło,emblem,,n noun
 gonisz (gonić),You are chasing,,conjugation
 gonić,to chase,,verb
@@ -613,6 +617,7 @@ jeździsz (jeździć),You are going (by vehicle),,conjugation
 jeździć,to go (by vehicle),,verb
 jeżdżę (jeździć),I am going (by vehicle),,conjugation
 jubiler,jeweller,,m noun
+kajdanki,handcuffs,,f plural noun
 kaleczyć się czymś,to cut oneself with something (repeated),,verb
 kaloryfer,radiator,,m noun
 kancelaria,administrative office,,f noun
@@ -1230,6 +1235,8 @@ odetchnąć,to breathe (once),,perf verb
 odezwać,to speak (once),,perf verb
 odezwiesz (odezwać),You will speak,,conjugation
 odezwę (odezwać),I will speak,,conjugation
+odgadnąć,to solve II (once),,perf verb
+odgadywać,to solve II (repeated),,verb
 odgłos,sound/noise,Nie ma odgłosu,m noun
 odizolować,to isolate (once),,perf verb
 odjechać,to leave/depart (by vehicle) (once),,perf verb
@@ -1918,6 +1925,7 @@ przewijać,to fast-forward/rewind (repeated),,verb
 przewinąć,to fast-forward/rewind (once),,perf verb
 przewiązać,to tie up (once),,perf verb
 przewiązywać,to tie up (repeated),,verb
+przewód,electronic wire,Nie ma przewodu,m noun
 przeziębiony,having a cold,,adjective
 przeznaczać,to destine (repeated),,verb
 przeznaczyć,to destine (once),,perf verb
@@ -1933,6 +1941,8 @@ przychodzić,to come/arrive (on foot) (repeated),,verb
 przycisk,button (tech),Nie ma przycisku,m noun
 przyczyna,cause/reason,,f noun
 przydatny,useful,,adjective
+przydawać się,to come in useful (repeated),,verb
+przydać się,to come in useful (once),,perf verb
 przygarniać,to take in (repeated),,verb
 przygarnąć,to take in (once),,perf verb
 przygnębiony,depressed/down,,adjective
@@ -2166,6 +2176,8 @@ rozstrzelać,to execute by shooting (once),,perf verb
 rozstrzeliwać,to execute by shooting (repeated),,verb
 rozsypać,to spill/disperse (once),,perf verb
 rozsypywać,to spill/disperse (repeated),,verb
+rozszyfrować,to decode/decipher (once),,perf verb
+rozszyfrowywać,to decode/decipher (repeated),,verb
 rozsądek,sense,Nie ma rozsądku,m noun
 rozsądny,sensible/wise,,adjective
 roztapiać,to melt (repeated),,verb
@@ -2189,10 +2201,10 @@ rozwiniesz się (rozwinąć się),You will improve/develop,,conjugation
 rozwinąć się,to improve/develop (once),,perf verb
 rozwinę się (rozwinąć się),I will improve/develop,,conjugation
 rozwiązanie,solution,,n noun
-rozwiązać,to solve (once),,perf verb
+rozwiązać,to solve I (once),,perf verb
 rozwiązujesz (rozwiązywać),You are solving,,conjugation
 rozwiązuję (rozwiązywać),I am solving,,conjugation
-rozwiązywać,to solve (repeated),,verb
+rozwiązywać,to solve I (repeated),,verb
 rozwiń się (rozwinąć się),Improve/develop! (once),,imperative
 rozwód,divorce,Nie ma rozwodu,m noun
 rozwój,development/progress,Nie ma rozwoju,m noun
@@ -3049,6 +3061,7 @@ wyobrazić sobie,to imagine (once),,perf verb
 wyobraźnia,imagination,Użyj wyobraźni! (Use your imagination!),f noun
 wyobrażać sobie,to imagine (repeated),,verb
 wypadek,"accident (as in, crash)",,m noun
+wypchnąć,to push out (once),,perf verb
 wypierać,to displace/oust (repeated),,verb
 wyplujesz (wypluć),You will spit out,,conjugation
 wypluję (wypluć),I will spit out,,conjugation
@@ -3073,6 +3086,7 @@ wypuszczać,to release (repeated),,verb
 wypuszczę (wypuścić),I will release,,conjugation
 wypuścisz (wypuścić),You will release,,conjugation
 wypuścić,to release (once),,perf verb
+wypychać,to push out (repeated),,verb
 wypytać,to quiz/question (once),,perf verb
 wypytujesz (wypytywać),You are quizzing,,conjugation
 wypytuję (wypytywać),I am quizzing,,conjugation
@@ -3168,6 +3182,7 @@ wzywać,to summon (repeated),,verb
 wzór,pattern,,m noun
 wódz,leader/chief/chieftain,,m noun
 wówczas,then,,adverb
+wóz,cart/wagon,Nie ma wozu,m noun
 wóź (wozić),Transport/drive!,,imperative
 wąchać,to smell/sniff (repeated),,verb
 wąski,narrow,,adjective
@@ -3296,8 +3311,10 @@ zamienić,to exchange/swap (once),,perf verb
 zamierzać,to intend (repeated),,verb
 zamierzyć,to intend (once),,perf verb
 zamieszanie,confusion/mix-up,,n noun
+zamieszczać,to run/publish (repeated),,verb
 zamieszkanie,inhabitancy,,n noun
 zamieć,snowstorm/blizzard,,f noun
+zamieścić,to run/publish (once),,perf verb
 zamieść,to sweep (once),,perf verb
 zamilknąć,to fall silent (once),,perf verb
 zamiotę (zamieść),I will sweep,,conjugation
@@ -3414,7 +3431,7 @@ zawiodę się (zawieść się),I will be let down,,conjugation
 zawiązać,to tie (once),,perf verb
 zawiść,envy,,f noun
 zawodnik,player,,m noun
-zawodowy,professional,,adjective
+zawodowy,professional I,,adjective
 zawodzić się,to be let down (repeated),,verb
 zawozić,to give a lift to (repeated),,verb
 zawołać,to call (once),,perf verb
@@ -3655,6 +3672,7 @@ złudzenie,illusion,,n noun
 ściemniać się,to darken (repeated),,verb
 ściemnić się,to darken (once),,perf verb
 ścierka,cleaning cloth,,f noun
+ścieżka,path,,f noun
 ściskać,to squeeze (repeated),,verb
 ścisnąć,to squeeze (once),,perf verb
 ścisnę (ścisnąć),I will squeeze,,conjugation
