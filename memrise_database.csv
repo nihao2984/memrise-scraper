@@ -414,6 +414,7 @@ dotykam (dotykać),I am touching,,conjugation
 dotykasz (dotykać),You are touching,,conjugation
 dotykać,to touch (repeated),,verb
 dowcip,joke,Nie ma dowcipu,m noun
+dowcipny,witty,,adjective
 dowiadywać się,to learn about (repeated),,verb
 dowiedzieć się,to learn about (once),,perf verb
 dowolny,free/any/arbitrary,,adjective
@@ -466,6 +467,7 @@ dzielisz się (dzielić się),You are sharing/dividing,,conjugation
 dzielić się,to share/divide (repeated),,verb
 dzielnica,district,,f noun
 dzielę się (dzielić się),I am sharing/dividing,,conjugation
+dziewica,virgin,,f noun
 dzieło,work/composition,,n noun
 dzisiejszy,today's,,adjective
 dziw się (dziwić się),Be surprised! (repeated),,imperative
@@ -574,6 +576,7 @@ głuchy,deaf,,adjective
 głębokość,depth,,f noun
 handel,trade/retail,,m noun
 harcerstwo,scouting,,n noun
+harcerz,scout,,m noun
 hazard,gambling,Nie ma hazardu,m noun
 hałasować,to make noise,,verb
 hejnał,bugle-call,Nie ma hejnału,m noun
@@ -648,6 +651,7 @@ klamka,handle,,f noun
 klatka,cage,,f noun
 klawisz,piano key,,m noun
 klejnot,jewel,Nie ma klejnotu,m noun
+kloszard,tramp,,m noun
 klękać,to kneel (repeated),,verb
 klęknąć,to kneel (once),,perf verb
 klęska,disaster/defeat/catastrophe,,f noun
@@ -1146,6 +1150,8 @@ objaśniać,to clarify (repeated),,verb
 objaśnić,to clarify (once),,perf verb
 objeść się czymś,to gorge oneself with something (once),,perf verb
 obleśny,lecherous/revolting,,adjective
+obniżać,to lower (repeated),,verb
+obniżyć,to lower (once),,perf verb
 oboje,both (man and woman),Oboje pracują w szkole ((They) both work in a school),pronoun
 obojętny,indifferent/irrelevant,,adjective
 obowiązek,duty/obligation,,m noun
@@ -1194,6 +1200,7 @@ od nowa,from scratch,Zaczynać od nowa,phrase
 odbicie,reflection,,n noun
 odbierać,to take back (repeated),,verb
 odbiorca,recipient,,m noun
+odbiór,receipt,Nie ma odbioru,m noun
 odblaskowy,reflective,,adjective
 odbywa się (odbywać się),it is taking place,,conjugation
 odbywają się (odbywać się),they are taking place,,conjugation
@@ -1620,8 +1627,10 @@ pomóż (pomóc),Help! (once),,imperative
 ponadto,furthermore,,adverb
 ponawiać,to repeat/recur (repeated),,verb
 ponieważ,so/therefore,Śpię ponieważ dziś nie pracuję,conjunction
+ponieść,to incur (once),,perf verb
 poniżenie,humiliation,,n noun
 poniższy,following/below,Proszę przeczytać poniższy tekst,adjective
+ponosić,to incur (repeated),,verb
 ponowić,to repeat/recur (once),,perf verb
 ponoć,seemingly/supposedly,,adverb
 popchnąć,to push (once),,perf verb
@@ -1629,6 +1638,7 @@ popełniać,to commit (e.g. a crime) (repeated),,verb
 popełnić,to commit (e.g. a crime) (once),,perf verb
 popielniczka,ashtray,,f noun
 popierać,"to back up, to second (repeated)",,verb
+popiół,ash,Nie ma popiołu,m noun
 poplamiony,stained/soiled,,adjective
 poplamić,to stain/soil (once),,perf verb
 poprawiać,to correct (repeated),,verb
@@ -1822,6 +1832,7 @@ przeciwnik,opponent (male),,m noun
 przeciwność,adversity,,f noun
 przeciwny,opposite,W przeciwnym razie,adjective
 przeciąć,to cut II (once),,perf verb
+przeciętność,mediocrity,,f noun
 przeciętny,mediocre,,adjective
 przed(e),"before, in front, first (in order)",Przede wszystkim przestań płakać,preposition
 przeddzień,the eve of,W przeddzień lub w przededniu,m noun
@@ -1945,6 +1956,7 @@ przydawać się,to come in useful (repeated),,verb
 przydać się,to come in useful (once),,perf verb
 przygarniać,to take in (repeated),,verb
 przygarnąć,to take in (once),,perf verb
+przyglądać się,to observe (repeated),,verb
 przygnębiony,depressed/down,,adjective
 przygotowanie,preparation,,n noun
 przygotowany,prepared,,adjective
@@ -1959,6 +1971,7 @@ przyjechać,to arrive (by vehicle) (once),,perf verb
 przyjemność,pleasure,,f noun
 przyjeżdżać,to arrive (by vehicle) (repeated),,verb
 przyjmować,to accept (repeated),,verb
+przyjrzeć się,to observe (once),,perf verb
 przyjąć,to accept (once),,perf verb
 przyjęcie,party,,n noun
 przyjęty,accepted,,adjective
@@ -2435,6 +2448,7 @@ stworzyć,to create (once),,perf verb
 stwórca,creator,,m noun
 styczeń,January,,m noun
 stygnąć,to cool down (repeated),,verb
+stykać się,to adjoin (repeated),,verb
 stypendium,bursary/grant,,n noun
 stąd,from here,,adverb
 sumienie,conscience,,n noun
@@ -2610,6 +2624,7 @@ uczucie,feeling,,n noun
 uczuciowy,emotional,,adjective
 uczynić,to do/make something significant (once),,perf verb
 uczyć się,to learn (repeated),,verb
+uczęszczać,to attend,,verb
 udany,successful,,adjective
 udawać,to fake/pretend (repeated),,verb
 udawać się,to succeed (repeated),,verb
@@ -2703,6 +2718,8 @@ upodabniać,to make similar (repeated),,verb
 upodobnić,to make similar (once),,perf verb
 upokarzać,to humiliate (repeated),,verb
 upokorzyć,to humiliate (once),,perf verb
+upoważniać,to authorize (repeated),,verb
+upoważnić,to authorize (once),,perf verb
 upowszechniać,to disseminate (repeated),,verb
 upowszechnić,to disseminate (once),,perf verb
 upragniony,coveted,,adjective
@@ -3300,6 +3317,7 @@ zakładnik,hostage,,m noun
 zalać,to flood (once),,perf verb
 zaleta,virtue I,Cierpliwość to zaleta (Patience is a virtue),f noun
 zalewać,to flood (repeated),,verb
+zależność,dependence,,f noun
 zamach,assassination attempt,,m noun
 zamarzać,to freeze (repeated),,verb
 zamarznąć,to freeze (once),,perf verb
@@ -3536,6 +3554,7 @@ zestawienie,breakdown (e.g. of facts),,n noun
 zeszyt,exercise book,,m noun
 zeszły,past,W zeszłym roku,adjective
 zetknięcie,contact/encounter,,n noun
+zetknąć się,to adjoin (once),,perf verb
 zewnątrz,outside,,adverb
 zewnętrzny,external,,adjective
 zgadnąć,to guess (once),,perf verb
