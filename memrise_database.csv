@@ -729,6 +729,7 @@ królowa,queen,,f noun
 krótkoterminowy,short-term,,adjective
 krótkotrwały,short-lived/short-lasting,,adjective
 krążyć,to circle/rotate/orbit,,verb
+kręgosłup,backbone/spine,,m noun
 krępować,to embarrass II (repeated),,verb
 książę,prince II,,m noun
 księgowa,accountant/bookkeeper,,m noun
@@ -738,6 +739,7 @@ kształtować,to shape (repeated),,verb
 kuchenka,stove/hob,,f noun
 kuchenny,kitchen,,adjective
 kula,ball/sphere/bullet,,f noun
+kulawy,lame or limping,,adjective
 kulić,to hunch (repeated),,verb
 kumpel,pal/buddy,,m noun
 kupno,purchase,,n noun
@@ -838,6 +840,7 @@ miejscownik (o kim? o czym?),locative case,,m noun
 miejscowość,(a) place,,f noun
 miejski,municipal/urban,,adjective
 miesiąc,month,,m noun
+miesiączkować,to menstruate,,verb
 miesięczny,monthly,,adjective
 mieszać,to mix (repeated),Mieszamy zupę,verb
 mieszczę się (mieścić się),I am fitting,,conjugation
@@ -1061,6 +1064,7 @@ niekończący się,never-ending,,adjective
 nieletni,juvenille,,m noun
 niemal,almost/nearly,Jestem niemal pewny,adverb
 nienawiść,hatred,,f noun
+nieoczekiwany,unexpected,,adjective
 niepełnosprawny,disabled,,adjective
 niepodatny,impervious/insusceptible,,adjective
 niepodległość,political/national independence,,f noun
@@ -1312,6 +1316,7 @@ odstawienie,withdrawal,,n noun
 odstawić,to put aside/away (once),,perf verb
 odsunąć się,to back off/away (once),,perf verb
 odsuwać się,to back off/away (repeated),,verb
+odtruć,to detoxify,,verb
 odtąd,from now on,,adverb
 odwaga,courage,,f noun
 odważać się,to dare (repeated),,verb
@@ -1404,6 +1409,7 @@ oschły,stiff,,adjective
 osiedlać,to settle (repeated),,verb
 osiedle,(housing) estate,,n noun
 osiedlić,to settle (once),,perf verb
+osierocić,to orphan,,verb
 osiągać,to achieve (repeated),,verb
 osiągnąć,to achieve (once),"Nie osiągnęliśmy tego, co chcemy osiągnąć",perf verb
 osobisty,personal,,adjective
@@ -1598,6 +1604,7 @@ pokonanie,defeat,,n noun
 pokonać,to defeat/beat (once),,perf verb
 pokonywać,to defeat/beat (repeated),,verb
 pokrywka,cover,,f noun
+pokuta,penance,,f noun
 pokój,room/peace,,m noun
 pokład,deck,Nie ma pokładu,m noun
 pokłócić się,to argue (once),,perf verb
@@ -2050,7 +2057,7 @@ przytulisz (przytulić),You will hug/cuddle,,conjugation
 przytulić,to hug/cuddle (once),,perf verb
 przytulny,cosy/snug,,adjective
 przytulę (przytulić),I will hug/cuddle,,conjugation
-przytułek,poorhouse,Nie ma przytułku,m moun
+przytułek,poorhouse or shelter,Nie ma przytułku,m moun
 przytwierdzać,to attach (repeated),,verb
 przytwierdzić,to attach (once),,perf verb
 przytyć,to gain weight (once),,perf verb
@@ -2131,6 +2138,7 @@ ratusz,town/city hall,,m noun
 rań (ranić),Wound/hurt! (repeated),,imperative
 reagować,to react (repeated),,verb
 recenzja,review,,f noun
+recepta,prescription,,f noun
 redagować,to edit (repeated),,verb
 reguła,rule,,f noun
 rejestrować,to register (repeated),,verb
@@ -2293,6 +2301,7 @@ schorowany,ailing/diseased,,adjective
 schudnąć,to loose weight (once),,perf verb
 schylać,to bend down (repeated),,verb
 schylić,to bend down (once),,perf verb
+sedes,toilet seat,Nie ma sedesu,m noun
 senny,drowsy/sleepy/soporific,,adjective
 serio,seriously,,adverb
 siadać,to sit down (repeated),,verb
@@ -2322,6 +2331,7 @@ skała,rock,,f noun
 skierowany,aimed/directed,,adjective
 skojarzenie,association,,n noun
 skojarzyć się,to be associated/reminded (once),,perf verb
+skonany,knackered,,adjective
 skoro,since/as,Skoro uczysz się języka polskiego ...,conjunction
 skorumpować,to corrupt (once),,perf verb
 skorupa,crust/shell,,f noun
@@ -2403,6 +2413,7 @@ sprzed,in front/before,Zdjęcia sprzed wojny,preposition
 sprzedawać,to sell (repeated),,verb
 sprzedać,to sell (once),,perf verb
 sprzedaż,sale,,f noun
+sprzątacz,cleaner,,m noun
 sprzątać,to clean (repeated),,verb
 sprzątnąć,to clean (once),,perf verb
 sprzęt,equipment,Sprzętu sportowego,m noun
@@ -2474,6 +2485,7 @@ sumienie,conscience,,n noun
 surowy,raw/harsh/severe,,adjective
 suszarnia,drying room,,f noun
 suszyć,to dry (repeated),,verb
+suterena,basement,,f noun
 swoboda,freedom/ease,,f noun
 swobodny,unconstrained,,adjective
 swąd,stench,Nie ma swędu,m noun
@@ -2511,6 +2523,7 @@ szlak,track/trail,Nie ma szlaku,m noun
 szmata,rag,,f noun
 sznur,cord/line/lead,,m noun
 szopa,shed,,f noun
+szorować,to scrub (repeated),,verb
 szpiegować,to spy,,verb
 szpilka,pin/hairpin/needle or stiletto heel,,f noun
 sztuczny,artificial,,adjective
@@ -2614,6 +2627,7 @@ tyję (tyć),I am gaining weight,,conjugation
 tyle,so many/much,Nawet nie tyle (Not even that much),adverb
 tylny,rear,,adjective
 tymczasem,meanwhile,,adverb
+tymczasowo,temporarily,,adverb
 typowy,typical,,adjective
 tyrać,to slave,,verb
 tysiąc,one thousand,,numeral
@@ -2626,6 +2640,7 @@ tłumaczyć,to explain/translate/interpret (repeated),,verb
 tłusty,fat,,adjective
 u stóp czegoś,at the foot of something,,phrase
 ubezpieczenie,insurance,,n noun
+ubezpieczony,insured,,adjective
 ubiegły,last,W ubiegłym roku,adjective
 ubierać,to dress (repeated),,verb
 ubogi,"poor (as in, not rich)",,adjective
@@ -2764,6 +2779,7 @@ uprzejmy,polite,,adjective
 upuszczać,to drop (repeated),,verb
 upuścić,to drop (once),,perf verb
 upłynąć,to go by (once),,perf verb
+upływ,passage,Nie ma upływu,m noun
 upływać,to go by (repeated),,verb
 uratować,to rescue/save I (once),,perf verb
 urlop,leave/holiday,,m noun
@@ -2812,6 +2828,8 @@ utworzyć,to establish/form (once),,perf verb
 utwór,piece of work,Nie ma utworu,m noun
 uwaga,attention,,f noun
 uwalniać,to rid/free/liberate (repeated),,verb
+uwieczniać,to immortalize (repeated),,verb
+uwiecznić,to immortalize (once),,perf verb
 uwolnić,to rid/free/liberate (once),,perf verb
 uwzględniać,to take into consideration (repeated),,verb
 uwzględnić,to take into consideration (once),,perf verb
@@ -2832,6 +2850,8 @@ uzupełniać,to fill out (repeated),,verb
 uzupełnić,to fill out (once),,verb
 ułamek,fraction,Nie ma ułamka,m noun
 ułożyć,to arrange/align (once),,perf verb
+uśmierzać,to relieve/soothe (repeated),,verb
+uśmierzyć,to relieve/soothe (once),,perf verb
 uśpisz (uśpić),You will put to sleep,,conjugation
 uśpić,to put to sleep (once),,perf verb
 uśpię (uśpić),I will put to sleep,,conjugation
@@ -2968,6 +2988,7 @@ wpływ,influence,Nie ma wpływu,m noun
 wpływać,to influence (repeated),,verb
 wrabiać,to frame (repeated),,verb
 wracać,to return (repeated),,verb
+wrak,wreck,Nie ma wraku,m noun
 wraz z kimś/czymś,along with somebody/something,,adverb
 wrażenie,impression,Zrobiła na mnie wrażenie (She impressed me),n noun
 wrażliwość,sensitivity,,f noun
@@ -3075,6 +3096,7 @@ wykryć,to detect (once),,perf verb
 wykształcenie,education,,n noun
 wykształcony,educated,,adjective
 wykładowca,lecturer,,m noun
+wykładzina,floor-covering,,f noun
 wylansować,to promote/launch (once),,perf verb
 wylać,to pour out (once),,perf verb
 wyleczyć,to treat/cure/heal (once),,perf verb
@@ -3165,6 +3187,7 @@ wysypiać się,to sleep well (repeated),,verb
 wysyłać,to send (repeated),,verb
 wyszaleć się,"to let off steam, to have fun",,verb
 wyszczotkować,to brush (once),,perf verb
+wyszorować,to scrub (once),,perf verb
 wyszukiwarka,search engine,,f noun
 wysłać,to send (once),,perf verb
 wytrwać,to persevere,,verb
@@ -3266,6 +3289,7 @@ zabawa,fun,,f noun
 zabezpieczać,to protect/guard (repeated),,verb
 zabezpieczyć,to protect/guard (once),,perf verb
 zabieg,operation/procedure,Nie ma zabiegu,m noun
+zabiegać o coś,to strive for something,,verb
 zabierać,to take away (repeated),,verb
 zabijać,to kill (repeated),,verb
 zabić,to kill (once),,perf verb
@@ -3366,6 +3390,8 @@ zamierzyć,to intend (once),,perf verb
 zamieszanie,confusion/mix-up,,n noun
 zamieszczać,to run/publish (repeated),,verb
 zamieszkanie,inhabitancy,,n noun
+zamieszkać,to inhabit (once),,perf verb
+zamieszkiwać,to inhabit (repeated),,verb
 zamieć,snowstorm/blizzard,,f noun
 zamieścić,to run/publish (once),,perf verb
 zamieść,to sweep (once),,perf verb
@@ -3373,6 +3399,7 @@ zamilknąć,to fall silent (once),,perf verb
 zamiotę (zamieść),I will sweep,,conjugation
 zamożny,wealthy,,adjective
 zamrażarka,freezer,,f noun
+zamroczony,intoxicated,,adjective
 zamówienia,orders,,f plural noun
 zanieczyszczenie,pollution/contamination,,n noun
 zaniepokoić,to worry (once),,perf verb
@@ -3706,6 +3733,7 @@ złościć,to anger (repeated),,verb
 złość,anger,,f noun
 złożony,complex/compound,,adjective
 złudzenie,illusion,,n noun
+ćpun,junky,,m noun
 ćwiczyć,to exercise (repeated),,verb
 łabędź,swan,,m noun
 ładować,to load (repeated),,verb
