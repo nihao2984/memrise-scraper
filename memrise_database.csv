@@ -860,6 +860,7 @@ milion,one million,,numeral
 milknąć,to fall silent (repeated),,verb
 mimiczny,facial,,adjective
 mimo to,nevertheless,,phrase
+mimowolnie,involuntarily,,adverb
 minąć,to pass (once),,perf verb
 miotła,broom,,f noun
 miska,bowl,,f noun
@@ -899,7 +900,9 @@ możecie,You (plural) can,,conjugation
 możemy,We can,,conjugation
 możesz,You can,,conjugation
 możliwość,possibility,,f noun
+mroczny,dim/murky/dark,,adjective
 mroźny,frozen,,adjective
+mrożonka,frozen food,,f noun
 mróz,frost,Nie ma mrozu,m noun
 mur,wall,Upadek muru Berlińskiego,m noun
 musi,He/she/it must,,conjugation
@@ -970,6 +973,8 @@ nagroda,prize,,f noun
 nagrodzony,award-winning,,adjective
 nakazać,to command/order II (once),,perf verb
 nakazywać,to command/order II (repeated),,verb
+nakleić,to stick (on) (once),,perf verb
+naklejać,to stick (on) (repeated),,verb
 nakrapiany,speckled,,adjective
 nakładać,to apply (repeated),,verb
 nalać,to pour into (once),,perf verb
@@ -1364,6 +1369,8 @@ ojczysty,native,,adjective
 ojczyzna,homeland/motherland,,f noun
 okazać,to display (once),,perf verb
 okazywać,to display (repeated),,verb
+okleić,to stick (over) (once),,perf verb
+oklejać,to stick (over) (repeated),,verb
 okolica,neighbourhood I,"W tej okolicy, nie ma ławek!",f noun
 okolicznościowy,occasional,,adjective
 określenie,term/designation,,n noun
@@ -1495,6 +1502,7 @@ pistolet,pistol,Nie ma pistoletu,m noun
 pięć milionów,five million,,numeral
 pięć tysięcy,five thousand,,numeral
 piłkarz,football player,,m noun
+plakat,poster,Nie ma plakatu,m noun
 plama,spot/stain,,f noun
 plamić,to stain/soil (repeated),,verb
 plecy,back,,f pl noun
@@ -1973,6 +1981,8 @@ przybrać na czymś,to gain in something (once),,perf verb
 przybysz,newcomer,,m noun
 przychodzić,to come/arrive (on foot) (repeated),,verb
 przycisk,button (tech),Nie ma przycisku,m noun
+przyciszyać,"to turn down, to soften (repeated)",,verb
+przyciszyć,"to turn down, to soften (once)",,perf verb
 przyczyna,cause/reason,,f noun
 przydatny,useful,,adjective
 przydawać się,to come in useful (repeated),,verb
@@ -2023,6 +2033,7 @@ przypniesz się (przypiąć się),You will strap yourself,,conjugation
 przypnę się (przypiąć się),I will strap myself,,conjugation
 przypominać sobie,to recall/remember (repeated),,verb
 przypomnieć sobie,to recall/remember (once),,perf verb
+przyprawa,spice/seasoning,,f noun
 przyprowadzać,to bring (repeated),,verb
 przyprowadzić,to bring (once),,perf verb
 przypuszczać,to suppose/assume,,verb
@@ -2145,6 +2156,7 @@ rejestrować,to register (repeated),,verb
 rejon,region,Nie ma rejonu,m noun
 rekin,shark,,m noun
 reklamacja,complaint II,,f noun
+reklamować,to advertise (repeated),,verb
 remis,(a) draw,Nie ma remisu,m noun
 rewanż,rematch (revenge),Nie ma rewanżu,m noun
 robak,bug,,m noun
@@ -2548,6 +2560,7 @@ słuszny,correct/rightful/justified,,adjective
 służbowo,on business,,adverb
 służący,servant,,m noun
 słynny,famous/well-known,,adjective
+słynąć,to be famous,,verb
 słój,jar,,m noun
 tablica,blackboard/noticeboard,,f noun
 tajemnica,(a) secret,,f noun
@@ -3138,6 +3151,7 @@ wypluwać,to spit out (repeated),,verb
 wypluć,to spit out (once),,perf verb
 wypoczynek,leisure/rest,Nie ma wypoczynku,m noun
 wypoczęty,rested,,adjective
+wyposażony,equipped,,adjective
 wypowiadać,"to express verbally, to give voice to (repeated)",,verb
 wypowiedzieć,"to express verbally, to give voice to (once)",,perf verb
 wypowiedź,statement,,f noun
@@ -3429,6 +3443,8 @@ zapomnieć,to forget (once),,perf verb
 zapragnąć,to desire (once),,perf verb
 zaproponować,to propose (once),,perf verb
 zaproszenie,invitation,,n noun
+zaprzeczać,to contradict somebody/something (repeated),,verb
+zaprzeczyć,to contradict somebody/something (once),,perf verb
 zaprzeć się,to brace (once),,perf verb
 zaprzyjaźnić się,to make friends with,,verb
 zapłacić,to pay (for) (once),,perf verb
@@ -3439,6 +3455,7 @@ zaraźliwy,contagious/infectious,,adjective
 zarażać,to infect (repeated),,verb
 zareagować,to react (once),,perf verb
 zarejestrować,to register (once),,perf verb
+zareklamować,to advertise (once),,perf verb
 zarobić,to earn (money) (once),,perf verb
 zarobki,earnings/wages,,f plural noun
 zarozumiały,big-headed,,adjective
@@ -3449,6 +3466,8 @@ zarysowywać,to scratch (repeated),,verb
 zarząd,management/administration,,m noun
 zarządzanie,management,,n noun
 zarówno,as well as,,adverb
+zaręczynowy,engagement/betrothal,,adjective
+zaręczyny,engagement/betrothal,,f plural noun
 zasada,rule,Zasady nie są dla nas! (The rules aren't for us!),f noun
 zasadzać,to plant (repeated),,verb
 zasadzić,to plant (once),,perf verb
@@ -3641,6 +3660,7 @@ zimowy,wintery,,adjective
 ziomek,compatriot,Nie ma ziomka,m noun
 zioło,herb,,n noun
 zjawisko,phenomenon,,n noun
+zjednoczony,united,,adjective
 zlecać,to commission (repeated),,verb
 zlecenie,commission,,n noun
 zlecić,to commission (once),,perf verb
