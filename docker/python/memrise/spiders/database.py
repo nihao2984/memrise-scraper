@@ -8,7 +8,8 @@ class MemriseDatabaseSpider(scrapy.Spider):
 
     def start_requests(self):
         return [scrapy.Request(
-            url='http://www.memrise.com/course/{}/{}/edit/database/{}/?page={}'.format(
+            url='{}/course/{}/{}/edit/database/{}/?page={}'.format(
+                self.settings.get('MEMRISE_BASE_URL'),
                 self.settings.get('MEMRISE_COURSE_ID'),
                 self.settings.get('MEMRISE_COURSE_NAME'),
                 self.settings.get('MEMRISE_DATABASE_ID'),
@@ -21,7 +22,9 @@ class MemriseDatabaseSpider(scrapy.Spider):
         ) for page in range(1, self.settings.getint('MEMRISE_PAGE_COUNT') + 1)]
 
     def process_page(self, response):
-        f = lambda t, i: t.css('td:nth-child({}) div.text::text'.format(i)).extract()
+        def f(t, i):
+            return t.css('td:nth-child({}) div.text::text'.format(i)).extract()
+
         for thing in response.css('tr.thing'):
             item = DatabaseItem()
             item['polish'] = f(thing, 2)

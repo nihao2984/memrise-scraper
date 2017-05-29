@@ -8,7 +8,8 @@ class MemriseLevelsSpider(scrapy.Spider):
 
     def start_requests(self):
         return [scrapy.Request(
-            url='http://www.memrise.com/course/{}/{}/{}/'.format(
+            url='{}/course/{}/{}/{}/'.format(
+                self.settings.get('MEMRISE_BASE_URL'),
                 self.settings.get('MEMRISE_COURSE_ID'),
                 self.settings.get('MEMRISE_COURSE_NAME'),
                 level
@@ -20,7 +21,9 @@ class MemriseLevelsSpider(scrapy.Spider):
         )]
 
     def process_level(self, response):
-        f = lambda t, c: t.css('div.col_{} div.text::text'.format(c)).extract()
+        def f(t, c):
+            return t.css('div.col_{} div.text::text'.format(c)).extract()
+
         for thing in response.css('div.thing.text-text'):
             item = LevelItem()
             item['polish'] = f(thing, 'a')
