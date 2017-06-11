@@ -366,6 +366,7 @@ domniemany,alleged/supposed,,adjective
 domyślać się,to guess/suspect (repeated),,verb
 domyślić się,to guess/suspect (once),,perf verb
 doniczka,flowerpot,,f noun
+donikąd,to nowhere,,adverb
 dopasować,to fit/match (once),,perf verb
 dopasowywać,to fit/match (repeated),,verb
 dopełniacz (kogo? czego?),genitive case,,m noun
@@ -497,6 +498,7 @@ eksponat,exhibit,Nie ma eksponatu,m noun
 elektrowstrząs,electroshock,Nie ma elektrowstrząsu,m noun
 emerytura,pension,Odchodzić na emeryturę (To retire),f noun
 energooszczędny,energy-saving,,adjective
+estetyka,aesthetics,,f noun
 etap,lap/leg/stage,Nie ma etapu,m noun
 etat,job position,Czy woli pracę na etacie czy na własny rachunek?,m noun
 ewentualnie,alternatively,,adverb
@@ -1107,7 +1109,9 @@ nietknięty,untouched/unharmed/intact,,adjective
 nieuczciwy,dishonest,,adjective
 nieudolnie,clumsily,,adverb
 nieuleczalny,incurable,,adjective
+nieunikniony,unavoidable,,adjective
 nieustannie,continuously/continually,,adverb
+nieuzasadniony,unfounded,,adjective
 niewiadomy,unknown,,adjective
 niewiarygodny,unbelievable/incredible,,adjective
 niewierność,infidelity,,f noun
@@ -1350,6 +1354,7 @@ odwiozę (odwieźć),I will give a lift back,,conjugation
 odwozić,to give a lift back (repeated),,verb
 odwołać,to cancel/withdraw (once),,perf verb
 odwoływać,to cancel/withdraw (repeated),,verb
+odwrotny,opposite II,,adjective
 odwzajemniać,to reciprocate (repeated),,verb
 odwzajemnić,to reciprocate (once),,perf verb
 odziedziczyć,to inherit (once),,perf verb
@@ -1501,6 +1506,9 @@ piaskownica,sandpit,,f noun
 picie,drinking,,n noun
 pieczeń,roast,,f noun
 piekarnik,oven,,m noun
+pielęgniarka,nurse (female),,f noun
+pielęgniarz,nurse (male),,m noun
+pielęgnować,to nurse or cultivate,,verb
 pieniądze,money,Nie ma pieniędzy,m plural noun
 pieniężny,monetary,,adjective
 pierwotny,primitive,,adjective
@@ -1872,7 +1880,7 @@ przeciwieństwo,opposition/contrast,,n noun
 przeciwniczka,opponent (female),,f noun
 przeciwnik,opponent (male),,m noun
 przeciwność,adversity,,f noun
-przeciwny,opposite,W przeciwnym razie,adjective
+przeciwny,opposite I,W przeciwnym razie,adjective
 przeciąć,to cut II (once),,perf verb
 przeciętność,mediocrity,,f noun
 przeciętny,mediocre,,adjective
@@ -1985,6 +1993,7 @@ przeznaczyć,to destine (once),,perf verb
 przezroczysty,transparent,,adjective
 przełom,breakthrough,Nie ma przełomu,m noun
 przełożony,boss/supervisor/superior,,m noun
+prześladować,to oppress/persecute,,verb
 przeżywać,to live through or experience (repeated),,verb
 przeżyć,to live through or experience (once),,perf verb
 przodek,ancestor,Nie ma przodka,m noun
@@ -1996,7 +2005,9 @@ przychodzić,to come/arrive (on foot) (repeated),,verb
 przycisk,button (tech),Nie ma przycisku,m noun
 przyciszać,"to turn down, to soften (repeated)",,verb
 przyciszyć,"to turn down, to soften (once)",,perf verb
+przyczniać się do czegoś,to contribute to something (repeated),,verb
 przyczyna,cause/reason,,f noun
+przyczynić się do czegoś,to contribute to something (once),,perf verb
 przydatny,useful,,adjective
 przydawać się,to come in useful (repeated),,verb
 przydać się,to come in useful (once),,perf verb
@@ -2088,6 +2099,8 @@ przytyć,to gain weight (once),,perf verb
 przywitać,to welcome (once),,perf verb
 przywracać,to restore (repeated),,verb
 przywrócić,to restore (once),,perf verb
+przywykać do kogoś/czegoś,to get used to somebody/something (repeated),,verb
+przywyknąć do kogoś/czegoś,to get used to somebody/something (once),,perf verb
 przywódca,leader,,m noun
 przyznawać się,"to confess to, to own up to (repeated)",,verb
 przyznać się,"to confess to, to own up to (once)",,perf verb
@@ -2111,6 +2124,7 @@ psychiczny,psychic,,adjective
 psychika,psyche,,f noun
 publicysta,columnist,,m noun
 pudełko,box,,n noun
+pustelnik,hermit,,m noun
 pustka,emptiness,,f noun
 pustynia,desert,Jestem na pustyni (I'm in the desert),f noun
 puszcza,primeval forest,,f noun
@@ -2422,6 +2436,7 @@ sporo,a good/great deal,,adverb
 sposób,way/method/approach,,m noun
 spowiedź,confession,,f noun
 spowodować,to cause I (once),,perf verb
+spoza,from outside/behind,,preposition
 społeczeństwo,society,,n noun
 społeczny,social/societal,,adjective
 spośród,from among,,preposition
@@ -2840,6 +2855,8 @@ uspokoisz się (uspokoić się),You will calm down,,conjugation
 uspokoić się,to calm (oneself) down (once),,perf verb
 uspokoję się (uspokoić się),I will calm down,,conjugation
 usprawiedliwienie,explanation/justification/excuse,,n noun
+ustalać,to fix/establish (repeated),,verb
+ustalić,to fix/establish (once),,perf verb
 ustalony,fixed/established,,adjective
 ustawa,law or bill,,f noun
 usunięty,ousted/expelled,,adjective
@@ -2847,6 +2864,8 @@ usunąć,to remove (once),,perf verb
 usuwać,to remove (repeated),,verb
 usychać,to wither (repeated),,verb
 usypiać,to put to sleep (repeated),,verb
+uszczęśliwiać kogoś,to make somebody happy (repeated),,verb
+uszczęśliwić kogoś,to make somebody happy (once),,perf verb
 uszkodzenie,damage/injury,,n noun
 uszkodzony,damaged,,adjective
 usługa,service,,f noun
@@ -2978,6 +2997,7 @@ witać,to welcome (repeated),,verb
 witryna,website,,f noun
 wizerunek,image,,m noun
 wizytówka,business card,,f noun
+wiór,chip/shaving,,m noun
 wiązać,to tie (repeated),,verb
 wiążesz (wiązać),You are tying,,conjugation
 wiążę (wiązać),I am tying,,conjugation
@@ -3160,8 +3180,11 @@ wynająć,to hire (once),,perf verb
 wynalazek,invention,Nie ma wynalazku,m noun
 wynegocjować,to negotiate (once),,perf verb
 wynik,result,,m noun
+wynikać,to result (repeated),,verb
+wyniknąć,to result (once),,perf verb
 wynurzać się,to emerge (repeated),,verb
 wynurzyć się,to emerge (once),,perf verb
+wyobcowanie,alienation,,n noun
 wyobrazić sobie,to imagine (once),,perf verb
 wyobraźnia,imagination,Użyj wyobraźni! (Use your imagination!),f noun
 wyobrażać sobie,to imagine (repeated),,verb
@@ -3375,6 +3398,7 @@ zadrapanie,scratch,,n noun
 zadrżeć,to shiver (once),,verb
 zadziwiający,astonishing,,adjective
 zagadka,puzzle/riddle,,f noun
+zagorzały,ardent/staunt/fierce,,adjective
 zagrozić,to threaten (once),,perf verb
 zagrożenie,threat/menace,,n noun
 zagubiony,lost,,adjective
@@ -3412,6 +3436,7 @@ zaktualizować,to update (once),,perf verb
 zakład,bet,Nie ma zakładu,m noun
 zakładać,"to found/establish/install, to put on clothes (repeated)",,verb
 zakładnik,hostage,,m noun
+zakłamany,hypocritical,,adjective
 zalać,to flood (once),,perf verb
 zaleta,virtue I,Cierpliwość to zaleta (Patience is a virtue),f noun
 zalewać,to flood (repeated),,verb
@@ -3610,7 +3635,9 @@ zdejmuj (zdejmować),Take off! (repeated),,imperative
 zdejmujesz (zdejmować),You are taking off,,conjugation
 zdejmuję (zdejmować),I am taking off,,conjugation
 zdejmę (zdjąć),I will take off,,conjugation
+zderzać się,to crash/collide (repeated),,verb
 zderzenie,crash/collision,,n noun
+zderzyć się,to crash/collide (once),,perf verb
 zdjąć,to take off (once),,perf verb
 zdmuchiwać,to blow out (repeated),,verb
 zdmuchniesz (zdmuchnąć),You will blow out,,conjugation
@@ -3724,6 +3751,7 @@ znamienity,noble,,adjective
 zniechęcać,to discourage (repeated),,verb
 zniechęcić,to discourage (once),,perf verb
 zniechęcony,dispirited,,adjective
+znienacka,suddenly,,adverb
 znieść,to tolerate/endure/stand (once),,perf verb
 znikać,to disappear/vanish (repeated),,verb
 zniknąć,to disappear/vanish (once),,perf verb
@@ -3863,4 +3891,5 @@ złudzenie,illusion,,n noun
 życzliwy,kind/friendly,,adjective
 żyjący,living I,,adjective
 żywy,living II,,adjective
+żyła,vein,,f noun
 żądać,to demand I (repeated),,verb
