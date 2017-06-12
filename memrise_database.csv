@@ -135,6 +135,7 @@ barwny,colourful,,adjective
 bawełna,cotton,,f noun
 bać się,"to be scared, to fear",,verb
 beczka,barrel,,f noun
+beton,concrete,Nie ma betonu,m noun
 bezawaryjny,failure-free (without breakdown),,adjective
 bezczelność,insolence,,f noun
 bezdomny,homeless,,adjective
@@ -207,6 +208,7 @@ burzysz (burzyć),You are demolishing/destroying,,conjugation
 burzyć,to demolish/destroy (repeated),,verb
 burzę (burzyć),I am demolishing/destroying,,conjugation
 bydło,cattle,,n noun
+byt,survival,Nie ma bytu,m noun
 bywać,to be (frequentative),Bywa trochę irytuący (He can be a bit irritating),verb
 były,ex/former,,adjective
 bzdura,nonsense/rubbish,,f noun
@@ -235,11 +237,13 @@ charytatywny,charitable,,adjective
 chirurg,surgeon,,m noun
 chmiel,hop,Nie me chmielu,m noun
 chociaż,(even) though,"Nie jestem wesoły, chociaż piję wino",conjunction
+chodnik,pavement,,m noun
 chodzenie,walking,,n noun
 choroba,disease,,f noun
 choć,(even) though,"Jestem smutny, choć mam wino",conjunction
 chropowaty,rough/harsh,,adjective
 chudnąć,to loose weight (repeated),,verb
+chwast,weed,Nie ma chwastu,m noun
 chwilowo,momentarily/temporarily,Sklep jest chwilowo nieczynny,adverb
 chwilowy,temporary,,adjective
 chwycić,to grasp/grab (once),,perf verb
@@ -561,6 +565,7 @@ granica,border I,,f noun
 gromadzić,to amass/gather (repeated),,verb
 grozisz (grozić),You are threatening,,conjugation
 grozić,to threaten (repeated),,verb
+groźny,threatening/dangerous,,adjective
 grożę (grozić),I am threatening,,conjugation
 grudzień,December,,m noun
 grzech,sin,Nie ma grzechu,m noun
@@ -583,6 +588,7 @@ głaz,boulder,Nie ma głazu,m noun
 głośnik,(loud)speaker,,m noun
 głuchy,deaf,,adjective
 głębokość,depth,,f noun
+hak,hook,,m noun
 handel,trade/retail,,m noun
 harcerstwo,scouting,,n noun
 harcerz,scout,,m noun
@@ -718,6 +724,7 @@ kropla,drop,,f noun
 kruk,raven,,m noun
 krwawy,bloody,,adjective
 krytykować,to criticise (repeated),,verb
+krzak,bush/shrub,Nie ma krzaku,m noun
 krztusić się,to choke (repeated),,verb
 krzyczeć,to shout (repeated),,verb
 krzyczysz (krzyczeć),You are shouting,,conjugation
@@ -849,6 +856,7 @@ miecz,sword,,m noun
 miejscownik (o kim? o czym?),locative case,,m noun
 miejscowość,(a) place,,f noun
 miejski,municipal/urban,,adjective
+mielić,to grind (repeated),,verb
 miesiąc,month,,m noun
 miesiączkować,to menstruate,,verb
 miesięczny,monthly,,adjective
@@ -1488,6 +1496,7 @@ palenisko,hearth,,n noun
 pamięć,memory,,f noun
 panować,to reign/control (repeated),Panować nad sobą (To control oneself),verb
 pantofel,slipper,Nie ma pantofla,m noun
+parter,ground floor,Nie ma partru,m noun
 pas,belt,Przypiąć się pasami,m noun
 pasażer,passenger,,m noun
 pasujący,matching,,adjective
@@ -1593,6 +1602,8 @@ podupadać,to deteriorate (repeated),,verb
 podupaść,to deteriorate (once),,perf verb
 podwyżka,pay rise,,f noun
 podwójny,double,,adjective
+podwórko,little backyard,,n noun
+podwórze,backyard,,n noun
 podział,division,Nie ma podziału,m noun
 podzielić się,to share/divide (once),,perf verb
 podziemie,basement/underground,,n noun
@@ -1899,11 +1910,13 @@ przedyskutować,to discuss (once),,perf verb
 przedział,train compartment,Nie ma przedziału,m noun
 przegapiać,to miss (repeated),,verb
 przegapić,to miss (once),,perf verb
+przegląd,review or round-up,Nie ma przeglądu,m noun
 przeglądać,to skim over (repeated),,verb
 przegrać,to lose (once),,perf verb
 przegrywać,to lose (repeated),,verb
 przejażdżka,a drive/ride II (e.g. car/bike),,f noun
 przejmować,to take over (repeated),,verb
+przejmujący,piercing/biting,,adjective
 przejrzeć,to skim over (once),,perf verb
 przejąć,to take over (once),,perf verb
 przejście,crossing/passage,Przejście dla pieszych,n noun
@@ -2005,8 +2018,8 @@ przychodzić,to come/arrive (on foot) (repeated),,verb
 przycisk,button (tech),Nie ma przycisku,m noun
 przyciszać,"to turn down, to soften (repeated)",,verb
 przyciszyć,"to turn down, to soften (once)",,perf verb
-przyczniać się do czegoś,to contribute to something (repeated),,verb
 przyczyna,cause/reason,,f noun
+przyczyniać się do czegoś,to contribute to something (repeated),,verb
 przyczynić się do czegoś,to contribute to something (once),,perf verb
 przydatny,useful,,adjective
 przydawać się,to come in useful (repeated),,verb
@@ -2154,6 +2167,7 @@ płać (płacić),Pay! (repeated),,imperative
 płeć,sex,Nie ma płci,f noun
 płodność,fertility,,f noun
 płomień,flame,,m noun
+płot,fence,Nie ma płotu,m noun
 płucz (płukać),Rinse! (repeated),,imperative
 płuczesz (płukać),You are rinsing,,conjugation
 płuczę (płukać),I am rinsing,,conjugation
@@ -2361,6 +2375,7 @@ siądziesz (siąść),You will sit,,conjugation
 siądę (siąść),I will sit,,conjugation
 siądź (siąść),Sit down! (once),,imperative
 siąść,to sit down (once),,perf verb
+skakanka,skipping role,,f noun
 skala,scale,,f noun
 skaleczyć się czymś,to cut oneself with something (once),,perf verb
 skarpa,scarp/escarpment,,f noun
@@ -3226,6 +3241,7 @@ wypłynąć,to set sail or to surface (once),,perf verb
 wypływać,to set sail or to surface (repeated),,verb
 wyrafinowany,sophisticated/refined,,adjective
 wyraz,word,,m noun
+wyrazistość,expressiveness,,f noun
 wyrazić,to express (once),,perf verb
 wyraźny,clear/distinct,,adjective
 wyrażanie,expressing,,n noun
@@ -3605,6 +3621,7 @@ załatwiać,to take care of business (repeated),,verb
 załatwić,to take care of business (once),,perf verb
 założyć,"to found/establish/install, to put on clothes (once)",,perf verb
 zaśmiać się,to laugh (once),,perf verb
+zaświadczyć,to testify/witness (once),,perf verb
 zażenowanie,embarrassment,,n noun
 zażenować,to embarrass I (once),,perf verb
 zażądać,to demand (once),,perf verb
@@ -3694,6 +3711,8 @@ zeszyt,exercise book,,m noun
 zeszły,past,W zeszłym roku,adjective
 zetknięcie,contact/encounter,,n noun
 zetknąć się,to adjoin (once),,perf verb
+zetniesz (ściąć),You will cut,,conjugation
+zetnę (ściąć),I will cut,,conjugation
 zewnątrz,outside,,adverb
 zewnętrzny,external,,adjective
 zgadnąć,to guess (once),,perf verb
@@ -3727,6 +3746,7 @@ zmarnować,to waste (once),,perf verb
 zmarszczka,wrinkle/crinkle/ripple,,f noun
 zmiana,change,,f noun
 zmiażdżyć,to crush (once),,perf verb
+zmielić,to grind (once),,perf verb
 zmieniać,to change (repeated),,verb
 zmieniesz (zmienić),You will change,,conjugation
 zmienić,to change (once),,perf verb
@@ -3836,12 +3856,14 @@ złudzenie,illusion,,n noun
 ściemnić się,to darken (once),,perf verb
 ścierka,cleaning cloth,,f noun
 ścieżka,path,,f noun
+ścinać,to cut III (repeated),,verb
 ściskać,to squeeze (repeated),,verb
 ścisnąć,to squeeze (once),,perf verb
 ścisnę (ścisnąć),I will squeeze,,conjugation
 ścisły,accurate/precise,,adjective
 ściągać,to pull/draw (repeated),,verb
 ściągnąć,to pull/draw (once),,perf verb
+ściąć,to cut III (once),,perf verb
 ściśniesz (ścisnąć),You will squeeze,,conjugation
 ślad,footprint/track/trail/trace,Nie ma śladu,m noun
 śledztwo,investigation,,n noun
@@ -3856,6 +3878,7 @@ złudzenie,illusion,,n noun
 środek,middle/centre,,m noun
 środkowy,central/middle,,adjective
 środowisko,(the) environment,,n noun
+świadczyć,to testify/witness (repeated),,verb
 świadectwo,certificate (esp. educational),,n noun
 świadek,witness,Nie ma świadka,m noun
 świadomy,deliberate/conscious,,adjective
