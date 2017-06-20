@@ -285,6 +285,7 @@ czaisz się (czaić się),You are lurking,,conjugation
 czaić się,to lurk (repeated),,verb
 czaję się (czaić się),I am lurking,,conjugation
 czar,charm,Nie ma czaru,m noun
+czarodziej,wizard/sorcerer,,m noun
 czasami,sometimes,,adverb
 czasownik,verb,,m noun
 czcisz (czcić),You are honouring,,conjugation
@@ -329,6 +330,7 @@ depczesz (deptać),You are treading/trampling,,conjugation
 depczę (deptać),I am treading/trampling,,conjugation
 deptać,to tread/trample (repeated),,verb
 deskorolka,skateboard,,f noun
+detronizować,to dethrone (repeated),,verb
 dewiza,motto,,f noun
 dezaprobata,disapproval,,f noun
 diament,diamond,Nie ma diamentu,m noun
@@ -380,6 +382,8 @@ dopóki,until,,adverb
 doradca,advisor,,m noun
 doradzać komuś,to advise somebody (repeated),,verb
 doradzić komuś,to advise somebody (once),,perf verb
+dorastać,to grow up (repeated),,verb
+dorosnąć,to grow up (once),,perf verb
 dorosłość,adulthood,,f noun
 dorosły,grown-up,,adjective
 dosięgać,to reach/catch up (repeated),,verb
@@ -640,6 +644,7 @@ kaleczyć się czymś,to cut oneself with something (repeated),,verb
 kaloryfer,radiator,,m noun
 kancelaria,administrative office,,f noun
 kaprys,a whim,Nie ma kaprysu,m noun
+karaluch,cockroach,,m noun
 karać,to punish (repeated),,verb
 kartka,sheet of paper,,f noun
 karzesz (karać),You are punishing,,conjugation
@@ -648,6 +653,7 @@ kasa,cash desk,,f noun
 kasjer,cashier,,m noun
 kawaler,bachelor,,m noun
 kazać,to command/order I,,verb
+kałuża,puddle,,f noun
 każesz (kazać),You are commanding,,conjugation
 każę (kazać),I am commanding,,conjugation
 kibic,supporter/fan,,m noun
@@ -987,6 +993,7 @@ nadziejesz (nadziać),You will impale,,conjugation
 nadzieję (nadziać),I will impale,,conjugation
 nadziewać,to impale (repeated),,verb
 nadzwyczaj,unusually,,adverb
+nago,naked,,adverb
 nagranie,recording,,n noun
 nagroda,prize,,f noun
 nagrodzony,award-winning,,adjective
@@ -1492,6 +1499,7 @@ pacha,armpit,,f noun
 pachnący,fragrant,,adjective
 paczka,package/parcel,,f noun
 pajac,puppet,,m noun
+pajęczyna,cobweb,,f noun
 palenisko,hearth,,n noun
 pamięć,memory,,f noun
 panować,to reign/control (repeated),Panować nad sobą (To control oneself),verb
@@ -1555,6 +1563,7 @@ poczęstować,to offer (once),,perf verb
 poczęstunek,food and drinks,Nie ma poczęstunku,m noun
 podarować,to gift (once),,perf verb
 podatek,tax,,m noun
+podbrzusze,underbelly,,n noun
 podchodzić,to approach (repeated),,verb
 podcinać,to slash (repeated),,verb
 podciąć,to slash (once),,perf verb
@@ -1760,6 +1769,7 @@ potęga,(a) force/power,,f noun
 potępiać,to condemn (repeated),,verb
 potępić,to condemn (once),,perf verb
 potężny,mighty/powerful,,adjective
+potłuc,to shatter (once),,perf verb
 potłuczony,shattered,,adjective
 powalać,to fell/floor/deck (repeated),,verb
 powalić,to fell/floor/deck (once),,perf verb
@@ -2014,6 +2024,7 @@ przybierać na czymś,to gain in something (repeated),,verb
 przybrany,adoptive/foster,,adjective
 przybrać na czymś,to gain in something (once),,perf verb
 przybysz,newcomer,,m noun
+przychodnia,health centre,,f noun
 przychodzić,to come/arrive (on foot) (repeated),,verb
 przycisk,button (tech),Nie ma przycisku,m noun
 przyciszać,"to turn down, to soften (repeated)",,verb
@@ -2159,6 +2170,7 @@ pęcznieć,to swell (repeated),,verb
 pękać,to crack (repeated),,verb
 pęknięty,cracked,,adjective
 pęknąć,to crack (once),,perf verb
+pęta,fetters,,f plural noun
 płacisz (płacić),You are paying (for),,conjugation
 płacić,to pay (for) (repeated),,verb
 płacę (płacić),I am paying (for),,conjugation
@@ -2391,6 +2403,7 @@ skorumpować,to corrupt (once),,perf verb
 skorupa,crust/shell,,f noun
 skorzystać,to benefit from (once),,perf verb
 skracać,to shorten (repeated),,verb
+skraj,brink,Nie ma skraju,m noun
 skrajny,extreme,,adjective
 skrawek,scrap/patch,Nie ma strawka,m noun
 skromny,humble/modest,,adjective
@@ -2673,6 +2686,8 @@ trwać,to last/persist,,verb
 trwałość,durability,,f noun
 trwały,durable,,adjective
 trwonić,to squander (repeated),,verb
+trzaskać,to slam (repeated),,verb
+trzasnąć,to slam (once),,perf verb
 trzysta,three hundred,,numeral
 trząść się,to shake (repeated),,verb
 trzęsienie ziemi,earthquake,,phrase
@@ -2696,6 +2711,9 @@ tyć,to gain weight (repeated),,verb
 tępy,blunt/dull,,adjective
 tęsknota,a longing,,f noun
 tło,background,,n noun
+tłuc,to shatter (repeated),,verb
+tłuczesz (tłuc),You are shattering,,conjugation
+tłukę (tłuc),I am shattering,,conjugation
 tłum,crowd,Nie ma tłumu,m noun
 tłumaczyć,to explain/translate/interpret (repeated),,verb
 tłusty,fat,,adjective
@@ -2707,6 +2725,7 @@ ubierać,to dress (repeated),,verb
 ubogi,"poor (as in, not rich)",,adjective
 ubrać,to dress (once),,perf verb
 ubrudzić,to dirty (once),,perf verb
+ubóstwo,poverty,,n noun
 ubóść,to butt (once),,perf verb
 ubłagać,to beg (once),,perf verb
 uchodzić za kogoś,to pass as somebody (repeated),,verb
@@ -2823,6 +2842,12 @@ upodabniać,to make similar (repeated),,verb
 upodobnić,to make similar (once),,perf verb
 upokarzać,to humiliate (repeated),,verb
 upokorzyć,to humiliate (once),,perf verb
+upominam (upominać),I am rebuking,,conjugation
+upominasz (upominać),You are rebuking,,conjugation
+upominać,to rebuke (repeated),,verb
+upomniesz (upomnieć),You will rebuke,,conjugation
+upomnieć,to rebuke (once),,perf verb
+upomnę (upomnieć),I will rebuke,,conjugation
 upoważniać,to authorize (repeated),,verb
 upoważnić,to authorize (once),,perf verb
 upowszechniać,to disseminate (repeated),,verb
@@ -3129,6 +3154,8 @@ wycierasz (wycierać),You are wiping,,conjugation
 wycierać,to wipe (repeated),,verb
 wyciągać,to pull out or to stretch (repeated),,verb
 wyciągnąć,to pull out or to stretch (once),,perf verb
+wyczarować,to conjure up (once),,perf verb
+wyczarowywać,to conjure up (repeated),,verb
 wyczyn,achievement,Nie ma wyczynu,m noun
 wyczyścić,to clean/brush (once),,perf verb
 wydajny,efficient,,adjective
@@ -3269,6 +3296,7 @@ wyszorować,to scrub (once),,perf verb
 wyszukiwarka,search engine,,f noun
 wysłać,to send (once),,perf verb
 wytrwać,to persevere,,verb
+wytrwałość,perseverance,,f noun
 wytrzesz (wytrzeć),You will wipe,,conjugation
 wytrzeć,to wipe (once),,perf verb
 wytrzyj (wytrzeć),Wipe! (once),,conjugation
@@ -3354,6 +3382,7 @@ włożyć,to put/place (once),,perf verb
 włókienniczy,textile,,adjective
 włączać,to turn on (repeated),,verb
 włączyć,to turn on (once),,perf verb
+wścibski,nosy,,adjective
 wściekły,furious,,adjective
 wśród,among,,preposition
 z namaszczeniem,with solemnity,,phrase
@@ -3655,6 +3684,7 @@ zdejmę (zdjąć),I will take off,,conjugation
 zderzać się,to crash/collide (repeated),,verb
 zderzenie,crash/collision,,n noun
 zderzyć się,to crash/collide (once),,perf verb
+zdetronizować,to dethrone (once),,perf verb
 zdjąć,to take off (once),,perf verb
 zdmuchiwać,to blow out (repeated),,verb
 zdmuchniesz (zdmuchnąć),You will blow out,,conjugation
@@ -3672,6 +3702,7 @@ zdopingować,to support/boost (once),,perf verb
 zdrada,betrayal/treason,,f noun
 zdradzać,to betray (repeated),,verb
 zdradzić,to betray (once),,perf verb
+zdrajca,traitor,,m noun
 zdrowiejesz (zdrowieć),You are recuperating,,conjugation
 zdrowieję (zdrowieć),I am recuperating,,conjugation
 zdrowieć,to recuperate (repeated),,verb
