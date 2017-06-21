@@ -490,6 +490,7 @@ dziwisz się (dziwić się),You are surprised,,conjugation
 dziwić się,to be surprised (repeated),,verb
 dziwię się (dziwić się),I am surprised,,conjugation
 dół,bottom/pit,Nie ma dołu,m noun
+dąb,oak tree,Nie ma dębu,m noun
 dłoń,palm/hand,,f noun
 dług,debt,Nie ma długu,m noun
 długoterminowy,long-term,,adjective
@@ -1096,8 +1097,10 @@ niegdyś,formerly,,adverb
 niekończący się,never-ending,,adjective
 nieletni,juvenille,,m noun
 niemal,almost/nearly,Jestem niemal pewny,adverb
+nienaruszony,intact,,adjective
 nienawiść,hatred,,f noun
 nieoczekiwany,unexpected,,adjective
+niepamięć,oblivion,,f noun
 niepełnosprawny,disabled,,adjective
 niepodatny,impervious/insusceptible,,adjective
 niepodległość,political/national independence,,f noun
@@ -1119,6 +1122,7 @@ niespełniony,unfulfilled,,adjective
 niespodzianka,surprise,,f noun
 niespodziewany,unexpected/unforeseen,,adjective
 niesprawiedliwy,unfair/unjust,,adjective
+niesłabnący,unfaltering/unfailing,,adjective
 niesłychany,unheard of,,adjective
 nietknięty,untouched/unharmed/intact,,adjective
 nieuczciwy,dishonest,,adjective
@@ -1139,6 +1143,7 @@ niezbędny,indispensable/necessary/essential,,adjective
 niezgodność,incompatibility,,f noun
 nieznośny,unbearable,,adjective
 niezrozumiały,incomprehensible/unintelligible,,adjective
+niezrównany,unrivalled,,adjective
 niezręczny,clumsy/awkward,,adjective
 niezwykły,unusual,,adjective
 nieśmiały,shy,,adjective
@@ -1329,6 +1334,7 @@ odpocząć,to rest (once),,perf verb
 odporny,resistent,,adjective
 odpowiadać,to answer (repeated),,verb
 odpowiedni,correct/appropriate,,adjective
+odpowiednik,equivalent,,m noun
 odpowiedzialność,responsibility,,f noun
 odpowiedzialny,responsible,,adjective
 odpowiedzieć,to answer (once),,perf verb
@@ -1696,6 +1702,7 @@ poniżenie,humiliation,,n noun
 poniższy,following/below,Proszę przeczytać poniższy tekst,adjective
 ponosić,to incur (repeated),,verb
 ponowić,to repeat/recur (once),,perf verb
+ponownie,again,,adverb
 ponoć,seemingly/supposedly,,adverb
 popchnąć,to push (once),,perf verb
 popełniać,to commit (e.g. a crime) (repeated),,verb
@@ -1713,6 +1720,7 @@ poprzedni,previous,,adjective
 poprzeć,"to back up, to second (once)",,perf verb
 popychać,to push (repeated),,verb
 popyt,demand,Nie ma popytu,m noun
+popłoch,panic,Nie ma popłochu,m noun
 poranny,morning,,adjective
 porażka,failure,Ta podróż to porażka! (This journey is a failure!),f noun
 porozumienie,agreement/arrangement/understanding,,n noun
@@ -1952,9 +1960,11 @@ przekąska,snack,,f noun
 przelać pieniądze,to transfer money (once),,perf verb
 przelewać pieniądze,to transfer money (repeated),,verb
 przemakać,to get soaked (repeated),,verb
+przemknąć,to flit/sneak (once),,perf verb
 przemoc,violence,,f noun
 przemoknięty,soaked/drenched,,adjective
 przemoknąć,to get soaked (once),,perf verb
+przemykać,to flit/sneak (repeated),,verb
 przemysł,industry,,m noun
 przemówienie,speech,,n noun
 przemęczać,to strain (repeated),,verb
@@ -2180,6 +2190,7 @@ płeć,sex,Nie ma płci,f noun
 płodność,fertility,,f noun
 płomień,flame,,m noun
 płot,fence,Nie ma płotu,m noun
+płowieć,to fade/bleach (repeated),,verb
 płucz (płukać),Rinse! (repeated),,imperative
 płuczesz (płukać),You are rinsing,,conjugation
 płuczę (płukać),I am rinsing,,conjugation
@@ -2217,6 +2228,7 @@ rocznica,anniversary,,f noun
 roczny,annual/yearly,,adjective
 rodzaj,type,Jaki rodzaj chleba lubisz?,n noun
 rodzeństwo,siblings,,n noun
+rodzicielstwo,parenthood,,n noun
 rodzić,to give birth to (repeated),,verb
 rondo,roundabout,,n noun
 rosnąć,to grow (repeated),,verb
@@ -2249,6 +2261,7 @@ rozlec się,to ring out (once),,perf verb
 rozlegać się,to ring out (repeated),,verb
 rozlegniesz się (rozlec się),You will ring out,,conjugation
 rozlegnę się (rozlec się),I will ring out,,conjugation
+rozmach,momentum,Nie ma rozmachu,m noun
 rozmaity,various,,adjective
 rozmazać,to smear/smudge (once),,perf verb
 rozmazywać,to smear/smudge (repeated),,verb
@@ -2934,6 +2947,7 @@ uzasadnić,to justify/defend a point of view (once),,perf verb
 uznajesz (uznawać),You are acknowledging,,conjugation
 uznaję (uznawać),I am acknowledging,,conjugation
 uznam (uznać),I will acknowledge,,conjugation
+uznanie,recognition,,n noun
 uznany,recognized,,adjective
 uznasz (uznać),You will acknowledge,,conjugation
 uznawać,to acknowledge (repeated),,verb
@@ -3027,6 +3041,7 @@ wieszak,hanger/coat-stand/coat-rack,,m noun
 wietrzny,windy,,adjective
 wieża,tower,,f noun
 wieżowiec,high rise block,Nie ma wieżowca,m noun
+wilgotny,damp/humid/moist,,adjective
 winny,guilty,,adjective
 wiosenny,spring-like,,adjective
 wioska,hamlet/village,,f noun
@@ -3264,6 +3279,7 @@ wypytać,to quiz/question (once),,perf verb
 wypytujesz (wypytywać),You are quizzing,,conjugation
 wypytuję (wypytywać),I am quizzing,,conjugation
 wypytywać,to quiz/question (repeated),,verb
+wypłowieć,to fade/bleach (once),,perf verb
 wypłynąć,to set sail or to surface (once),,perf verb
 wypływać,to set sail or to surface (repeated),,verb
 wyrafinowany,sophisticated/refined,,adjective
