@@ -319,6 +319,7 @@ dane,data,Nie ma danych,f plural noun
 dar,gift/present,Nie ma daru,m noun
 darmowy,free (of charge),,adjective
 darować,to gift (repeated),,verb
+darzyć kogoś czymś,to bestow something on someone,,verb
 dawka,dose,,f noun
 dbać,to care (for) (repeated),,verb
 definicja,definition,,f noun
@@ -517,6 +518,7 @@ faktura,invoice,,f noun
 fala,wave,,f noun
 farba,paint/dye/ink,,f noun
 fałszywie,falsely/insincerely,,adverb
+febra,fever,,f noun
 felieton,column,Nie ma felietonu,m noun
 ferie,holiday/break,,f plural noun
 filiżanka,cup,,f noun
@@ -776,6 +778,7 @@ kładziesz (kłaść),You are laying,,conjugation
 kładę (kłaść),I am laying,,conjugation
 kłamać,to lie (repeated),,verb
 kłaść,to lay (repeated),,verb
+kłonić,to bow (repeated),,verb
 kłócisz się (kłócić się),You are arguing,,conjugation
 kłócić się,to argue (repeated),,verb
 kłócę się (kłócić się),I am arguing,,conjugation
@@ -973,6 +976,7 @@ na dodatek,in addition,W dodatku,phrase
 na stałe,permanently,,adverb
 nabijać,to load/charge/fill (repeated),,verb
 nabić,to load/charge/fill (once),,perf verb
+nabój,cartridge/round,Nie ma naboju,m noun
 nachylać się,to bend down/lean (repeated),,verb
 nachylić się,to bend down/lean (once),,perf verb
 naciskać,to press (repeated),,verb
@@ -1154,6 +1158,7 @@ niszczyć,to devastate/destroy (repeated),,verb
 niższość,inferiority,,f noun
 niższy,lower,,adjective
 nocleg,overright accommodation,Nie ma noclegu,m noun
+nocować,to spend/stay the night (repeated),,verb
 nosidełko,child carrier (sling),,n noun
 notoryczny,notorious,,adjective
 notować,to note (repeated),,verb
@@ -1209,6 +1214,7 @@ oboje,both (man and woman),Oboje pracują w szkole ((They) both work in a school
 obojętny,indifferent/irrelevant,,adjective
 obowiązek,duty/obligation,,m noun
 obozować,to camp,,verb
+obozowisko,campsite,,n noun
 obraz,image/picture/painting,,m noun
 obrać,to peel/shell/skin (once),,perf verb
 obrażony,offended,,adjective
@@ -1292,6 +1298,7 @@ odejść,to go away (once),,perf verb
 oderwać,to tear away (once),,perf verb
 oderwiesz (oderwać),You will tear away,,conjugation
 oderwę (oderwać),I will tear away,,conjugation
+odesłać,to send back (once),,perf verb
 odetchnąć,to breathe (once),,perf verb
 odezwać,to speak (once),,perf verb
 odezwiesz (odezwać),You will speak,,conjugation
@@ -1360,6 +1367,7 @@ odstawienie,withdrawal,,n noun
 odstawić,to put aside/away (once),,perf verb
 odsunąć się,to back off/away (once),,perf verb
 odsuwać się,to back off/away (repeated),,verb
+odsyłać,to send back (repeated),,verb
 odtruć,to detoxify,,verb
 odtąd,from now on,,adverb
 odwaga,courage,,f noun
@@ -1531,6 +1539,7 @@ piaskownica,sandpit,,f noun
 picie,drinking,,n noun
 pieczeń,roast,,f noun
 piekarnik,oven,,m noun
+piekło,hell,,n noun
 pielęgniarka,nurse (female),,f noun
 pielęgniarz,nurse (male),,m noun
 pielęgnować,to nurse or cultivate,,verb
@@ -1554,6 +1563,7 @@ plamić,to stain/soil (repeated),,verb
 plecy,back,,f pl noun
 plemię,tribe,,n noun
 plotkować,to gossip,,verb
+po kryjomu,in secret,,phrase
 pobicie,beating,,n noun
 pobierać,to download (repeated),,verb
 pobierać się,to get married (repeated),,verb
@@ -1664,6 +1674,7 @@ pokrywka,cover,,f noun
 pokuta,penance,,f noun
 pokój,room/peace,,m noun
 pokład,deck,Nie ma pokładu,m noun
+pokłonić,to bow (once),,perf verb
 pokłócić się,to argue (once),,perf verb
 polana,glade,,f noun
 polać,to pour (once),,perf verb
@@ -1731,6 +1742,7 @@ porwany,kidnapped,,adjective
 porwać,to kidnap (once),,perf verb
 porwiesz (porwać),You will kidnap,,conjugation
 porwę (porwać),I will kidnap,,conjugation
+porywacz,kidnapper,,m noun
 porywać,to kidnap (repeated),,verb
 porzucać,to abandon (repeated),,verb
 porzucić,to abandon (once),,perf verb
@@ -1974,6 +1986,7 @@ przemęczać,to strain (repeated),,verb
 przemęczyć,to strain (once),,perf verb
 przenikać,to penetrate (repeated),,verb
 przeniknąć,to penetrate (once),,perf verb
+przenocować,to spend/stay the night (once),,perf verb
 przepaść,precipice/chasm/gulf/abyss,,f noun
 przepis,recipe,Nie ma przepisu,m noun
 przeplatać,to intersperse/intermingle (repeated),"Idzie kwiecień i przeplata, trochę zimy, trochę lata",verb
@@ -2702,6 +2715,7 @@ trucizna,poison,,f noun
 trud,difficulty,Nie ma trudu,m noun
 trujący,poisonous,,adjective
 trumna,coffin/casket,,f noun
+trup,corpse,,m noun
 truć kogoś czymś,to poison somebody with something (repeated),,verb
 trwać,to last/persist,,verb
 trwałość,durability,,f noun
@@ -3179,6 +3193,10 @@ wyciągać,to pull out or to stretch (repeated),,verb
 wyciągnąć,to pull out or to stretch (once),,perf verb
 wyczarować,to conjure up (once),,perf verb
 wyczarowywać,to conjure up (repeated),,verb
+wyczerpać,to exhaust (once),,perf verb
+wyczerpiesz (wyczerpać),You will exhaust,,conjugation
+wyczerpię (wyczerpać),I will exhaust,,conjugation
+wyczerpywać,to exhaust (repeated),,verb
 wyczyn,achievement,Nie ma wyczynu,m noun
 wyczyścić,to clean/brush (once),,perf verb
 wydajny,efficient,,adjective
