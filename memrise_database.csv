@@ -234,6 +234,7 @@ celownik (komu? czemu?),dative case,,m noun
 cenić,to value/appreciate,Konsumenci cenią niższe ceny,verb
 cesarz,emperor,,m noun
 charytatywny,charitable,,adjective
+chata,hut/cabin/cottage,,f noun
 chirurg,surgeon,,m noun
 chmiel,hop,Nie me chmielu,m noun
 chociaż,(even) though,"Nie jestem wesoły, chociaż piję wino",conjunction
@@ -433,6 +434,7 @@ dowiadywać się,to learn about (repeated),,verb
 dowiedzieć się,to learn about (once),,perf verb
 dowolny,free/any/arbitrary,,adjective
 dowód,evidence,Policja szuka dowodów,m noun
+dowódca,commander,,m noun
 dozorca,caretaker/janitor,,m noun
 dołączać,to join II (repeated),,verb
 dołączyć,to join II (once),,perf verb
@@ -626,6 +628,7 @@ jad,venom,Nie ma jadu,m noun
 jadalny,edible,,adjective
 jadowity,venomous,,adjective
 jakby,as if/though,"Dlaczego zawsze mówisz o naszej mamie, jakby nić mogło cię zdenerwować",conjunction
+jaskinia,cave,,f noun
 jatka,massacre,,f noun
 jazda,a drive/ride I (e.g. car/bike),Po jeździe,f noun
 jednocześnie,at the same time,,adverb
@@ -787,6 +790,7 @@ lalka,doll,,f noun
 lansować,to promote/launch (repeated),,verb
 latarka,torch/flashlight,,f noun
 latarnia morska,lighthouse,,phrase
+latawiec,kite,Nie ma latawca,m noun
 lecieć,to fly (repeated),,verb
 lecisz (lecieć),You are flying,,conjugation
 lecz,but,,conjunction
@@ -960,6 +964,7 @@ mylić się,to make mistakes (repeated),,verb
 mylny,mistaken/erroneous/wrong,,adjective
 myć,to wash (repeated),,verb
 myśliwski,hunting,,adjective
+myśliwy,hunter,,m noun
 mógł,He was able to,,conjugation
 mówienie,speaking,,n noun
 mózg,brain,Nie ma mózgu,m noun
@@ -968,6 +973,7 @@ męczący,tiresome/tiring,,adjective
 mędrzec,sage (wise man),Nie ma mędrca,m noun
 męski,masculine,,adjective
 męskoosobowy,masculine personal,,adjective
+mężnieć,to grow into a man (repeated),,verb
 młodość,youth,,f noun
 młodzieniec,youth,,m noun
 mścić się,to avenge oneself on somebody (repeated),,verb
@@ -1145,8 +1151,10 @@ niewolnica,slave (female),,f noun
 niewolnik,slave (male),,m noun
 niezależność,independence,,f noun
 niezależny,independent,,adjective
+niezbadany,unexplored,,adjective
 niezbędny,indispensable/necessary/essential,,adjective
 niezgodność,incompatibility,,f noun
+nieznajomy,stranger,,m noun
 nieznośny,unbearable,,adjective
 niezrozumiały,incomprehensible/unintelligible,,adjective
 niezrównany,unrivalled,,adjective
@@ -1186,6 +1194,7 @@ obecny,current/present,,adjective
 obejrzeć,to watch/look at (once),,perf verb
 obetniesz (obciąć),You will clip/trim,,conjugation
 obetnę (obciąć),I will clip/trim,,conjugation
+obfity,abundant,,adjective
 obie,both (f),Obie książki,numeral
 obie kobiety,both women,,numeral
 obiecaj (obiecać),Promise! (once),,imperative
@@ -1261,6 +1270,7 @@ odbicie,reflection,,n noun
 odbierać,to take back (repeated),,verb
 odbiorca,recipient,,m noun
 odbiór,receipt,Nie ma odbioru,m noun
+odblask,reflection/glare/glow,Nie ma odblasku,m noun
 odblaskowy,reflective,,adjective
 odbywa się (odbywać się),it is taking place,,conjugation
 odbywają się (odbywać się),they are taking place,,conjugation
@@ -1527,6 +1537,7 @@ pasujący,matching,,adjective
 paszcza,muzzle,,f noun
 patelnia,(frying) pan,,m noun
 patetyczny,pompous,,adjective
+patunek,parcel,Nie ma pakunku,m noun
 paznokieć,nail,Nie ma paznokcia,m noun
 państwowy,state/civil/public/national,,adjective
 październik,October,,m noun
@@ -1550,6 +1561,7 @@ pierzesz (prać),You are laundering,,conjugation
 pierś,chest/breast,,f noun
 pierścionek,ring,Nie ma pierścionka,m noun
 pieszo,on foot,,adverb
+pień,tree trunk or stump,Nie ma pnia,m noun
 pilnować,"to mind, to tend to, to watch over, to look after",Policjant pilnuje porządku,verb
 pilny,diligent/conscientious,,adjective
 piorę (prać),I am laundering,,conjugation
@@ -1933,6 +1945,7 @@ przeddzień,the eve of,W przeddzień lub w przededniu,m noun
 przedmieście,suburb,,n noun
 przedmiot,object/subject (e.g. history),,m noun
 przedpłata,down/advance payment,,f noun
+przedrzeć się przez coś,to struggle through something (once),,perf verb
 przedstawiać,to present (repeated),,verb
 przedstawiciel,representative/agent,,m noun
 przedstawienie,performance/show,,n noun
@@ -1941,6 +1954,7 @@ przedstawić,to present (once),,perf verb
 przedwczoraj,the day before yesterday,,adverb
 przedyskutować,to discuss (once),,perf verb
 przedział,train compartment,Nie ma przedziału,m noun
+przedzierać się przez coś,to struggle through something (repeated),,verb
 przegapiać,to miss (repeated),,verb
 przegapić,to miss (once),,perf verb
 przegląd,review or round-up,Nie ma przeglądu,m noun
@@ -1975,6 +1989,8 @@ przekąska,snack,,f noun
 przelać pieniądze,to transfer money (once),,perf verb
 przelewać pieniądze,to transfer money (repeated),,verb
 przemakać,to get soaked (repeated),,verb
+przemierzać,to traverse/cover (repeated),,verb
+przemierzyć,to traverse/cover (once),,perf verb
 przemknąć,to flit/sneak (once),,perf verb
 przemoc,violence,,f noun
 przemoknięty,soaked/drenched,,adjective
@@ -2817,6 +2833,7 @@ ulec komuś/czemuś,to give into somebody or something (once),,perf verb
 ulegać komuś/czemuś,to give into somebody or something (repeated),,verb
 ulegniesz komuś/czemuś (ulec),You will give into somebody or something,,conjugation
 ulegnę komuś/czemuś (ulec),I will give into somebody or something,,conjugation
+ulewa,downpour,,f noun
 ulewny,torrential,,adjective
 uliczny,street,,adjective
 ulokować,to place (once),,perf verb
@@ -2957,6 +2974,7 @@ uwaga,attention,,f noun
 uwalniać,to rid/free/liberate (repeated),,verb
 uwieczniać,to immortalize (repeated),,verb
 uwiecznić,to immortalize (once),,perf verb
+uwięzić,to imprison/trap (once),,perf verb
 uwolnić,to rid/free/liberate (once),,perf verb
 uwzględniać,to take into consideration (repeated),,verb
 uwzględnić,to take into consideration (once),,perf verb
@@ -3081,6 +3099,7 @@ wiążę (wiązać),I am tying,,conjugation
 większość,most/majority,Większośćz z nas (Most of us),f noun
 więzienie,prison,,n noun
 więzień,prisoner,,m noun
+więzić,to imprison/trap (repeated),,verb
 więź,tie/bond,,f noun
 wjazd,slip road (entry),Nie ma wjazdu,m noun
 wkrótce,shortly,,adverb
@@ -3090,6 +3109,7 @@ wkurzyć się,to be pissed off (once),,perf verb
 wkładać,to put/place (repeated),,verb
 wniebogłosy,at the top of one's voice,,adverb
 wniosek,conclusion,,m noun
+wnętrze,inside/interior,,n noun
 wobec,towards,"Jesteśmy krytyczni wobec osób, które piją alkoholu w pracy",preposition
 wojewoda,governor of province,,m noun
 wojna,war,,f noun
@@ -3836,6 +3856,7 @@ zmusić się,to force (once),,perf verb
 zmuszać się,to force (repeated),,verb
 zmęczenie,tiredness/fatigue,,n noun
 zmęczyć się,to suffer II (once),,perf verb
+zmężnieć,to grow into a man (once),,perf verb
 znaczenie,meaning/importance/significance,,n noun
 znaczny,considerable,,adjective
 znajdować,to find (repeated),,verb
