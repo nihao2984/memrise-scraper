@@ -191,6 +191,7 @@ bronić,to defend (repeated),,verb
 broń,weapon,,f noun
 brudzić,to dirty (repeated),,verb
 brukowiec,tabloid,Nie ma brukowca,m noun
+bryła,lump/clod,,f noun
 brzeg,edge/brim,Nie ma brzegu,m noun
 brzmienie,sound/tone,,n noun
 brzmieć,to sound (repeated),,verb
@@ -232,6 +233,7 @@ celibat,celibacy,Nie ma celibatu,m noun
 celować,to aim (repeated),,verb
 celownik (komu? czemu?),dative case,,m noun
 cenić,to value/appreciate,Konsumenci cenią niższe ceny,verb
+cera,complexion,,f noun
 cesarz,emperor,,m noun
 charytatywny,charitable,,adjective
 chata,hut/cabin/cottage,,f noun
@@ -318,13 +320,14 @@ cętka,spot,W cętki (spotted),f noun
 dalszy,further,,adjective
 dane,data,Nie ma danych,f plural noun
 dar,gift/present,Nie ma daru,m noun
-darmowy,free (of charge),,adjective
+darmowy,free of charge I,,adjective
 darować,to gift (repeated),,verb
 darzyć kogoś czymś,to bestow something on someone,,verb
 dawka,dose,,f noun
 dbać,to care (for) (repeated),,verb
 definicja,definition,,f noun
 definiować,to define (repeated),,verb
+dekolt,neckline/cleavage,Nie ma dekoltu,m noun
 demonstracyjnie,demonstratively/ostentatiously,,adverb
 denerwujący,annoying/irritating,,adjective
 depcz (deptać),Tread/trample! (repeated),,imperative
@@ -588,6 +591,7 @@ guz,lump,,m noun
 gwałcić,to rape/violate (repeated),,verb
 gwałtownie,fiercely/rapidly/sharply/suddenly,,adverb
 góra,top/mountain,,f noun
+górnik,miner,Dwaj górnicy,m noun
 górny,upper,,adjective
 gąbka,sponge,,f noun
 gęsty,thick/dense,,adjective
@@ -632,7 +636,9 @@ jaskinia,cave,,f noun
 jatka,massacre,,f noun
 jazda,a drive/ride I (e.g. car/bike),Po jeździe,f noun
 jednocześnie,at the same time,,adverb
-jednogłośny,unanimous,,adjective
+jednogłośny,unanimous I,,adjective
+jednolity,uniform/homogenous,,adjective
+jednomyślny,unanimous II,,adjective
 jednorazowy,single/disposable,,adjective
 jedynaczka,only (girl) child,,f noun
 jedynak,only (boy) child,,m noun
@@ -650,6 +656,7 @@ kajdanki,handcuffs,,f plural noun
 kaleczyć się czymś,to cut oneself with something (repeated),,verb
 kaloryfer,radiator,,m noun
 kancelaria,administrative office,,f noun
+kaplica,chapel,,f noun
 kaprys,a whim,Nie ma kaprysu,m noun
 karaluch,cockroach,,m noun
 karać,to punish (repeated),,verb
@@ -695,7 +702,8 @@ kolekcja,collection I,,f noun
 kombinezon,overalls,Nie ma kombinezonu,m noun
 komin,chimney,Nie ma komina,m noun
 komisariat,police station,Nie ma komisariatu,m noun
-komnata,chamber,,f noun
+komnata,chamber I,,f noun
+komora,chamber II,,f noun
 kompromitujący,compromising,,adjective
 konfliktowy,confrontational,,adjective
 konieczność,necessity,,f noun
@@ -705,6 +713,7 @@ konkurs,contest/competition,,m noun
 konsekwentny,consistent,,adjective
 konto,account,,n noun
 kontrahent,contractor,,m noun
+kopalnia,mine,,f noun
 kopać,to kick (repeated),,verb
 koperta,envelope,,f noun
 kopia,copy/duplicate,,f noun
@@ -982,6 +991,7 @@ na dodatek,in addition,W dodatku,phrase
 na stałe,permanently,,adverb
 nabijać,to load/charge/fill (repeated),,verb
 nabić,to load/charge/fill (once),,perf verb
+nabrzmiały,swollen,,adjective
 nabój,cartridge/round,Nie ma naboju,m noun
 nachylać się,to bend down/lean (repeated),,verb
 nachylić się,to bend down/lean (once),,perf verb
@@ -1112,6 +1122,7 @@ niemal,almost/nearly,Jestem niemal pewny,adverb
 nienaruszony,intact,,adjective
 nienawiść,hatred,,f noun
 nieoczekiwany,unexpected,,adjective
+nieodpłatny,free of charge II,,adjective
 niepamięć,oblivion,,f noun
 niepełnosprawny,disabled,,adjective
 niepodatny,impervious/insusceptible,,adjective
@@ -1513,6 +1524,7 @@ otępiały,spaced-out,,adjective
 owad,insect,Nie ma owada,m noun
 oznajmiać,to announce (repeated),,verb
 oznajmić,to announce (once),,perf verb
+oznakować,to mark (once),,perf verb
 ośmielać,to encourage (repeated),,verb
 ośmielić,to encourage (once),,perf verb
 ośrodek,centre,Ośrodek leczenia uzależnień,m noun
@@ -2045,6 +2057,7 @@ przesłuchać,to interrogate/question (once),,perf verb
 przesłuchiwać,to interrogate/question (repeated),,verb
 przetrwać,to survive,,verb
 przewaga,advantage/superiority,,f noun
+przeważnie,mostly,,adverb
 przewidywać,to predict/forecast/foresee (repeated),,verb
 przewidzieć,to predict/forecast/foresee (once),,perf verb
 przewijać,to fast-forward/rewind (repeated),,verb
@@ -2589,6 +2602,7 @@ strzepujesz (strzepywać),You are flicking/brushing,,conjugation
 strzepuję (strzepywać),I am flicking/brushing,,conjugation
 strzepywać,to flick/brush (repeated),,verb
 strzykawka,syringe,,f noun
+strój,dress/attire,Nie ma stroju,m noun
 studnia,well,,f noun
 stwierdzenie,assertion/statement,,n noun
 stwierdzić,to assert/claim (once),,perf verb
@@ -2641,6 +2655,7 @@ szkodzić komuś/czemuś,to harm somebody/something (repeated),,verb
 szkło,glass,,n noun
 szlak,track/trail,Nie ma szlaku,m noun
 szmata,rag,,f noun
+szminka,lipstick,,f noun
 sznur,cord/line/lead,,m noun
 szopa,shed,,f noun
 szorować,to scrub (repeated),,verb
@@ -2652,6 +2667,7 @@ szufelka,dustpan,,f noun
 szuflada,drawer,,f noun
 szum,hum/burble/lap,Nie ma szumu,m noun
 szumieć,to burble,,verb
+szyb,(mine) shaft,Nie ma szybu,m noun
 szyba,pane (of glass),,f noun
 szycie,sewing,,n noun
 szyfr,cipher,Nie ma szyfru,m noun
@@ -3181,6 +3197,8 @@ wstawać,to get up (repeated),,verb
 wstawiać,to put/insert/replace (repeated),,verb
 wstawić,to put/insert/replace (once),,perf verb
 wstać,to get up (once),,perf verb
+wstrzykiwać coś komuś,to inject somebody with something (repeated),,verb
+wstrzyknąć coś komuś,to inject somebody with something (once),,perf verb
 wstążka,hair ribbon,,f noun
 wstęp,access,Nie ma wstępu,m noun
 wsunąć,to slip (e.g. hands) (once),Wsunąć ręce do kieszeni,perf verb
@@ -3197,6 +3215,7 @@ wybiję (wybić),I will strike,,conjugation
 wybić,to strike (once),,perf verb
 wybrany,chosen,,adjective
 wybrać,to choose/select/pick (once),,perf verb
+wybredny,choosy/picky,,adjective
 wybrzeże,coast,,n noun
 wybuch,explosion/eruption/outbreak,,m noun
 wybuchać,to explode/erupt (repeated),,verb
@@ -3414,6 +3433,7 @@ wzornictwo,design,,n noun
 wzrastać,to rise/grow/increase (repeated),,verb
 wzrok,eyesight/vision,Nie ma wzroku,m noun
 wzrosnąć,to rise/grow/increase (once),,perf verb
+wzrost,growth/height,Nie ma wzrostu,m noun
 wzruszać,to move/touch (repeated),,verb
 wzruszenie,emotion,,n noun
 wzruszyć,to move/touch (once),,perf verb
@@ -3515,6 +3535,7 @@ zaimek dzierżawczy,possessive pronoun,,linguistic
 zaimek wskazujący,demonstrative pronoun,,linguistic
 zainicjować,to initialize (once),,perf verb
 zainteresowanie,interest,,n noun
+zajazd,motel/inn,Nie ma zajazdu,m noun
 zajmiesz (zająć),You will capture/occupy/seize,,conjugation
 zajmij (zająć),Capture/occupy/seize! (once),,imperative
 zajmować,to capture/occupy/seize (repeated),,verb
@@ -3861,6 +3882,7 @@ znaczenie,meaning/importance/significance,,n noun
 znaczny,considerable,,adjective
 znajdować,to find (repeated),,verb
 znakomity,outstanding/overwhelming,,adjective
+znakować,to mark (repeated),,verb
 znaleźć,to find (once),,perf verb
 znamienity,noble,,adjective
 zniechęcać,to discourage (repeated),,verb
@@ -3971,6 +3993,7 @@ złudzenie,illusion,,n noun
 śnić się,to dream about (repeated),,verb
 śpieszyć,to hurry/rush (repeated),,verb
 śpiwór,sleeping bag,Nie ma śpiwora,m noun
+średniowiecze,the Middle Ages,,n noun
 środek,middle/centre,,m noun
 środkowy,central/middle,,adjective
 środowisko,(the) environment,,n noun
@@ -3992,6 +4015,7 @@ złudzenie,illusion,,n noun
 żaden,no/none/neither,Żaden z nas (Neither of us),pronoun
 żaglówka,sailing boat,,f noun
 żal,grief/remorse/grudge,Nie ma żalu,m noun
+żartobliwy,humorous/joking,,adjective
 żarówka,(light) bulb,,f noun
 żałować,to regret (repeated),,verb
 żebro,rib,Nie ma żadnych żeber,n noun
@@ -4009,6 +4033,7 @@ złudzenie,illusion,,n noun
 życzenie,wish,Masz trzy życzenia! (You have three wishes!),n noun
 życzliwy,kind/friendly,,adjective
 żyjący,living I,,adjective
+żyrandol,chandelier,,m noun
 żywy,living II,,adjective
 żyła,vein,,f noun
 żądać,to demand I (repeated),,verb
