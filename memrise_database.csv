@@ -302,7 +302,10 @@ czekanie,waiting,,n noun
 czepiać się,to pick on,,verb
 czerpać,to draw/derive,,verb
 czerwiec,June,,m noun
+czesać,to comb (repeated),,verb
 czesne,tuition fee,,n noun
+czeszesz (czesać),You are combing,,conjugation
+czeszę (czesać),I am combing,,conjugation
 czoło,forehead,"Na czole, pięć czół",n noun
 czterysta,four hundred,,numeral
 czuwać nad kimś/czymś,to watch over somebody/something,,verb
@@ -738,6 +741,7 @@ korzyść,benefit,,f noun
 kosmyk,wisp,,m noun
 koszmar,nightmare,Nie ma koszmaru,m noun
 kołdra,duvet,,f noun
+kościsty,bony,,adjective
 koślawy,crooked,,adjective
 krach,crash,Krach giełdowy/finansowy,m noun
 kradniesz (kraść),You are stealing,,conjugation
@@ -809,6 +813,7 @@ kłócę się (kłócić się),I am arguing,,conjugation
 kłótnia,argument,,f noun
 lalka,doll,,f noun
 lansować,to promote/launch (repeated),,verb
+laska,walking stick,,f noun
 latarka,torch/flashlight,,f noun
 latarnia morska,lighthouse,,phrase
 latawiec,kite,Nie ma latawca,m noun
@@ -1095,7 +1100,7 @@ nastąpić,to follow/proceed (once),,perf verb
 następować,to follow/proceed (repeated),,verb
 następujący,following/succeeding,,adjective
 nasycenie,saturation,,n noun
-natknąć się kogoś/coś,to come across somebody/something (once),,perf verb
+natknąć się na kogoś/coś,to come across somebody/something (once),,perf verb
 natomiast,whereas,"Nie lubię go, natomiast lubię jego żoną",adverb
 natykać się na kogoś/coś,to come across somebody/something (repeated),,verb
 nauczanie,teaching,,n noun
@@ -1549,6 +1554,8 @@ oznajmić,to announce (once),,perf verb
 oznakować,to mark (once),,perf verb
 ośmielać,to encourage (repeated),,verb
 ośmielić,to encourage (once),,perf verb
+ośmieszać,to ridicule (repeated),,verb
+ośmieszyć,to ridicule (once),,perf verb
 ośrodek,centre,Ośrodek leczenia uzależnień,m noun
 oświadczać się komuś,to propose to somebody (repeated),,verb
 oświadczyny,proposal,,m plural noun
@@ -2011,6 +2018,7 @@ przejść,to cross (once),,perf verb
 przekaz (pieniężny),(money) order,Nie ma przekazu,m noun
 przekazać,"to hand over, to pass on (once)",,perf verb
 przekazywać,"to hand over, to pass on (repeated)",,verb
+przekaźnik,relay,,m noun
 przekonanie,belief/conviction,,n noun
 przekonać,to convince (once),,perf verb
 przekonywać,to convince (repeated),,verb
@@ -2247,6 +2255,7 @@ pójdź (pójść),Go! (once),,imperative
 pół miliona,half a million,,numeral
 pół tysiąca,half a thousand,,numeral
 półka,shelf,,f noun
+półmrok,half-light/semi-darkness,Nie ma półmroku,m noun
 północ,north,Na północy (Northwards),f noun
 półtora,one and a half,,numeral
 później,later,,adverb
@@ -2586,6 +2595,8 @@ spóźniać się,to be late (repeated),,verb
 spóźnić się,to be late (once),,perf verb
 spłacać,to pay off (repeated),,verb
 spłacić,to pay off (once),,perf verb
+spłaszczać,to flatten (repeated),,verb
+spłaszczyć,to flatten (once),,perf verb
 spłata,repayment,On ma problemy ze spłatą,f noun
 spłukać,to rinse/flush (once),,perf verb
 spłukiwać,to rinse/flush (repeated),,verb
@@ -2839,6 +2850,7 @@ uciszać,to silence (repeated),,verb
 uciszyć,to silence (once),,perf verb
 uczcić,to honour (once),,perf verb
 uczelnia,university/college,,f noun
+uczesać,to comb (once),,perf verb
 uczestniczyć,to participate,,verb
 uczestnik,participant,,m noun
 uczta,feast,,f noun
@@ -2988,6 +3000,8 @@ urozmaicać coś,to vary/diversify something (repeated),,verb
 urozmaicić coś,to vary/diversify something (once),,perf verb
 uruchamiać,to set in motion (repeated),,verb
 uruchomić,to set in motion (once),,perf verb
+urzec,to captivate (once),,perf verb
+urzekać,to captivate (repeated),,verb
 urząd,government office,Idę do urzędu,m noun
 urządzenie,device/appliance/utensil,,n noun
 urzędnik,official or civil servant,,m noun
@@ -3268,6 +3282,8 @@ wycieraj (wycierać),Wipe! (repeated),,imperative
 wycieram (wycierać),I am wiping,,conjugation
 wycierasz (wycierać),You are wiping,,conjugation
 wycierać,to wipe (repeated),,verb
+wycieńczać,to emaciate (repeated),,verb
+wycieńczyć,to emaciate (once),,perf verb
 wyciągać,to pull out or to stretch (repeated),,verb
 wyciągnąć,to pull out or to stretch (once),,perf verb
 wyczarować,to conjure up (once),,perf verb
@@ -3284,6 +3300,8 @@ wydatek,expense,Nie ma wydatku,m noun
 wydobywać,to extract/mine (repeated),,verb
 wydobyć,to extract/mine (once),,perf verb
 wydrukować,to print (once),,perf verb
+wydłużać,to lengthen (repeated),,verb
+wydłużyć,to lengthen (once),,perf verb
 wyganiać,to chase off/out (repeated),,verb
 wygonić,to chase off/out (once),,perf verb
 wygrać,to win (once),,perf verb
@@ -3576,6 +3594,8 @@ zagorzały,ardent/staunt/fierce,,adjective
 zagrozić,to threaten (once),,perf verb
 zagrożenie,threat/menace,,n noun
 zagubiony,lost,,adjective
+zagęszczać,to thicken (repeated),,verb
+zagęścić,to thicken (once),,perf verb
 zaimek,pronoun,,m noun
 zaimek dzierżawczy,possessive pronoun,,linguistic
 zaimek wskazujący,demonstrative pronoun,,linguistic
@@ -3691,6 +3711,7 @@ zarośnięty,overgrown,,adjective
 zarumienić się,to blush (once),,perf verb
 zarysować,to scratch (once),,perf verb
 zarysowywać,to scratch (repeated),,verb
+zarzut,accusation/charge,Nie ma zarzutu,m noun
 zarząd,management/administration,,m noun
 zarządzanie,management,,n noun
 zarówno,as well as,,adverb
@@ -3721,6 +3742,7 @@ zasypuję (zasypywać),I am covering up,,conjugation
 zasypywać,to cover up (repeated),,verb
 zaszkodzić komuś/czemuś,to harm somebody/something (once),,perf verb
 zasłaniać,to cover/screen/shield (repeated),,verb
+zasłona,curtain,,f noun
 zasłonić,to cover/screen/shield (once),,perf verb
 zasługiwać,to deserve (repeated),,verb
 zasługujesz (zasługiwać),You deserve,,conjugation
