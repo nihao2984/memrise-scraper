@@ -148,6 +148,7 @@ bezokolicznik,infinitive,,linguistic
 bezowocny,fruitless,,adjective
 bezpieczeństwo,security/safety,,n noun
 bezpieczny,safe,,adjective
+bezradny,helpless/vulnerable,,adjective
 bezrobocie,unemployment,,n noun
 bezsilność,helplessness,,f noun
 bezwzględny,ruthless,,adjective
@@ -1383,6 +1384,7 @@ odnawiać,to renew/restore (repeated),,verb
 odnowisz (odnowić),You will renew/restore,,conjugation
 odnowić,to renew/restore (once),,perf verb
 odnowię (odnowić),I will renew/restore,,conjugation
+odosobnienie,isolation/seclusion,,n noun
 odpady,waste,,f plural noun
 odpoczynek,rest,,m noun
 odpoczywać,to rest (repeated),,verb
@@ -1498,6 +1500,7 @@ oprzeć,to lean/rest (once),,perf verb
 oprócz,"except, apart from",,preposition
 opróżniać,to empty (repeated),,verb
 opróżnić,to empty (once),,perf verb
+opustoszały,deserted,,adjective
 opuszczać,to abandon/leave (repeated),,verb
 opuścić,to abandon/leave (once),,perf verb
 opętany,possessed,,adjective
@@ -1547,6 +1550,7 @@ otrzymywać,to receive/obtain (repeated),,verb
 otulać,to wrap (repeated),,verb
 otulić,to wrap (once),,perf verb
 otwór,hole,Nie ma otworu,m noun
+otyły,obese,,adjective
 otępiały,spaced-out,,adjective
 owad,insect,Nie ma owada,m noun
 oznajmiać,to announce (repeated),,verb
@@ -1609,8 +1613,10 @@ pilnować,"to mind, to tend to, to watch over, to look after",Policjant pilnuje 
 pilny,diligent/conscientious,,adjective
 piorę (prać),I am laundering,,conjugation
 pistolet,pistol,Nie ma pistoletu,m noun
+piwnica,cellar,,f noun
 pięć milionów,five million,,numeral
 pięć tysięcy,five thousand,,numeral
+pięść,fist,,f noun
 piłkarz,football player,,m noun
 plakat,poster,Nie ma plakatu,m noun
 plama,spot/stain,,f noun
@@ -1860,6 +1866,7 @@ powiedz (powiedzieć),Speak! (once),,imperative
 powiedzą (powiedzieć),They will say,,conjugation
 powiem (powiedzieć),I will say,,conjugation
 powierzchnia,surface/area,,f noun
+powierzchowność,superficiality,,f noun
 powietrze,fresh/open air,,n noun
 powinien,He should,,conjugation
 powinienem,I should (m),,conjugation
@@ -1928,6 +1935,7 @@ połykać,to swallow (repeated),,verb
 połączyć,to connect/combine (once),,perf verb
 pościg,pursuit,Nie ma pościgu,m noun
 pośladek,buttock,Nie ma pośladka,m noun
+pośmiewisko,laughing stock,,n noun
 pośpiech,haste/rush,Nie ma pośpiechu,m noun
 pośpieszny,hasty,,adverb
 pośpieszyć,to hurry/rush (once),,perf verb
@@ -2087,6 +2095,7 @@ przesuwać,to move/shift (repeated),,verb
 przeszkadzać,to disturb (repeated),Nie przeszkadzaj mi w czasie pracy,verb
 przeszkoda,obstacle,,f noun
 przeszkodzić,to disturb (once),,perf verb
+przesąd,superstition,Nie ma przesądu,m noun
 przesłanie,message,,n noun
 przesłuchać,to interrogate/question (once),,perf verb
 przesłuchiwać,to interrogate/question (repeated),,verb
@@ -2158,6 +2167,7 @@ przymierzać,to try on (repeated),,verb
 przymierzyć,to try on (once),,perf verb
 przymiotnik,adjective,,m noun
 przynajmniej,at least,,adverb
+przynależność,affiliation/membership,,f noun
 przyniesiesz (przynieść),You will bring (on foot),,conjugation
 przynieś (przynieść),Bring! (on foot) (once),,imperative
 przynieść,to bring (on foot) (once),,perf verb
@@ -2232,6 +2242,7 @@ przyłączać się,to join I (repeated),,verb
 przyłączyć się,to join I (once),,perf verb
 przyśnić się,to dream about (once),,perf verb
 próba,try,"Trzecia próba, trzecia porażka",f noun
+próg,doorstep/threshold,Nie ma progu,m noun
 prąd,electricity,,m noun
 prędkość,speed,,f noun
 psotnik,prankster,,m noun
@@ -2580,6 +2591,8 @@ sprawić,to cause II (once),,perf verb
 sprowadzać,to fetch (repeated),,verb
 sprowadzić,to fetch (once),,perf verb
 sprytny,cunning/shrewd,,adjective
+sprzeciwiać się komuś/czemuś,to oppose somebody/something (repeated),,verb
+sprzeciwić się komuś/czemuś,to oppose somebody/something (once),,perf verb
 sprzeczny,conflicting/contradictory,,adjective
 sprzed,in front/before,Zdjęcia sprzed wojny,preposition
 sprzedawać,to sell (repeated),,verb
@@ -3419,6 +3432,8 @@ wyruszyć,to set out/off (once),,perf verb
 wyróżniać,to single out (repeated),,verb
 wyróżnienie,award or honourable mention,,n noun
 wyróżnić,to single out (once),,perf verb
+wysadzać,to disembark (repeated),,verb
+wysadzić,to disembark (once),,perf verb
 wyschnąć,to dry up (once),,perf verb
 wysiłek,effort,Nie ma wysiłku,m noun
 wysokość,height,,f noun
@@ -3442,6 +3457,7 @@ wyszukiwarka,search engine,,f noun
 wysłać,to send (once),,perf verb
 wytrwać,to persevere,,verb
 wytrwałość,perseverance,,f noun
+wytrych,skeleton key,Nie ma wytrychu,m noun
 wytrzesz (wytrzeć),You will wipe,,conjugation
 wytrzeć,to wipe (once),,perf verb
 wytrzyj (wytrzeć),Wipe! (once),,conjugation
@@ -3584,8 +3600,8 @@ zadanie,job/task,,n noun
 zadawać,to pose/set (repeated),,verb
 zadać,to pose/set (once),,perf verb
 zadbać,to care (for) (once),,perf verb
-zadowalać,to satisfy (repeated),,verb
-zadowolić,to satisfy (once),,perf verb
+zadowalać,to satisfy I (repeated),,verb
+zadowolić,to satisfy I (once),,perf verb
 zadrapanie,scratch,,n noun
 zadrżeć,to shiver (once),,verb
 zadziwiający,astonishing,,adjective
@@ -3660,6 +3676,7 @@ zamiotę (zamieść),I will sweep,,conjugation
 zamożny,wealthy,,adjective
 zamrażarka,freezer,,f noun
 zamroczony,intoxicated,,adjective
+zamyślenie,pensiveness,,n noun
 zamówienia,orders,,f plural noun
 zanieczyszczenie,pollution/contamination,,n noun
 zaniedbać,to neglect (once),,perf verb
@@ -3726,6 +3743,8 @@ zaskakujący,surprising,,adjective
 zaskoczyć,to spring into life (once),,perf verb
 zasmucić się,to be sad (once),,perf verb
 zasnąć,to fall asleep (once),,perf verb
+zaspokajać,to satisfy II (repeated),,verb
+zaspokoić,to satisfy II (once),,perf verb
 zastanawiać się,to consider (repeated),,verb
 zastanowić się,to consider (once),,perf verb
 zastrzyk,injection,Nie ma zastrzyku,m noun
@@ -4090,6 +4109,7 @@ złudzenie,illusion,,n noun
 żal,grief/remorse/grudge,Nie ma żalu,m noun
 żartobliwy,humorous/joking,,adjective
 żarówka,(light) bulb,,f noun
+żałoba,mourning,,f noun
 żałować,to regret (repeated),,verb
 żebro,rib,Nie ma żadnych żeber,n noun
 żeglarka,yachtsman/sailor (female),,f noun
