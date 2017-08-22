@@ -151,6 +151,7 @@ bezpieczny,safe,,adjective
 bezradny,helpless/vulnerable,,adjective
 bezrobocie,unemployment,,n noun
 bezsilność,helplessness,,f noun
+bezsprzezczny,undeniable,,adjective
 bezwzględny,ruthless,,adjective
 bieganie,running,,n noun
 biel,whiteness,,f noun
@@ -853,6 +854,7 @@ liczebnik porządkowy,ordinal number,,adjective
 liczny,numerous,,adjective
 liczyć,to count (repeated),,verb
 lipiec,July,,m noun
+listonosz,postman,,m noun
 listopad,November,,m noun
 litościwy,merciful,,adjective
 lizać,to lick (repeated),,verb
@@ -976,6 +978,7 @@ mroczny,dim/murky/dark,,adjective
 mroźny,frozen,,adjective
 mrożonka,frozen food,,f noun
 mróz,frost,Nie ma mrozu,m noun
+mundur,uniform,Nie ma munduru,m noun
 mur,wall,Upadek muru Berlińskiego,m noun
 musi,He/she/it must,,conjugation
 musiał,He had to,,conjugation
@@ -1012,6 +1015,7 @@ męczący,tiresome/tiring,,adjective
 mędrzec,sage (wise man),Nie ma mędrca,m noun
 męski,masculine,,adjective
 męskoosobowy,masculine personal,,adjective
+mętlik,mess,Nie ma mętliku,m noun
 mężnieć,to grow into a man (repeated),,verb
 młodość,youth,,f noun
 młodzieniec,youth,,m noun
@@ -1023,6 +1027,7 @@ nabijać,to load/charge/fill (repeated),,verb
 nabić,to load/charge/fill (once),,perf verb
 nabrzeże,embankment/pier/wharf,,n noun
 nabrzmiały,swollen,,adjective
+nabyty,acquired,,adjective
 nabój,cartridge/round,Nie ma naboju,m noun
 nachylać się,to bend down/lean (repeated),,verb
 nachylić się,to bend down/lean (once),,perf verb
@@ -1048,6 +1053,7 @@ nadzieję (nadziać),I will impale,,conjugation
 nadziewać,to impale (repeated),,verb
 nadzwyczaj,unusually,,adverb
 nago,naked,,adverb
+nagość,nudity,,f noun
 nagranie,recording,,n noun
 nagroda,prize,,f noun
 nagrodzony,award-winning,,adjective
@@ -1206,6 +1212,7 @@ niezależny,independent,,adjective
 niezbadany,unexplored,,adjective
 niezbędny,indispensable/necessary/essential,,adjective
 niezgodność,incompatibility,,f noun
+nieznaczny,insignificant/slight,,adjective
 nieznajomy,stranger,,m noun
 nieznośny,unbearable,,adjective
 niezrozumiały,incomprehensible/unintelligible,,adjective
@@ -1392,6 +1399,7 @@ odkręć (odkręcić),Unscrew/loosen! (once),,imperative
 odkurzacz,vacuum cleaner,,m noun
 odkurzać,to vacuum (repeated),,verb
 odkurzyć,to vacuum (once),,perf verb
+odkąd,ever since,,adverb
 odkładać,to put back (repeated),,verb
 odległość,distance,,f noun
 odległy,distant/remote,,adjective
@@ -1439,6 +1447,8 @@ odstawić,to put aside/away (once),,perf verb
 odsunąć się,to back off/away (once),,perf verb
 odsuwać się,to back off/away (repeated),,verb
 odsyłać,to send back (repeated),,verb
+odsłaniać,to reveal/unveil (repeated),,verb
+odsłonić,to reveal/unveil (once),,perf verb
 odtruć,to detoxify,,verb
 odtąd,from now on,,adverb
 odwaga,courage,,f noun
@@ -1509,6 +1519,7 @@ okłamywać kogoś,to deceive (or lie to) somebody (repeated),,verb
 olbrzymi,gigantic,,adjective
 omijać,to bypass/avoid/evade (repeated),,verb
 ominąć,to bypass/avoid/evade (once),,perf verb
+oniemieć,to be struck dumb,,verb
 opaska,bandage/armband,,f noun
 opieka,care,,f noun
 opiekować się,to look after (repeated),,verb
@@ -1584,6 +1595,7 @@ oznajmiać,to announce (repeated),,verb
 oznajmić,to announce (once),,perf verb
 oznaka,symptom/sign/indicator,,f noun
 oznakować,to mark (once),,perf verb
+oścież,wide open,,f noun
 ośmielać,to encourage (repeated),,verb
 ośmielić,to encourage (once),,perf verb
 ośmieszać,to ridicule (repeated),,verb
@@ -1596,6 +1608,7 @@ oświetlenie,illumination/lighting,,n noun
 ożenić,to get married (to a woman) (once),,perf verb
 pacha,armpit,,f noun
 pachnący,fragrant,,adjective
+paciorek,bead,Nie ma paciorka,m noun
 paczka,package/parcel,,f noun
 pajac,puppet,,m noun
 pajęczyna,cobweb,,f noun
@@ -1835,6 +1848,7 @@ porwany,kidnapped,,adjective
 porwać,to kidnap (once),,perf verb
 porwiesz (porwać),You will kidnap,,conjugation
 porwę (porwać),I will kidnap,,conjugation
+poryw,gust,Nie ma porywu,m noun
 porywacz,kidnapper,,m noun
 porywać,to kidnap (repeated),,verb
 porzucać,to abandon (repeated),,verb
@@ -1895,10 +1909,12 @@ powiadamiać,to notify (repeated),,verb
 powiadomić,to notify (once),,perf verb
 powiedz (powiedzieć),Speak! (once),,imperative
 powiedzą (powiedzieć),They will say,,conjugation
+powieka,eyelid,,f noun
 powiem (powiedzieć),I will say,,conjugation
 powierzchnia,surface/area,,f noun
 powierzchowność,superficiality,,f noun
 powietrze,fresh/open air,,n noun
+powikłanie,difficulty/complication,,n noun
 powinien,He should,,conjugation
 powinienem,I should (m),,conjugation
 powinieneś,You should (m),,conjugation
@@ -2114,6 +2130,7 @@ przesadzić,to exaggerate (once),,perf verb
 przesiadać się,to change seats (repeated),,verb
 przesilenie,solstice/crisis,,n noun
 przesiąść się,to change seats (once),,perf verb
+przestarzały,outdated/obsolete,,adjective
 przestawać,to stop doing (repeated),Przestań!,verb
 przestać,to stop doing (once),Przestań!,perf verb
 przestraszać się,to be frightened (repeated),,verb
@@ -2227,6 +2244,7 @@ przyrzec,to promise II (once),,perf verb
 przyrzekać,to promise II (repeated),,verb
 przyrzekniesz (przyrzec),You will promise,,conjugation
 przyrzeknę (przyrzec),I will promise,,conjugation
+przyrząd,instrument/apparatus,Nie ma przyrządu,m noun
 przysięga,oath/swearing,,f noun
 przyspieszać,to accelerate (repeated),,verb
 przyspieszyć,to accelerate (once),,perf verb
@@ -2371,6 +2389,8 @@ rozbierać,to undress (repeated),,verb
 rozbijać,to break/shatter (repeated),,verb
 rozbić,to break/shatter (once),,perf verb
 rozbrykany,frisky,,adjective
+rozchylać,"to part, to half-open (repeated)",,verb
+rozchylić,"to part, to half-open (once)",,perf verb
 rozciągać,to spread (repeated),,verb
 rozciągnąć,to spread (once),,perf verb
 rozczarowany,disappointed,,adjective
@@ -2497,6 +2517,7 @@ równouprawnienie,equal rights (equality),,n noun
 równowaga,balance,,f noun
 równość,equality,,f noun
 równy,flat/level/even/equal,,adjective
+różaniec,rosary,Nie ma różańca,m noun
 różnica,difference,,f noun
 różnić się,to differ,,verb
 różnorodność,variety,,f noun
@@ -2532,6 +2553,7 @@ sierpień,August,,m noun
 sierść,fur,,f noun
 sieć,fishing net,,f noun
 silnik,motor/engine,,m noun
+siny,bluish,,adjective
 siodło,saddle,,n noun
 siądziesz (siąść),You will sit,,conjugation
 siądę (siąść),I will sit,,conjugation
@@ -2934,6 +2956,8 @@ udział,participation,Brać udział w czymś (to take part in something),m noun
 udzielać,to dish out (repeated),,verb
 udzielić,to dish out (once),,perf verb
 ufać,to trust (repeated),,verb
+ujawniać,to disclose (repeated),,verb
+ujawnić,to disclose (once),,perf verb
 ujść za kogoś,to pass as somebody (once),,perf verb
 ukarać,to punish (once),,perf verb
 ukazać,to portray/depict (once),,perf verb
@@ -3120,6 +3144,7 @@ uzupełniać,to fill out (repeated),,verb
 uzupełnić,to fill out (once),,verb
 ułamek,fraction,Nie ma ułamka,m noun
 ułożyć,to arrange/align (once),,perf verb
+uścisk,grip/clasp,Nie ma uścisku,m noun
 uśmierzać,to relieve/soothe (repeated),,verb
 uśmierzyć,to relieve/soothe (once),,perf verb
 uśpisz (uśpić),You will put to sleep,,conjugation
@@ -3144,6 +3169,7 @@ walać się,to scatter about,,verb
 walka,fight/battle/struggle,,f noun
 walor,virtue II,Nie ma waloru,m noun
 waluta,currency,W jakiej walucie (loc.) płacisz? (In which currency are you paying?),f noun
+warkocz,braid/plait,,m noun
 warownia,stronghold,,f noun
 warstwa,layer/coat,,f noun
 warsztat,workshop,,m noun
@@ -3465,6 +3491,7 @@ wyprowadzać się,to move out (repeated),,verb
 wyprowadzić się,to move out (once),,perf verb
 wyprzedaż,clearance sale,,m noun
 wyprzeć,to displace/oust (once),,perf verb
+wypukłość,protrusion/convexity,,f noun
 wypuszczać,to release (repeated),,verb
 wypuszczę (wypuścić),I will release,,conjugation
 wypuścisz (wypuścić),You will release,,conjugation
@@ -3517,6 +3544,8 @@ wysłać,to send (once),,perf verb
 wytrwać,to persevere,,verb
 wytrwałość,perseverance,,f noun
 wytrych,skeleton key,Nie ma wytrychu,m noun
+wytryskiwać,to spurt (repeated),,verb
+wytrysnąć,to spurt (once),,perf verb
 wytrzesz (wytrzeć),You will wipe,,conjugation
 wytrzeć,to wipe (once),,perf verb
 wytrzyj (wytrzeć),Wipe! (once),,conjugation
@@ -4036,6 +4065,7 @@ zmoczyć,to wet (once),,perf verb
 zmrok,dark,Nie ma zmroku,m noun
 zmusić się,to force (once),,perf verb
 zmuszać się,to force (repeated),,verb
+zmysłowy,sensuous/voluptuous,,adjective
 zmęczenie,tiredness/fatigue,,n noun
 zmęczyć się,to suffer II (once),,perf verb
 zmężnieć,to grow into a man (once),,perf verb
